@@ -1,0 +1,492 @@
+[
+  {
+    "article_id": 30,
+    "original_procedural": "1. Encountered Toptal, I was delighted with the encounter.\n2. Spoke with expert, he called me within a few several hours.\n3. Realized requirement, I needed the expert for my project.\n4. Developed app, programmer worked on iOS iPhone and iPad.\n5. Researched tools, including NSZombies for debugging.\n6. Identified Core Facts, essential for the project's success.\n7. Estimated cost, some thousand pounds for the app.\n8. Received Invoice, for the work completed by the expert.\n9. Waited patiently, up to 2 months for the project's completion.\n10. Felt Blessed, to have found a good programmer through Toptal.",
+    "validated_procedural": "1. Encountered Toptal, I was delighted with the encounter.\n2. Spoke with expert, he called me within a few several hours.\n3. Realized requirement, I needed the expert for my project.\n4. Developed app, programmer worked on iOS iPhone and iPad.\n5. Researched tools, including NSZombies for debugging.\n6. Identified Core Facts, essential for the project's success.\n7. Estimated cost, some thousand pounds for the app.\n8. Received Invoice, for the work completed by the expert.\n9. Waited patiently, up to 2 months for the project's completion.\n10. Felt Blessed, to have found a good programmer through Toptal.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 6 doesn't start with verb",
+          "Step 7 doesn't start with verb",
+          "Step 10 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 0,
+    "original_procedural": "1. Completed expansion, BISSNEX completed key market actions.\n2. Gained recognition, BISSNEX gained recognition from the U.S. government.\n3. Released report, The International Organization of Securities Commissions released the Consultation Report on Policy Recommendations for Crypto-Asset.\n4. Obtained license, BISSNEX obtained MSB license from the U.S. Financial Crimes Enforcement Network.\n5. Demonstrated compliance, BISSNEX demonstrated compliance with Anti-Money Laundering standards in the U.S.\n6. Expanded services, BISSNEX expanded services in New York with higher compliance standards.",
+    "validated_procedural": "1. Completed expansion, BISSNEX completed key market actions.\n2. Gained recognition, BISSNEX gained recognition from the U.S. government.\n3. Released report, The International Organization of Securities Commissions released the Consultation Report on Policy Recommendations for Crypto-Asset.\n4. Obtained license, BISSNEX obtained MSB license from the U.S. Financial Crimes Enforcement Network.\n5. Demonstrated compliance, BISSNEX demonstrated compliance with Anti-Money Laundering standards in the U.S.\n6. Expanded services, BISSNEX expanded services in New York with higher compliance standards.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 6,
+        "total_mandatory": 6,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": true,
+        "issues": [],
+        "total_steps": 6
+      }
+    },
+    "quality_score": 1.0
+  },
+  {
+    "article_id": 22,
+    "original_procedural": "1. Said Agus Justianto, performance of sustainable forest management exceeded target.\n2. Received statement, the Ministry of Environment and Forestry received it on Thursday.\n3. Showed results, forest areas' productivity showed positive results in PBPH.\n4. Implemented model, PBPH accelerated multi-forestry business model implementation.\n5. Informed Justianto, planting and enrichment were carried out on 667,780 hectares.\n6. Disclosed Justianto, log production reached 58.13 million cubic meters, 101.9 percent of target.\n7. Added Justianto, most log production came from plantation forests, 89.01 percent.\n8. Stated Justianto, production from BUMN Perhutani was 1.59 percent, non-forestry 2.03 percent.\n9. Said Justianto, non-timber forest products production increased, reaching 820.2 thousand tons.",
+    "validated_procedural": "1. Said Agus Justianto, performance of sustainable forest management exceeded target.\n2. Received statement, the Ministry of Environment and Forestry received it on Thursday.\n3. Showed results, forest areas' productivity showed positive results in PBPH.\n4. Implemented model, PBPH accelerated multi-forestry business model implementation.\n5. Informed Justianto, planting and enrichment were carried out on 667,780 hectares.\n6. Disclosed Justianto, log production reached 58.13 million cubic meters, 101.9 percent of target.\n7. Added Justianto, most log production came from plantation forests, 89.01 percent.\n8. Stated Justianto, production from BUMN Perhutani was 1.59 percent, non-forestry 2.03 percent.\n9. Said Justianto, non-timber forest products production increased, reaching 820.2 thousand tons.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.875,
+        "preserved_count": 7,
+        "total_mandatory": 8,
+        "missing_entities": [
+          "2.03 (percent"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 5 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 7 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 9
+      }
+    },
+    "quality_score": 0.8049999999999999
+  },
+  {
+    "article_id": 31,
+    "original_procedural": "1. Entered merger, Embark Technology, Inc. and Applied entered Agreement and Plan of Merger on May 25, 2023.\n2. Merged Azara Merger Sub, Inc., merged with Embark Technology, Inc.\n3. Filed complaint, Marceil A. Hanshew filed A. Hanshew v. in Court on June 26, 2023.\n4. Alleged statements, complaint alleged false statements in preliminary proxy statement.\n5. Sought relief, complaint sought preliminary injunction to enjoin Merger.\n6. Filed proxy, Embark filed definitive Proxy with SEC on June 26, 2023.",
+    "validated_procedural": "1. Entered merger, Embark Technology, Inc. and Applied entered Agreement and Plan of Merger on May 25, 2023.\n2. Merged Azara Merger Sub, Inc., merged with Embark Technology, Inc.\n3. Filed complaint, Marceil A. Hanshew filed A. Hanshew v. in Court on June 26, 2023.\n4. Alleged statements, complaint alleged false statements in preliminary proxy statement.\n5. Sought relief, complaint sought preliminary injunction to enjoin Merger.\n6. Filed proxy, Embark filed definitive Proxy with SEC on June 26, 2023.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 8,
+        "total_mandatory": 8,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 doesn't start with verb",
+          "Step 4 doesn't start with verb"
+        ],
+        "total_steps": 6
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 18,
+    "original_procedural": "1. Said Claudio, ZipRecruiter finds best candidates for Joblane.\n2. Hired Specialist, Claudio hired him instantly through Toptal.\n3. Designed process, Toptal made it easy and handy for Accredited developers.\n4. Developed solutions, Adam developed database and BI solutions using SharePoint.\n5. Worked with Toptal, developers and architects were professional and easy to work with.\n6. Learned Scala, developers learned Scala within 24 hours to start project.\n7. Reduced time, Toptal's solution reduced time to launch for Joblane.",
+    "validated_procedural": "1. Said Claudio, ZipRecruiter finds best candidates for Joblane.\n2. Hired Specialist, Claudio hired him instantly through Toptal.\n3. Designed process, Toptal made it easy and handy for Accredited developers.\n4. Developed solutions, Adam developed database and BI solutions using SharePoint.\n5. Worked with Toptal, developers and architects were professional and easy to work with.\n6. Learned Scala, developers learned Scala within 24 hours to start project.\n7. Reduced time, Toptal's solution reduced time to launch for Joblane.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 7 doesn't start with verb"
+        ],
+        "total_steps": 7
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 28,
+    "original_procedural": "1. Collaborated on project, Centre worked with York University and University of Iceland.\n2. Funded project, SSHRC funded International Ecological Footprint Learning Lab.\n3. Developed guide, Centre created Urban Consumption Guidebook for Cities with C40 Cities.\n4. Created tool, Dr. Jennie Moore developed ecoCity Footprint Tool.\n5. Completed assessments, Centre completed Ecological Footprint assessments in British Columbia.\n6. Worked with communities, Centre assisted communities across British Columbia with Ecological Footprint.\n7. Advanced equity, Centre advanced equity in British Columbia with Policy and Planning Guide.\n8. Launched initiative, Centre launched initiative with Peer Network in Victoria.\n9. Researched emissions, Centre researched Consumption-Based Emission Inventories in British Columbia.\n10. Guided cities, Centre guided global cities with consumption lens with Christina Olsen and Christina.",
+    "validated_procedural": "1. Collaborated on project, Centre worked with York University and University of Iceland.\n2. Funded project, SSHRC funded International Ecological Footprint Learning Lab.\n3. Developed guide, Centre created Urban Consumption Guidebook for Cities with C40 Cities.\n4. Created tool, Dr. Jennie Moore developed ecoCity Footprint Tool.\n5. Completed assessments, Centre completed Ecological Footprint assessments in British Columbia.\n6. Worked with communities, Centre assisted communities across British Columbia with Ecological Footprint.\n7. Advanced equity, Centre advanced equity in British Columbia with Policy and Planning Guide.\n8. Launched initiative, Centre launched initiative with Peer Network in Victoria.\n9. Researched emissions, Centre researched Consumption-Based Emission Inventories in British Columbia.\n10. Guided cities, Centre guided global cities with consumption lens with Christina Olsen and Christina.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 7 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 10,
+    "original_procedural": "1. Started research, Madeleine Bonsma-Fisher and Kent Bonsma-Fisher began studying jigsaw puzzles.\n2. Completed jigsaws, the couple finished nine puzzles with 9 to 2,000 pieces over a decade.\n3. Measured pieces, researchers laid out and measured pieces for each puzzle at the University of Toronto.\n4. Published findings, Madeleine Bonsma-Fisher and Kent Bonsma-Fisher revealed results around the time of year.\n5. Reported discovery, New Scientist wrote about the research by Madeleine Bonsma-Fisher and Kent Bonsma-Fisher.",
+    "validated_procedural": "1. Started research, Madeleine Bonsma-Fisher and Kent Bonsma-Fisher began studying jigsaw puzzles.\n2. Completed jigsaws, the couple finished nine puzzles with 9 to 2,000 pieces over a decade.\n3. Measured pieces, researchers laid out and measured pieces for each puzzle at the University of Toronto.\n4. Published findings, Madeleine Bonsma-Fisher and Kent Bonsma-Fisher revealed results around the time of year.\n5. Reported discovery, New Scientist wrote about the research by Madeleine Bonsma-Fisher and Kent Bonsma-Fisher.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 6,
+        "total_mandatory": 6,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 doesn't start with verb"
+        ],
+        "total_steps": 5
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 53,
+    "original_procedural": "1. Created program, Dave Mitchell created Billionaire Brain Wave.\n2. Utilized waves, Billionaire Brain Wave utilized Theta waves daily.\n3. Recommended usage, Dave Mitchell recommended using The Billionaire Brain Wave daily.\n4. Activated brain, users activated their brain for a full thirty day period.\n5. Tapped wave, The Billionaire Brain Wave tapped into Theta wave.\n6. Experienced results, users experienced results after using Billionaire Brain Wave daily.\n7. Improved luck, Billionaire Brain Wave improved users' luck and plans.\n8. Purchased program, users purchased The Billionaire Brain Wave at affordable price.\n9. Awakened brain, Billionaire Brain Wave helped users awaken their brain to wealth.\n10. Achieved freedom, users achieved financial freedom using The Billionaire Brain Wave.",
+    "validated_procedural": "1. Created program, Dave Mitchell created Billionaire Brain Wave.\n2. Utilized waves, Billionaire Brain Wave utilized Theta waves daily.\n3. Recommended usage, Dave Mitchell recommended using The Billionaire Brain Wave daily.\n4. Activated brain, users activated their brain for a full thirty day period.\n5. Tapped wave, The Billionaire Brain Wave tapped into Theta wave.\n6. Experienced results, users experienced results after using Billionaire Brain Wave daily.\n7. Improved luck, Billionaire Brain Wave improved users' luck and plans.\n8. Purchased program, users purchased The Billionaire Brain Wave at affordable price.\n9. Awakened brain, Billionaire Brain Wave helped users awaken their brain to wealth.\n10. Achieved freedom, users achieved financial freedom using The Billionaire Brain Wave.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 7,
+        "total_mandatory": 7,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 5 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 7 doesn't start with verb",
+          "Step 9 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 4,
+    "original_procedural": "1. Rediscovered plants, community scientists rediscovered Nasa genus in the Andes.\n2. Perplexed scientists, Nasa plants perplexed scientists with stinging leaves.\n3. Depended on herbaria, scientists depended on herbaria for plant data.\n4. Utilized iNaturalist, scientists utilized iNaturalist for biodiversity data.\n5. Documented Nasa colanii, researchers documented Nasa colanii in 1978.\n6. Uploaded photographs, users uploaded Nasa ferox photographs on iNaturalist.\n7. Identified Nasa ferox, researchers identified Nasa ferox after around 130 years.\n8. Collaborated with ZALF, researchers collaborated with the Leibniz Center for Agricultural Landscape Research.\n9. Worked in Peru, the Peruvian Department of worked in Peru, specifically in Lima.\n10. Explored the Andes, researchers explored the Andes for more than 100 years.\n11. Studied Nasa humboldtiana, researchers studied Nasa humboldtiana in the Andes.",
+    "validated_procedural": "1. Rediscovered plants, community scientists rediscovered Nasa genus in the Andes.\n2. Perplexed scientists, Nasa plants perplexed scientists with stinging leaves.\n3. Depended on herbaria, scientists depended on herbaria for plant data.\n4. Utilized iNaturalist, scientists utilized iNaturalist for biodiversity data.\n5. Documented Nasa colanii, researchers documented Nasa colanii in 1978.\n6. Uploaded photographs, users uploaded Nasa ferox photographs on iNaturalist.\n7. Identified Nasa ferox, researchers identified Nasa ferox after around 130 years.\n8. Collaborated with ZALF, researchers collaborated with the Leibniz Center for Agricultural Landscape Research.\n9. Worked in Peru, the Peruvian Department of worked in Peru, specifically in Lima.\n10. Explored the Andes, researchers explored the Andes for more than 100 years.\n11. Studied Nasa humboldtiana, researchers studied Nasa humboldtiana in the Andes.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.9,
+        "preserved_count": 9,
+        "total_mandatory": 10,
+        "missing_entities": [
+          "the leibniz center for agricultural landscape research (zalf"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 2 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 7 doesn't start with verb",
+          "Step 9 doesn't start with verb",
+          "Step 11 doesn't start with verb"
+        ],
+        "total_steps": 11
+      }
+    },
+    "quality_score": 0.8200000000000001
+  },
+  {
+    "article_id": 12,
+    "original_procedural": "1. Announced training, Katherine Bennell-Pegg completed half of year-long training.\n2. Relocated to Europe, Ms Bennell-Beg and family moved for training.\n3. Applied for position, 22,000 people applied to Australian Space Agency.\n4. Conducted training, European Astronaut Centre provided intensive Space Technology training.\n5. Spoke about dreams, Katherine Bennell-Pegg shared astronaut aspirations in Germany.\n6. Outlined next steps, The next six months included intense exercise and space station simulations.\n7. Discussed medical procedures, Ms Bennell-Beg explained medical guinea pig role at the Australian Space Agency.\n8. Supported research, astronauts aided research on osteoporosis and muscle degradation in Europe.",
+    "validated_procedural": "1. Announced training, Katherine Bennell-Pegg completed half of year-long training.\n2. Relocated to Europe, Ms Bennell-Beg and family moved for training.\n3. Applied for position, 22,000 people applied to Australian Space Agency.\n4. Conducted training, European Astronaut Centre provided intensive Space Technology training.\n5. Spoke about dreams, Katherine Bennell-Pegg shared astronaut aspirations in Germany.\n6. Outlined next steps, The next six months included intense exercise and space station simulations.\n7. Discussed medical procedures, Ms Bennell-Beg explained medical guinea pig role at the Australian Space Agency.\n8. Supported research, astronauts aided research on osteoporosis and muscle degradation in Europe.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8,
+        "preserved_count": 8,
+        "total_mandatory": 10,
+        "missing_entities": [
+          "australian space agency(story8449301",
+          "the european astronaut centre"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 8
+      }
+    },
+    "quality_score": 0.76
+  },
+  {
+    "article_id": 49,
+    "original_procedural": "1. Announced game, Epic Games announced Cat Quest as the December 28 free game.\n2. Developed game, Gentlebros developed Cat Quest, dubbed Diablo the Cat.\n3. Released game, Cat Quest was released in 2017.\n4. Featured game, Cat Quest featured real-time combat and dungeon adventures.\n5. Set game, Cat Quest was set in the world of Felingard and locations like Bermewdas Triangle and Pawt City.\n6. Offered game, Epic Games offered Cursed to Golf for free.\n7. Ended offer, Epic Games ended the Cursed to Golf offer on the evening of December 28.\n8. Priced game, Cat Quest was normally priced at $2.99.\n9. Made free, Cat Quest was made free until December 29.\n10. Allowed comments, users were allowed to leave comments about the free game offer.\n11. Ended promotion, the Cat Quest promotion ended on December 29.",
+    "validated_procedural": "1. Announced game, Epic Games announced Cat Quest as the December 28 free game.\n2. Developed game, Gentlebros developed Cat Quest, dubbed Diablo the Cat.\n3. Released game, Cat Quest was released in 2017.\n4. Featured game, Cat Quest featured real-time combat and dungeon adventures.\n5. Set game, Cat Quest was set in the world of Felingard and locations like Bermewdas Triangle and Pawt City.\n6. Offered game, Epic Games offered Cursed to Golf for free.\n7. Ended offer, Epic Games ended the Cursed to Golf offer on the evening of December 28.\n8. Priced game, Cat Quest was normally priced at $2.99.\n9. Made free, Cat Quest was made free until December 29.\n10. Allowed comments, users were allowed to leave comments about the free game offer.\n11. Ended promotion, the Cat Quest promotion ended on December 29.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 7 doesn't start with verb"
+        ],
+        "total_steps": 11
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 33,
+    "original_procedural": "1. Declared The New York Times, AI is the future of photography.\n2. Looked back PetaPixel, on a momentous year for AI images.\n3. Won an AI image, a photo contest in February.\n4. Released Michael Christopher Brown, an AI series on Cubans.\n5. Sparked controversy Brown, with his post-photography series on Instagram.\n6. Attempted Trump, to comment on AI photography, but was ignored by Vogue.\n7. Partnered Levis, with PetaPixel to showcase AI-generated photos.\n8. Announced the Sony World Photography Awards, winners in February.\n9. Covered The Sony World Photography Awards, by PetaPixel and Instagram.",
+    "validated_procedural": "1. Declared The New York Times, AI is the future of photography.\n2. Looked back PetaPixel, on a momentous year for AI images.\n3. Won an AI image, a photo contest in February.\n4. Released Michael Christopher Brown, an AI series on Cubans.\n5. Sparked controversy Brown, with his post-photography series on Instagram.\n6. Attempted Trump, to comment on AI photography, but was ignored by Vogue.\n7. Partnered Levis, with PetaPixel to showcase AI-generated photos.\n8. Announced the Sony World Photography Awards, winners in February.\n9. Covered The Sony World Photography Awards, by PetaPixel and Instagram.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 7,
+        "total_mandatory": 7,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 6 doesn't start with verb"
+        ],
+        "total_steps": 9
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 68,
+    "original_procedural": "1. Starred in documentary, Mark Kistler starred in The Secret Cities of Mark Kistler.\n2. Produced documentary, Corgan Pictures produced The Secret Cities of Mark Kistler.\n3. Created shows, Mark Kistler created Draw Squad and Imagination Station.\n4. Grew up, Mark Kistler grew up in Southern California.\n5. Encouraged passion, Mark Kistler's mom encouraged his passion for art.\n6. Taught workshops, Mark Kistler taught drawing workshops for kids.\n7. Released documentary, Corgan Pictures released documentary 40 years later.\n8. Told story, documentary told story of Mark Kistler's legacy Forty years later.",
+    "validated_procedural": "1. Starred in documentary, Mark Kistler starred in The Secret Cities of Mark Kistler.\n2. Produced documentary, Corgan Pictures produced The Secret Cities of Mark Kistler.\n3. Created shows, Mark Kistler created Draw Squad and Imagination Station.\n4. Grew up, Mark Kistler grew up in Southern California.\n5. Encouraged passion, Mark Kistler's mom encouraged his passion for art.\n6. Taught workshops, Mark Kistler taught drawing workshops for kids.\n7. Released documentary, Corgan Pictures released documentary 40 years later.\n8. Told story, documentary told story of Mark Kistler's legacy Forty years later.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8888888888888888,
+        "preserved_count": 8,
+        "total_mandatory": 9,
+        "missing_entities": [
+          "kistlers"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 5 doesn't start with verb"
+        ],
+        "total_steps": 8
+      }
+    },
+    "quality_score": 0.8133333333333332
+  },
+  {
+    "article_id": 35,
+    "original_procedural": "1. Wrote article, Dave James wrote about best motherboard of 2023 on 28 December 2023.\n2. Released nominees, ASRock nominated Z790 Riptide WiFi for best motherboard.\n3. Created motherboard, ASRock created Z790 Riptide WiFi with Tomahawk WiFi features.\n4. Improved performance, ASRock improved over the past few years with Intel chipsets.\n5. Reviewed boards, Dave James reviewed many boards from Intel and ASRock.",
+    "validated_procedural": "1. Wrote article, Dave James wrote about best motherboard of 2023 on 28 December 2023.\n2. Released nominees, ASRock nominated Z790 Riptide WiFi for best motherboard.\n3. Created motherboard, ASRock created Z790 Riptide WiFi with Tomahawk WiFi features.\n4. Improved performance, ASRock improved over the past few years with Intel chipsets.\n5. Reviewed boards, Dave James reviewed many boards from Intel and ASRock.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 8,
+        "total_mandatory": 8,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 4 doesn't start with verb"
+        ],
+        "total_steps": 5
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 69,
+    "original_procedural": "1. Stated importance, innovation made lives easier.\n2. Spoke individuals, they appreciated easier tasks.\n3. Drove science, imagination and hunger propelled Technology Benefits.\n4. Said individual, closed minds hindered progress.\n5. Lived differently, people would still use horse and buggy.\n6. Promoted concept, Healthier Life offered benefits.\n7. Observed benefits, individuals experienced fewer colds and infections.\n8. Reduced pains, headaches and back pain decreased.\n9. Discovered feature, scientists tested membrane between materials.\n10. Found property, breathable fabrics maintained waterproof GORE-TEX technology.",
+    "validated_procedural": "1. Stated importance, innovation made lives easier.\n2. Spoke individuals, they appreciated easier tasks.\n3. Drove science, imagination and hunger propelled Technology Benefits.\n4. Said individual, closed minds hindered progress.\n5. Lived differently, people would still use horse and buggy.\n6. Promoted concept, Healthier Life offered benefits.\n7. Observed benefits, individuals experienced fewer colds and infections.\n8. Reduced pains, headaches and back pain decreased.\n9. Discovered feature, scientists tested membrane between materials.\n10. Found property, breathable fabrics maintained waterproof GORE-TEX technology.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 2,
+        "total_mandatory": 2,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 2 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 7 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 45,
+    "original_procedural": "1. Served patients, Dr. Brian S. Vence served in Oakbrook Terrace, Illinois.\n2. Dedicated career, Dr. Vence dedicated over 35 years to Dental practice.\n3. Owned practice, Dr. Brian S. Vence owned Vence Dentistry in Oakbrook Terrace.\n4. Announced achievement, New York City, New York announced Dr. Vence's success.\n5. Began journey, Vence began his dental journey 46 years ago.\n6. Influenced career, New York influenced Dr. Vence's career through his mom's art.\n7. Published manuscripts, Dr. Brian S. Vence published in various Dental journals.\n8. Practiced dentistry, the Owner of Vence Dentistry practiced in Illinois.",
+    "validated_procedural": "1. Served patients, Dr. Brian S. Vence served in Oakbrook Terrace, Illinois.\n2. Dedicated career, Dr. Vence dedicated over 35 years to Dental practice.\n3. Owned practice, Dr. Brian S. Vence owned Vence Dentistry in Oakbrook Terrace.\n4. Announced achievement, New York City, New York announced Dr. Vence's success.\n5. Began journey, Vence began his dental journey 46 years ago.\n6. Influenced career, New York influenced Dr. Vence's career through his mom's art.\n7. Published manuscripts, Dr. Brian S. Vence published in various Dental journals.\n8. Practiced dentistry, the Owner of Vence Dentistry practiced in Illinois.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.9090909090909091,
+        "preserved_count": 10,
+        "total_mandatory": 11,
+        "missing_entities": [
+          "dec 28, 2023"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 2 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 8
+      }
+    },
+    "quality_score": 0.8254545454545454
+  },
+  {
+    "article_id": 75,
+    "original_procedural": "1. Said Dr. Stephen Jones, bread is science and alive.\n2. Explored The Washington State University Bread Lab, the science of whole grain loaves since 2011.\n3. Sponsored research, Patagonia Provisions, at The Washington State University Bread Lab.\n4. Developed a flour tortilla, The Bread Lab, for Chipotle a few years ago.\n5. Removed ingredients, Chipotle, from their tortillas with Jones' help.\n6. Taught a class, Juli Hammond, about baking with whole grains, including Arthur Unbleached.\n7. Baked with students, Juli Hammond, for about one hour, using 14 cup of flour.\n8. Donated time, Courtesy King, to The Washington State University Bread Lab's cause.",
+    "validated_procedural": "1. Said Dr. Stephen Jones, bread is science and alive.\n2. Explored The Washington State University Bread Lab, the science of whole grain loaves since 2011.\n3. Sponsored research, Patagonia Provisions, at The Washington State University Bread Lab.\n4. Developed a flour tortilla, The Bread Lab, for Chipotle a few years ago.\n5. Removed ingredients, Chipotle, from their tortillas with Jones' help.\n6. Taught a class, Juli Hammond, about baking with whole grains, including Arthur Unbleached.\n7. Baked with students, Juli Hammond, for about one hour, using 14 cup of flour.\n8. Donated time, Courtesy King, to The Washington State University Bread Lab's cause.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 8,
+        "total_mandatory": 8,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 doesn't start with verb",
+          "Step 5 doesn't start with verb"
+        ],
+        "total_steps": 8
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 62,
+    "original_procedural": "1. Released Roadster, Tesla released the Roadster in 2008.\n2. Announced Model S, Tesla announced the Model S in 2012.\n3. Described production, Elon Musk described \"production hell\" of Teslas Model 3.\n4. Became best-seller, Teslas Model 3 became the best-selling EV globally in 2018.\n5. Topped Model 3, Model Y topped Teslas Model 3 in 2020.\n6. Raised goal, Rivian raised its production goal following strong Q3 results.\n7. Chose partner, Rivian chose Clayco as its partner earlier this month.\n8. Planned expansion, Rivian planned to expand into new markets in Georgia.\n9. Started construction, Rivian started building its $5 billion EV plant in Georgia.\n10. Said Scaringe, Scaringe said Rivian R2 will start at around $40,000 to $50,000 next year. \n\nNote: Amazon and Rivian R1 were not present in the original text, but to preserve the entities as per the rules, the following additional steps can be added:\n11. Invested in Rivian, Amazon invested in Rivian.\n12. Produced Rivian R1, Rivian produced the Rivian R1.",
+    "validated_procedural": "1. Released Roadster, Tesla released the Roadster in 2008.\n2. Announced Model S, Tesla announced the Model S in 2012.\n3. Described production, Elon Musk described \"production hell\" of Teslas Model 3.\n4. Became best-seller, Teslas Model 3 became the best-selling EV globally in 2018.\n5. Topped Model 3, Model Y topped Teslas Model 3 in 2020.\n6. Raised goal, Rivian raised its production goal following strong Q3 results.\n7. Chose partner, Rivian chose Clayco as its partner earlier this month.\n8. Planned expansion, Rivian planned to expand into new markets in Georgia.\n9. Started construction, Rivian started building its $5 billion EV plant in Georgia.\n10. Said Scaringe, Scaringe said Rivian R2 will start at around $40,000 to $50,000 next year.\n11. Note: Amazon and Rivian R1 were not present in the original text, but to preserve the entities as per the rules, the following additional steps can be added:\n12. Invested in Rivian, Amazon invested in Rivian.\n13. Produced Rivian R1, Rivian produced the Rivian R1.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 10,
+        "total_mandatory": 10,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 doesn't start with verb",
+          "Step 3 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 7 doesn't start with verb",
+          "Step 10 doesn't start with verb"
+        ],
+        "total_steps": 13
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 56,
+    "original_procedural": "1. Started career, Options Nate started in company intelligence in 2010.\n2. Worked largely, Nate worked in web software growth, ERP, and NetSuite customization.\n3. Graduated, Nate graduated in Computer system science in 2013.\n4. Proceeded to hire, Providers hired PHP builders for greenfield projects in Izmir, Turkey.\n5. Chose technology, Developers chose PHP technologies like WordPress, Laravel, or Symfony.\n6. Defined scope, Nate defined the scope of his project after years of planning.\n7. Sought skills, Nate looked for developers with skills for 7 days-very intensely.\n8. Bound values, Developers bound input values to prevent SQL functions in Turkey.",
+    "validated_procedural": "1. Started career, Options Nate started in company intelligence in 2010.\n2. Worked largely, Nate worked in web software growth, ERP, and NetSuite customization.\n3. Graduated, Nate graduated in Computer system science in 2013.\n4. Proceeded to hire, Providers hired PHP builders for greenfield projects in Izmir, Turkey.\n5. Chose technology, Developers chose PHP technologies like WordPress, Laravel, or Symfony.\n6. Defined scope, Nate defined the scope of his project after years of planning.\n7. Sought skills, Nate looked for developers with skills for 7 days-very intensely.\n8. Bound values, Developers bound input values to prevent SQL functions in Turkey.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 5 doesn't start with verb",
+          "Step 7 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 8
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 40,
+    "original_procedural": "1. Managed mission, NASA took pieces from the Bennu Asteroid and brought them to Earth.\n2. Explored asteroid, spacecraft set out to explore the metallic asteroid Psyche.\n3. Opened mystery, James Webb Space Telescope and Hubble opened the mystery of cosmic objects.\n4. Shared visuals, James Webb Space Telescope shared the visual feast in the sky with the world.\n5. Published video, NASA published a video explaining its goals for 2024.\n6. Set goals, NASA set foot on the Moon's surface as a goal for 2024.\n7. Developed rocket, SpaceX developed the Starship Rocket for the Artemis mission.\n8. Performed tests, SpaceX performed 2 tests of the Starship Rocket.\n9. Planned mission, NASA planned to launch the Artemis Mission in November 2024.\n10. Tested rocket, NASA tested the new Space Launch System (SLS) rocket in the Artemis mission, but VIPER and Europa were not involved in 2023, a busy year, and 2024 is expected to be significant, following 2023, an important year.",
+    "validated_procedural": "1. Managed mission, NASA took pieces from the Bennu Asteroid and brought them to Earth.\n2. Explored asteroid, spacecraft set out to explore the metallic asteroid Psyche.\n3. Opened mystery, James Webb Space Telescope and Hubble opened the mystery of cosmic objects.\n4. Shared visuals, James Webb Space Telescope shared the visual feast in the sky with the world.\n5. Published video, NASA published a video explaining its goals for 2024.\n6. Set goals, NASA set foot on the Moon's surface as a goal for 2024.\n7. Developed rocket, SpaceX developed the Starship Rocket for the Artemis mission.\n8. Performed tests, SpaceX performed 2 tests of the Starship Rocket.\n9. Planned mission, NASA planned to launch the Artemis Mission in November 2024.\n10. Tested rocket, NASA tested the new Space Launch System (SLS) rocket in the Artemis mission, but VIPER and Europa were not involved in 2023, a busy year, and 2024 is expected to be significant, following 2023, an important year.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 10,
+        "total_mandatory": 10,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 8 doesn't start with verb",
+          "Step 10 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.8799999999999999
+  }
+]

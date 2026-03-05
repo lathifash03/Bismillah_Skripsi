@@ -1,0 +1,11 @@
+article_id,quality_score,entity_preservation_rate,entity_preserved,entity_total,entity_passed,format_passed,format_issues,hallucination_count,corrections_count
+30,0.791,0.727,8,11,False,False,5,0,1
+0,0.722,0.556,5,9,False,False,7,0,1
+22,0.767,0.667,10,15,False,False,2,0,1
+31,0.76,0.4,6,15,False,True,0,0,0
+18,0.733,0.583,7,12,False,False,2,0,1
+28,0.6,0.438,7,16,False,False,5,1,1
+10,0.671,0.429,3,7,False,False,1,0,1
+53,0.78,0.7,7,10,False,False,3,0,1
+4,0.777,0.692,9,13,False,False,7,0,1
+12,0.847,0.867,13,15,True,False,2,0,1

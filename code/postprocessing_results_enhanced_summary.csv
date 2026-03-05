@@ -1,0 +1,11 @@
+article_id,quality_score,passed,format_passed,format_issues,entity_passed,entity_preservation_rate,mandatory_preserved,mandatory_total,missing_critical_count
+30,0.7083333333333333,True,True,0,False,0.4166666666666667,5,12,7
+0,0.5882352941176471,False,True,0,False,0.17647058823529413,3,17,14
+22,0.7571428571428571,True,True,0,False,0.5142857142857142,18,35,17
+31,0.5476190476190477,False,True,0,False,0.09523809523809523,2,21,19
+18,0.8499999999999999,True,True,0,True,0.7,7,10,3
+28,0.6555555555555556,False,True,0,False,0.3111111111111111,14,45,31
+10,0.75,True,True,0,False,0.5,4,8,4
+53,0.7777777777777777,True,True,0,False,0.5555555555555556,5,9,4
+4,0.7142857142857142,True,True,0,False,0.42857142857142855,6,14,8
+12,0.8,True,True,0,False,0.6,6,10,4

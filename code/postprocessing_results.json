@@ -1,0 +1,488 @@
+[
+  {
+    "article_id": 30,
+    "original_procedural": "1. Encountered Toptal and spoke with an expert within a few several hours.\n2. Realized the expert was the right person for the project after discussion.\n3. Dealt with an application programmer for iOS iPhone and iPad app development.\n4. Determined the cost to develop an app varies, estimated at some thousand pounds.\n5. Then, considered getting valuable phrases for the project outline.\n6. Integrated ideas into the project specification.\n7. Noticed that not knowing who to hire could lead to bitter experiences.\n8. Worked with Toptal's developers and architects, finding them professional.\n9. Developed a solution that was affordable and high-quality, reducing time to launch.\n10. Launched the application, ensuring it met the project's scope and goals.\n11. Ensured that Core Data objects were handled correctly to avoid errors.\n12. Used NSZombies in Xcode to debug exc_bad_access mistakes.\n13. Paid fees and costs associated with the platform and development.\n14. Invoked solutions by sending messages to objects, such as myUser.\n15. Started a demo period of up to 2 months to verify engagement success.\n16. Billed for time and continued the engagement after successful verification.\n17. Developed and launched the application, meeting the client's needs.\n18. Ensured the application was of high quality and met the project's goals.\n19. Eventually, achieved a successful outcome with the project.\n20. After the project, verified that the application was working as expected.\n21. Worked with the developer to ensure the application met the client's needs.\n22. Integrated the application with Core Data and other necessary components.\n23. Tested the application to ensure it was working correctly.\n24. Launched the application and made it available to users.\n25. Monitored the application's performance and made necessary updates.\n26. Ensured that the application was stable and functioning correctly.\n27. Continued to work with the developer to maintain and update the application.\n28. Added new features and functionality to the application as needed.\n29. Ensured that the application remained compatible with iOS and iPad devices.\n30. Updated the application to fix any bugs or issues that arose.\n31. After verifying the application's success, continued to maintain and update it.",
+    "validated_procedural": "1. Encountered Toptal and spoke with an expert within a few several hours.\n2. Realized the expert was the right person for the project after discussion.\n3. Dealt with an application programmer for iOS iPhone and iPad app development.\n4. Determined the cost to develop an app varies, estimated at some thousand pounds.\n5. Then, considered getting valuable phrases for the project outline.\n6. Integrated ideas into the project specification.\n7. Noticed that not knowing who to hire could lead to bitter experiences.\n8. Worked with Toptal's developers and architects, finding them professional.\n9. Developed a solution that was affordable and high-quality, reducing time to launch.\n10. Launched the application, ensuring it met the project's scope and goals.\n11. Ensured that Core Data objects were handled correctly to avoid errors.\n12. Used NSZombies in Xcode to debug exc_bad_access mistakes.\n13. Paid fees and costs associated with the platform and development.\n14. Invoked solutions by sending messages to objects, such as myUser.\n15. Started a demo period of up to 2 months to verify engagement success.\n16. Billed for time and continued the engagement after successful verification.\n17. Developed and launched the application, meeting the client's needs.\n18. Ensured the application was of high quality and met the project's goals.\n19. Eventually, achieved a successful outcome with the project.\n20. After the project, verified that the application was working as expected.\n21. Worked with the developer to ensure the application met the client's needs.\n22. Integrated the application with Core Data and other necessary components.\n23. Tested the application to ensure it was working correctly.\n24. Launched the application and made it available to users.\n25. Monitored the application's performance and made necessary updates.\n26. Ensured that the application was stable and functioning correctly.\n27. Continued to work with the developer to maintain and update the application.\n28. Added new features and functionality to the application as needed.\n29. Ensured that the application remained compatible with iOS and iPad devices.\n30. Updated the application to fix any bugs or issues that arose.\n31. After verifying the application's success, continued to maintain and update it.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.7272727272727273,
+        "preserved_count": 8,
+        "total_mandatory": 11,
+        "missing_entities": [
+          "blessed",
+          "invoice",
+          "charge"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 5 may not start with verb: 'Then, considered getting valua...'",
+          "Step 6 may not start with verb: 'Integrated ideas into the proj...'",
+          "Step 19 may not start with verb: 'Eventually, achieved a success...'",
+          "Step 20 may not start with verb: 'After the project, verified th...'",
+          "Step 31 may not start with verb: 'After verifying the applicatio...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 31
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 4 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.790909090909091,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 0,
+    "original_procedural": "1. Completed key market expansion actions, BISSNEX gained U.S. recognition\n2. Released \"Consultation Report on Policy Recommendations\" by IOSCO\n3. Obtained U.S. MSB license, BISSNEX demonstrated compliance\n4. Established headquarters in New York, strategically\n5. Announced plans to expand compliance team\n6. Collaborated with regulatory bodies, BISSNEX stayed updated\n7. Acquired U.S. MSB license, BISSNEX strengthened capabilities\n8. Released statement, BISSNEX committed to safety and compliance\n9. Established strict regulatory requirements, BISSNEX ensured compliance\n10. Released press release, BISSNEX shared future plans \n11. Completed rigorous due diligence, BISSNEX ensured compliance\n12. Positioned itself, BISSNEX at forefront of compliance \n13. Previously released report, IOSCO indicated progress\n14. Soon obtained MSB license, BISSNEX demonstrated compliance\n15. After careful consideration, established headquarters in New York\n16. Released statement, BISSNEX recognized importance of regulations\n17. Announced recruitment, BISSNEX expanded compliance team\n18. Established operations, BISSNEX ensured international compliance\n19. Released statement, BISSNEX committed to security standards\n20. Completed acquisition, BISSNEX strengthened platform \n21. Released report, IOSCO supported crypto industry regulation\n22. Established itself, BISSNEX as leading crypto exchange\n23. Released statement, BISSNEX ensured user protection\n24. Collaborated with authorities, BISSNEX ensured compliance\n25. Released press release, BISSNEX shared commitment\n26. After evolution, BISSNEX remained committed to compliance\n27. Released statement, BISSNEX demonstrated determination \n28. Established strict standards, BISSNEX ensured safety",
+    "validated_procedural": "1. Completed key market expansion actions, BISSNEX gained U.S. recognition\n2. Released \"Consultation Report on Policy Recommendations\" by IOSCO\n3. Obtained U.S. MSB license, BISSNEX demonstrated compliance\n4. Established headquarters in New York, strategically\n5. Announced plans to expand compliance team\n6. Collaborated with regulatory bodies, BISSNEX stayed updated\n7. Acquired U.S. MSB license, BISSNEX strengthened capabilities\n8. Released statement, BISSNEX committed to safety and compliance\n9. Established strict regulatory requirements, BISSNEX ensured compliance\n10. Released press release, BISSNEX shared future plans\n11. Completed rigorous due diligence, BISSNEX ensured compliance\n12. Positioned itself, BISSNEX at forefront of compliance\n13. Previously released report, IOSCO indicated progress\n14. Soon obtained MSB license, BISSNEX demonstrated compliance\n15. After careful consideration, established headquarters in New York\n16. Released statement, BISSNEX recognized importance of regulations\n17. Announced recruitment, BISSNEX expanded compliance team\n18. Established operations, BISSNEX ensured international compliance\n19. Released statement, BISSNEX committed to security standards\n20. Completed acquisition, BISSNEX strengthened platform\n21. Released report, IOSCO supported crypto industry regulation\n22. Established itself, BISSNEX as leading crypto exchange\n23. Released statement, BISSNEX ensured user protection\n24. Collaborated with authorities, BISSNEX ensured compliance\n25. Released press release, BISSNEX shared commitment\n26. After evolution, BISSNEX remained committed to compliance\n27. Released statement, BISSNEX demonstrated determination\n28. Established strict standards, BISSNEX ensured safety",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.5555555555555556,
+        "preserved_count": 5,
+        "total_mandatory": 9,
+        "missing_entities": [
+          "media contact company name",
+          "california",
+          "digital asset markets",
+          "barchart quotes"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 12 may not start with verb: 'Positioned itself, BISSNEX at ...'",
+          "Step 13 may not start with verb: 'Previously released report, IO...'",
+          "Step 14 may not start with verb: 'Soon obtained MSB license, BIS...'",
+          "Step 15 may not start with verb: 'After careful consideration, e...'",
+          "Step 17 may not start with verb: 'Announced recruitment, BISSNEX...'",
+          "Step 18 may not start with verb: 'Established operations, BISSNE...'",
+          "Step 26 may not start with verb: 'After evolution, BISSNEX remai...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 28
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 6 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7222222222222223,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 22,
+    "original_procedural": "1. Said Agus Justianto, performance of sustainable forest management in 2023 exceeded targets.\n2. Implemented multi-forestry business model in PBPH, making forest management more inclusive.\n3. Said Justianto, 667,780 hectares of PBPH area were planted and enriched in 2023.\n4. Reached log production of 58.13 million cubic meters, 101.9 percent of target.\n5. Disclosed Justianto, 89.01 percent of log production came from plantation forests.\n6. Said Justianto, non-timber forest products production increased to 820.2 thousand tons in 2023.\n7. Expanded community access to forest management through forestry partnerships.\n8. Realized provision of legal access to 20,643 hectares of land in 2023, 137.6 percent of target.\n9. Said Justianto, forestry partnerships increased real economic value of forest areas.\n10. Implemented MUK on 14,078 hectares of PBPH areas and 28,203 hectares in KPH units.\n11. Said Indroyono Soesilo, business climate is positive, supporting sustainable forest management.\n12. Said Soesilo, PBPH will support ministry's sustainable forest management directions.",
+    "validated_procedural": "1. Said Agus Justianto, performance of sustainable forest management in 2023 exceeded targets.\n2. Implemented multi-forestry business model in PBPH, making forest management more inclusive.\n3. Said Justianto, 667,780 hectares of PBPH area were planted and enriched in 2023.\n4. Reached log production of 58.13 million cubic meters, 101.9 percent of target.\n5. Disclosed Justianto, 89.01 percent of log production came from plantation forests.\n6. Said Justianto, non-timber forest products production increased to 820.2 thousand tons in 2023.\n7. Expanded community access to forest management through forestry partnerships.\n8. Realized provision of legal access to 20,643 hectares of land in 2023, 137.6 percent of target.\n9. Said Justianto, forestry partnerships increased real economic value of forest areas.\n10. Implemented MUK on 14,078 hectares of PBPH areas and 28,203 hectares in KPH units.\n11. Said Indroyono Soesilo, business climate is positive, supporting sustainable forest management.\n12. Said Soesilo, PBPH will support ministry's sustainable forest management directions.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.6666666666666666,
+        "preserved_count": 10,
+        "total_mandatory": 15,
+        "missing_entities": [
+          "bumn perhutani",
+          "thursday",
+          "this year",
+          "rattan",
+          "riau"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 5 may not start with verb: 'Disclosed Justianto, 89.01 per...'",
+          "Step 12 may not start with verb: 'Said Soesilo, PBPH will suppor...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 12
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 2 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7666666666666667,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 31,
+    "original_procedural": "1. Entered into Agreement and Plan of Merger on May 25, 2023\n2. Filed putative class action complaint on June 26, 2023\n3. Alleged false statements in preliminary proxy statement\n4. Sought preliminary injunction to enjoin Merger\n5. Filed definitive proxy statement on June 26, 2023\n6. Filed amended complaint on June 29, 2023\n7. Agreed to make additional disclosures\n8. Filed Amendment No. 1 to Proxy on July 10, 2023\n9. Dismissed Action as moot on August 1, 2023\n10. Entered stipulated order dismissing Action\n11. Retained jurisdiction for attorneys' fees application\n12. Agreed to pay $114,000 for attorneys' fees\n13. Entered order closing case on December 21, 2023\n14. Filed affidavit confirming notice issuance subsequently",
+    "validated_procedural": "1. Entered into Agreement and Plan of Merger on May 25, 2023\n2. Filed putative class action complaint on June 26, 2023\n3. Alleged false statements in preliminary proxy statement\n4. Sought preliminary injunction to enjoin Merger\n5. Filed definitive proxy statement on June 26, 2023\n6. Filed amended complaint on June 29, 2023\n7. Agreed to make additional disclosures\n8. Filed Amendment No. 1 to Proxy on July 10, 2023\n9. Dismissed Action as moot on August 1, 2023\n10. Entered stipulated order dismissing Action\n11. Retained jurisdiction for attorneys' fees application\n12. Agreed to pay $114,000 for attorneys' fees\n13. Entered order closing case on December 21, 2023\n14. Filed affidavit confirming notice issuance subsequently",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.4,
+        "preserved_count": 6,
+        "total_mandatory": 15,
+        "missing_entities": [
+          "embark",
+          "a. hanshew v.",
+          "embark technology, inc.",
+          "calif.",
+          "c.a. no"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": true,
+        "issues": [],
+        "numbering_gaps": [],
+        "total_steps": 14
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 3 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7600000000000001,
+    "corrections_applied": []
+  },
+  {
+    "article_id": 18,
+    "original_procedural": "1. Said they must hire the right individuals for enterprise growth\n2. Hired a developer instantly through Toptal\n3. Developed a venture with added style features\n4. Started using Toptal for expert-level help\n5. Designed database and BI solutions with Adam\n6. Developed solutions with Toptal's developers and architects\n7. Started sourcing elsewhere for hiring\n8. Assigned developers based on project technicalities\n9. Discussed checked and unchecked exceptions\n10. Expected a new developer to be pleased with the role\n11. Developed Joblane, a feature-rich task portal\n12. Started working with Claudio, a certified SharePoint expert\n13. Found a developer in Scala through Toptal within 24 hours\n14. Said ZipRecruiter finds the best people for the task",
+    "validated_procedural": "1. Said they must hire the right individuals for enterprise growth\n2. Hired a developer instantly through Toptal\n3. Developed a venture with added style features\n4. Started using Toptal for expert-level help\n5. Designed database and BI solutions with Adam\n6. Developed solutions with Toptal's developers and architects\n7. Started sourcing elsewhere for hiring\n8. Assigned developers based on project technicalities\n9. Discussed checked and unchecked exceptions\n10. Expected a new developer to be pleased with the role\n11. Developed Joblane, a feature-rich task portal\n12. Started working with Claudio, a certified SharePoint expert\n13. Found a developer in Scala through Toptal within 24 hours\n14. Said ZipRecruiter finds the best people for the task",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.5833333333333334,
+        "preserved_count": 7,
+        "total_mandatory": 12,
+        "missing_entities": [
+          "decades",
+          "the 1st",
+          "feel",
+          "microsoft",
+          "accredited"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 11 may not start with verb: 'Developed Joblane, a feature-r...'",
+          "Step 14 may not start with verb: 'Said ZipRecruiter finds the be...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 14
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "No temporal constraints to validate"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7333333333333334,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 28,
+    "original_procedural": "1. Completed projects in 2023 and planned for 2024.\n2. Developed International Ecological Footprint Learning Lab with York University and University of Iceland.\n3. Developed Urban Consumption Guidebook for Cities with C40 Cities and others.\n4. Developed BC-specific Policy and Planning Guide with Real Estate Foundation of BC.\n5. Completed Ecological Footprint assessments for City of Ottawa and others.\n6. Delivered presentations, including Cora Hallsworth to Climate Caucus.\n7. Led Ecocity Webinar on Sustainable Lifestyles in May.\n8. Participated in Ecocity World Summit in June.\n9. Coordinated Ecocity Peer Network Zoom meeting in October.\n10. Published paper on sustainability at urban scale with Université du Québec.\n11. Interviewed Dr. Jennie Moore on CKNW 980 radio and Vancouver Sun.\n12. Developed Ecological Footprint as core metric in Saanich's Official Community Plan.",
+    "validated_procedural": "1. Completed projects in 2023 and planned for 2024.\n2. Developed International Ecological Footprint Learning Lab with York University and University of Iceland.\n3. Developed Urban Consumption Guidebook for Cities with C40 Cities and others.\n4. Developed BC-specific Policy and Planning Guide with Real Estate Foundation of BC.\n5. Completed Ecological Footprint assessments for City of Ottawa and others.\n6. Delivered presentations, including Cora Hallsworth to Climate Caucus.\n7. Led Ecocity Webinar on Sustainable Lifestyles in May.\n8. Participated in Ecocity World Summit in June.\n9. Coordinated Ecocity Peer Network Zoom meeting in October.\n10. Published paper on sustainability at urban scale with Université du Québec.\n11. Interviewed Dr. Jennie Moore on CKNW 980 radio and Vancouver Sun.\n12. Developed Ecological Footprint as core metric in Saanich's Official Community Plan.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.4375,
+        "preserved_count": 7,
+        "total_mandatory": 16,
+        "missing_entities": [
+          "ryan mackie",
+          "another busy year",
+          "seven-year",
+          "christina olsen",
+          "the social science and humanities research council"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 may not start with verb: 'Developed International Ecolog...'",
+          "Step 3 may not start with verb: 'Developed Urban Consumption Gu...'",
+          "Step 7 may not start with verb: 'Led Ecocity Webinar on Sustain...'",
+          "Step 9 may not start with verb: 'Coordinated Ecocity Peer Netwo...'",
+          "Step 12 may not start with verb: 'Developed Ecological Footprint...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 12
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 2 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": false,
+        "hallucinated_entities": [
+          {
+            "type": "ORG",
+            "entity": "saanich's official community plan"
+          }
+        ],
+        "count": 1
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.6,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 10,
+    "original_procedural": "1. Revealed a research paper on optimal table size for jigsaw puzzles.\n2. Completed nine jigsaws with 9-2,000 pieces, Dr Madeleine Bonsma-Fisher and Dr Kent Bonsma-Fisher.\n3. Measured puzzle pieces, laying them out naturally.\n4. Completed each jigsaw, calculating assembled picture dimensions.\n5. Compared theory and data, finding a simple prediction.\n6. Reported the research, surprising Dr Madeleine Bonsma-Fisher.\n7. Published the findings on arXiv, also reported by New Scientist.",
+    "validated_procedural": "1. Revealed a research paper on optimal table size for jigsaw puzzles.\n2. Completed nine jigsaws with 9-2,000 pieces, Dr Madeleine Bonsma-Fisher and Dr Kent Bonsma-Fisher.\n3. Measured puzzle pieces, laying them out naturally.\n4. Completed each jigsaw, calculating assembled picture dimensions.\n5. Compared theory and data, finding a simple prediction.\n6. Reported the research, surprising Dr Madeleine Bonsma-Fisher.\n7. Published the findings on arXiv, also reported by New Scientist.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.42857142857142855,
+        "preserved_count": 3,
+        "total_mandatory": 7,
+        "missing_entities": [
+          "days",
+          "over a decade",
+          "the time of year",
+          "the university of toronto"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 may not start with verb: 'Measured puzzle pieces, laying...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 7
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 5 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.6714285714285715,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 53,
+    "original_procedural": "1. Created Billionaire Brain Wave program to attract wealth\n2. Started using program to remove credit card debt\n3. Established daily routine to activate 3rd eye\n4. Utilized program before getting concerned about results\n5. Discovered Theta wave as key to attracting wealth\n6. Started using sound waves to enhance theta waves before achieving success\n7. Created 3 sound waves to manifest good results\n8. Analyzed variables to conclude program's effectiveness\n9. Created Billionaire Brain Wave system after Dave Mitchell discovered audio technology\n10. Established price at $39 for accessibility\n11. Evaluated program's statements after FDA failed to evaluate them\n12. Started attracting prosperity after using program\n13. Finally achieved financial freedom using Billionaire Brain Wave\n14. Started tapping into instinct after activating brain waves\n15. Eliminated beta waves to achieve success before limiting potential\n16. Identified implications of fake theta frequency products\n17. Started using program before making changes to diet or exercise\n18. Established daily routine to awaken to tranquility and possibilities",
+    "validated_procedural": "1. Created Billionaire Brain Wave program to attract wealth\n2. Started using program to remove credit card debt\n3. Established daily routine to activate 3rd eye\n4. Utilized program before getting concerned about results\n5. Discovered Theta wave as key to attracting wealth\n6. Started using sound waves to enhance theta waves before achieving success\n7. Created 3 sound waves to manifest good results\n8. Analyzed variables to conclude program's effectiveness\n9. Created Billionaire Brain Wave system after Dave Mitchell discovered audio technology\n10. Established price at $39 for accessibility\n11. Evaluated program's statements after FDA failed to evaluate them\n12. Started attracting prosperity after using program\n13. Finally achieved financial freedom using Billionaire Brain Wave\n14. Started tapping into instinct after activating brain waves\n15. Eliminated beta waves to achieve success before limiting potential\n16. Identified implications of fake theta frequency products\n17. Started using program before making changes to diet or exercise\n18. Established daily routine to awaken to tranquility and possibilities",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.7,
+        "preserved_count": 7,
+        "total_mandatory": 10,
+        "missing_entities": [
+          "months",
+          "value",
+          "the 1st day"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 8 may not start with verb: 'Analyzed variables to conclude...'",
+          "Step 11 may not start with verb: 'Evaluated program's statements...'",
+          "Step 13 may not start with verb: 'Finally achieved financial fre...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 18
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 4 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.78,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 4,
+    "original_procedural": "1. Rediscovered plants hidden in tropical Andes after 100 years\n2. Identified Nasa genus plants with delicate, stinging leaves\n3. Published research on rare plants with short durations\n4. Utilized iNaturalist for geo-referenced occurrence records\n5. Unveiled Nasa colanii species through 2019 photograph\n6. Identified Nasa ferox after 130 years through iNaturalist\n7. Noted surprising absence of N. ferox reports despite expeditions\n8. Rediscovered Nasa humboldtiana after 162 years\n9. Unveiled Nasa hastata and Nasa solaria species in Peru\n10. Published study in PhytoKeys journal\n11. Expressed hope for increased discoveries through iNaturalist\n12. Quoted Tilo Henning on importance of documenting biodiversity",
+    "validated_procedural": "1. Rediscovered plants hidden in tropical Andes after 100 years\n2. Identified Nasa genus plants with delicate, stinging leaves\n3. Published research on rare plants with short durations\n4. Utilized iNaturalist for geo-referenced occurrence records\n5. Unveiled Nasa colanii species through 2019 photograph\n6. Identified Nasa ferox after 130 years through iNaturalist\n7. Noted surprising absence of N. ferox reports despite expeditions\n8. Rediscovered Nasa humboldtiana after 162 years\n9. Unveiled Nasa hastata and Nasa solaria species in Peru\n10. Published study in PhytoKeys journal\n11. Expressed hope for increased discoveries through iNaturalist\n12. Quoted Tilo Henning on importance of documenting biodiversity",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.6923076923076923,
+        "preserved_count": 9,
+        "total_mandatory": 13,
+        "missing_entities": [
+          "1978",
+          "south america",
+          "the peruvian department of",
+          "centuries"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'Rediscovered plants hidden in ...'",
+          "Step 2 may not start with verb: 'Identified Nasa genus plants w...'",
+          "Step 5 may not start with verb: 'Unveiled Nasa colanii species ...'",
+          "Step 6 may not start with verb: 'Identified Nasa ferox after 13...'",
+          "Step 7 may not start with verb: 'Noted surprising absence of N....'",
+          "Step 8 may not start with verb: 'Rediscovered Nasa humboldtiana...'",
+          "Step 9 may not start with verb: 'Unveiled Nasa hastata and Nasa...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 12
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 3 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.776923076923077,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 12,
+    "original_procedural": "1. Announced Katherine Bennell-Pegg as Australia's potential first female astronaut.\n2. Completed half of year-long training at European Astronaut Centre.\n3. Relocated to Europe with family for intensive training.\n4. Applied with 22,000 others for astronaut candidate position.\n5. Underwent rigorous physical training and year-long study.\n6. Shared lifelong dream of being an astronaut.\n7. Announced next six months include intense exercise and training.\n8. Trained with NASA in Houston in early December.\n9. Met Australian Ambassador Kevin Rudd in Washington DC.\n10. Served previously as Director of Space Technology at Australian Space Agency.\n11. Worked with space robotics and automation team previously.",
+    "validated_procedural": "1. Announced Katherine Bennell-Pegg as Australia's potential first female astronaut.\n2. Completed half of year-long training at European Astronaut Centre.\n3. Relocated to Europe with family for intensive training.\n4. Applied with 22,000 others for astronaut candidate position.\n5. Underwent rigorous physical training and year-long study.\n6. Shared lifelong dream of being an astronaut.\n7. Announced next six months include intense exercise and training.\n8. Trained with NASA in Houston in early December.\n9. Met Australian Ambassador Kevin Rudd in Washington DC.\n10. Served previously as Director of Space Technology at Australian Space Agency.\n11. Worked with space robotics and automation team previously.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8666666666666667,
+        "preserved_count": 13,
+        "total_mandatory": 15,
+        "missing_entities": [
+          "the united states",
+          "ms bennell-beg"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 5 may not start with verb: 'Underwent rigorous physical tr...'",
+          "Step 9 may not start with verb: 'Met Australian Ambassador Kevi...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 11
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 5 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.8466666666666668,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  }
+]
