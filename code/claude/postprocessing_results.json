@@ -1,0 +1,295 @@
+[
+  {
+    "article_id": 30,
+    "original_procedural": "1. Identify need for iOS developer and contact Toptal\n2. Receive call from Toptal Expert within a few several hours\n3. Discuss project requirements with assigned Expert candidate\n4. Confirm Expert is correct prospect for development project\n5. Recognize that cellular app release decisions cannot be reversed\n6. Ensure ideal developer is hired before proceeding\n7. Seek iOS iPhone and iPad app development specialist with relevant experience\n8. Estimate development cost at some thousand pounds depending on requirements\n9. Incorporate valuable phrases into project specification document\n10. Risk getting Blessed finding good programmer or face negative experience\n11. Note previous experience requiring more than 3 freelancers for decent result\n12. Submit projects and ambitions to development team for review\n13. Receive absolute project approach document specifying scope, execution, Charge, and Management\n14. Engage Toptal developers and architects for affordable, high-quality solution\n15. Hire iPad programmer to handle changes to Main Data objects across threads\n16. Confirm Core Facts objects require re-fetching from persistent storage to update on new threads\n17. Enable NSZombies in Xcode to debug exc_bad_access errors from released objects\n18. Retain zombie objects alive using NSZombies debugging technique\n19. Account for financial and non-monetary platform costs beyond standard fees\n20. Begin engagement with iOS developer during trial period of up to 2 months\n21. Confirm successful engagement results before proceeding to Invoice stage\n22. Continue engagement and Invoice developer for time upon satisfactory completion",
+    "validated_procedural": "1. Identify need for iOS developer and contact Toptal\n2. Receive call from Toptal Expert within a few several hours\n3. Discuss project requirements with assigned Expert candidate\n4. Confirm Expert is correct prospect for development project\n5. Recognize that cellular app release decisions cannot be reversed\n6. Ensure ideal developer is hired before proceeding\n7. Seek iOS iPhone and iPad app development specialist with relevant experience\n8. Estimate development cost at some thousand pounds depending on requirements\n9. Incorporate valuable phrases into project specification document\n10. Risk getting Blessed finding good programmer or face negative experience\n11. Note previous experience requiring more than 3 freelancers for decent result\n12. Submit projects and ambitions to development team for review\n13. Receive absolute project approach document specifying scope, execution, Charge, and Management\n14. Engage Toptal developers and architects for affordable, high-quality solution\n15. Hire iPad programmer to handle changes to Main Data objects across threads\n16. Confirm Core Facts objects require re-fetching from persistent storage to update on new threads\n17. Enable NSZombies in Xcode to debug exc_bad_access errors from released objects\n18. Retain zombie objects alive using NSZombies debugging technique\n19. Account for financial and non-monetary platform costs beyond standard fees\n20. Begin engagement with iOS developer during trial period of up to 2 months\n21. Confirm successful engagement results before proceeding to Invoice stage\n22. Continue engagement and Invoice developer for time upon satisfactory completion",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 11,
+        "total_mandatory": 11,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 may not start with verb: 'Discuss project requirements w...'",
+          "Step 4 may not start with verb: 'Confirm Expert is correct pros...'",
+          "Step 8 may not start with verb: 'Estimate development cost at s...'",
+          "Step 10 may not start with verb: 'Risk getting Blessed finding g...'",
+          "Step 14 may not start with verb: 'Engage Toptal developers and a...'",
+          "Step 15 may not start with verb: 'Hire iPad programmer to handle...'",
+          "Step 18 may not start with verb: 'Retain zombie objects alive us...'",
+          "Step 19 may not start with verb: 'Account for financial and non-...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 22
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 4 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": false,
+        "hallucinated_entities": [
+          {
+            "type": "ORG",
+            "entity": "confirm core facts"
+          }
+        ],
+        "count": 1
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.8250000000000001,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 0,
+    "original_procedural": "1. BISSNEX completed key market expansion actions and gained recognition from U.S. federal government and financial systems\n2. BISSNEX acquired U.S. MSB license signaling strengthened platform capabilities and adjusted global market strategy\n3. U.S. demonstrated rising friendliness toward crypto industry following Bitcoin and Ethereum ETF proposal progress\n4. U.S. supported cryptocurrency taxation as property while maintaining cautious overall attitude\n5. The International Organization of Securities Commissions (IOSCO) released the Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets\n6. IOSCO report indicated further progress in global crypto industry regulation standards\n7. BISSNEX obtained the Money Services Business (MSB) license from U.S. Financial Crimes Enforcement Network (FinCEN)\n8. MSB license demonstrated BISSNEX's compliance with highest industry Anti-Money Laundering (AML) and Know Your Customer (KYC) standards\n9. BISSNEX committed to expanding services under higher compliance standards and strict regulatory requirements\n10. U.S. states of New York and California recognized cryptocurrencies as legal digital assets\n11. BISSNEX strategically established headquarters in New York based on global market strategy\n12. BISSNEX announced plans to expand compliance team recruiting cryptocurrency regulation specialists\n13. BISSNEX confirmed collaboration with regulatory bodies and industry associations to monitor cryptocurrency developments\n14. Data & News supplied by www.bdctp.co Data News, stock quotes supplied by Barchart Quotes, delayed at least 20 minutes",
+    "validated_procedural": "1. BISSNEX completed key market expansion actions and gained recognition from U.S. federal government and financial systems\n2. BISSNEX acquired U.S. MSB license signaling strengthened platform capabilities and adjusted global market strategy\n3. U.S. demonstrated rising friendliness toward crypto industry following Bitcoin and Ethereum ETF proposal progress\n4. U.S. supported cryptocurrency taxation as property while maintaining cautious overall attitude\n5. The International Organization of Securities Commissions (IOSCO) released the Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets\n6. IOSCO report indicated further progress in global crypto industry regulation standards\n7. BISSNEX obtained the Money Services Business (MSB) license from U.S. Financial Crimes Enforcement Network (FinCEN)\n8. MSB license demonstrated BISSNEX's compliance with highest industry Anti-Money Laundering (AML) and Know Your Customer (KYC) standards\n9. BISSNEX committed to expanding services under higher compliance standards and strict regulatory requirements\n10. U.S. states of New York and California recognized cryptocurrencies as legal digital assets\n11. BISSNEX strategically established headquarters in New York based on global market strategy\n12. BISSNEX announced plans to expand compliance team recruiting cryptocurrency regulation specialists\n13. BISSNEX confirmed collaboration with regulatory bodies and industry associations to monitor cryptocurrency developments\n14. Data & News supplied by www.bdctp.co Data News, stock quotes supplied by Barchart Quotes, delayed at least 20 minutes",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'BISSNEX completed key market e...'",
+          "Step 2 may not start with verb: 'BISSNEX acquired U.S. MSB lice...'",
+          "Step 3 may not start with verb: 'U.S. demonstrated rising frien...'",
+          "Step 4 may not start with verb: 'U.S. supported cryptocurrency ...'",
+          "Step 5 may not start with verb: 'The International Organization...'",
+          "Step 6 may not start with verb: 'IOSCO report indicated further...'",
+          "Step 7 may not start with verb: 'BISSNEX obtained the Money Ser...'",
+          "Step 8 may not start with verb: 'MSB license demonstrated BISSN...'",
+          "Step 9 may not start with verb: 'BISSNEX committed to expanding...'",
+          "Step 10 may not start with verb: 'U.S. states of New York and Ca...'",
+          "Step 11 may not start with verb: 'BISSNEX strategically establis...'",
+          "Step 12 may not start with verb: 'BISSNEX announced plans to exp...'",
+          "Step 13 may not start with verb: 'BISSNEX confirmed collaboratio...'",
+          "Step 14 may not start with verb: 'Data & News supplied by www.bd...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 14
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 6 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.9000000000000001,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 22,
+    "original_procedural": "1. Agus Justianto stated 2023 sustainable forest management performance exceeded targets\n2. Justianto reported planting and enrichment carried out on 667,780 hectares of PBPH area in 2023\n3. Confirm figure represented 156 percent above target of 428 thousand hectares\n4. Justianto disclosed log production reached 58.13 million cubic meters, or 101.9 percent of target\n5. Justianto identified 89.01 percent of log production originated from plantation forests\n6. Justianto attributed 1.59 percent of log production to BUMN Perhutani\n7. Justianto reported non-timber forest product production reached 820.2 thousand tons in 2023\n8. Confirm non-timber production equaled 193 percent of target of 425 thousand tons\n9. Justianto announced forestry partnerships provided legal access to 20,643 hectares in 2023\n10. Confirm partnership figure represented 137.6 percent of target of 15 thousand hectares\n11. Justianto confirmed MUK implementation covered 14,078 hectares across seven provinces this year\n12. Confirm MUK also covered 28,203 hectares in 12 KPH units following agroforestry pattern\n13. Justianto added MUK model implemented across 64 KPH units spanning 12,210 hectares in 14 provinces\n14. Indroyono Soesilo of the Indonesian Forest Concessionaires Association (APHI) confirmed increasingly positive business climate\n15. Soesilo pledged PBPH would accelerate MUK implementation and diversify forest product industry",
+    "validated_procedural": "1. Agus Justianto stated 2023 sustainable forest management performance exceeded targets\n2. Justianto reported planting and enrichment carried out on 667,780 hectares of PBPH area in 2023\n3. Confirm figure represented 156 percent above target of 428 thousand hectares\n4. Justianto disclosed log production reached 58.13 million cubic meters, or 101.9 percent of target\n5. Justianto identified 89.01 percent of log production originated from plantation forests\n6. Justianto attributed 1.59 percent of log production to BUMN Perhutani\n7. Justianto reported non-timber forest product production reached 820.2 thousand tons in 2023\n8. Confirm non-timber production equaled 193 percent of target of 425 thousand tons\n9. Justianto announced forestry partnerships provided legal access to 20,643 hectares in 2023\n10. Confirm partnership figure represented 137.6 percent of target of 15 thousand hectares\n11. Justianto confirmed MUK implementation covered 14,078 hectares across seven provinces this year\n12. Confirm MUK also covered 28,203 hectares in 12 KPH units following agroforestry pattern\n13. Justianto added MUK model implemented across 64 KPH units spanning 12,210 hectares in 14 provinces\n14. Indroyono Soesilo of the Indonesian Forest Concessionaires Association (APHI) confirmed increasingly positive business climate\n15. Soesilo pledged PBPH would accelerate MUK implementation and diversify forest product industry",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8,
+        "preserved_count": 12,
+        "total_mandatory": 15,
+        "missing_entities": [
+          "riau",
+          "thursday",
+          "phl"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'Agus Justianto stated 2023 sus...'",
+          "Step 2 may not start with verb: 'Justianto reported planting an...'",
+          "Step 3 may not start with verb: 'Confirm figure represented 156...'",
+          "Step 4 may not start with verb: 'Justianto disclosed log produc...'",
+          "Step 5 may not start with verb: 'Justianto identified 89.01 per...'",
+          "Step 6 may not start with verb: 'Justianto attributed 1.59 perc...'",
+          "Step 7 may not start with verb: 'Justianto reported non-timber ...'",
+          "Step 9 may not start with verb: 'Justianto announced forestry p...'",
+          "Step 11 may not start with verb: 'Justianto confirmed MUK implem...'",
+          "Step 12 may not start with verb: 'Confirm MUK also covered 28,20...'",
+          "Step 13 may not start with verb: 'Justianto added MUK model impl...'",
+          "Step 14 may not start with verb: 'Indroyono Soesilo of the Indon...'",
+          "Step 15 may not start with verb: 'Soesilo pledged PBPH would acc...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 15
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 2 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": false,
+        "hallucinated_entities": [
+          {
+            "type": "PERSON",
+            "entity": "confirm muk"
+          }
+        ],
+        "count": 1
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7450000000000001,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 31,
+    "original_procedural": "1. Embark Technology and Applied Intuition entered Agreement and Plan of Merger on May 25, 2023\n2. Azara Merger Sub, Inc. merged with and into Embark, making Embark a wholly owned subsidiary of Applied\n3. Marceil A. Hanshew filed putative class action complaint in Court on June 26, 2023\n4. Complaint named Embark and Embarks Board of Directors as Defendants in the Action\n5. Complaint alleged preliminary proxy statement filed June 16, 2023 contained false and misleading statements\n6. Complaint sought preliminary injunction to enjoin the Merger\n7. Embark filed definitive Proxy on Schedule 14A with SEC on June 26, 2023\n8. Plaintiff and David L. Hanshew filed amended complaint on June 29, 2023 captioned David L. Hanshew in His Capacity as Attorney-in-Fact for Marceil A. Hanshew and Marceil A. Hanshew v. Embark Technology, Inc. et al.\n9. Plaintiffs and Defendants agreed Embark would make additional disclosures to resolve the Action\n10. Embark filed Amendment No. 1 to the Proxy with SEC on July 10, 2023\n11. Plaintiffs voluntarily dismissed the Action as moot on August 1, 2023\n12. Court entered stipulated order dismissing the Action with prejudice as to Plaintiffs on August 1, 2023\n13. Court retained jurisdiction solely to adjudicate Plaintiffs' counsel's anticipated attorneys' fees application\n14. Applied agreed to pay $114,000 to Plaintiffs' counsel for attorneys' fees and expenses\n15. Court entered order closing the case on December 21, 2023, subject to Applied filing confirming affidavit",
+    "validated_procedural": "1. Embark Technology and Applied Intuition entered Agreement and Plan of Merger on May 25, 2023\n2. Azara Merger Sub, Inc. merged with and into Embark, making Embark a wholly owned subsidiary of Applied\n3. Marceil A. Hanshew filed putative class action complaint in Court on June 26, 2023\n4. Complaint named Embark and Embarks Board of Directors as Defendants in the Action\n5. Complaint alleged preliminary proxy statement filed June 16, 2023 contained false and misleading statements\n6. Complaint sought preliminary injunction to enjoin the Merger\n7. Embark filed definitive Proxy on Schedule 14A with SEC on June 26, 2023\n8. Plaintiff and David L. Hanshew filed amended complaint on June 29, 2023 captioned David L. Hanshew in His Capacity as Attorney-in-Fact for Marceil A. Hanshew and Marceil A. Hanshew v. Embark Technology, Inc. et al.\n9. Plaintiffs and Defendants agreed Embark would make additional disclosures to resolve the Action\n10. Embark filed Amendment No. 1 to the Proxy with SEC on July 10, 2023\n11. Plaintiffs voluntarily dismissed the Action as moot on August 1, 2023\n12. Court entered stipulated order dismissing the Action with prejudice as to Plaintiffs on August 1, 2023\n13. Court retained jurisdiction solely to adjudicate Plaintiffs' counsel's anticipated attorneys' fees application\n14. Applied agreed to pay $114,000 to Plaintiffs' counsel for attorneys' fees and expenses\n15. Court entered order closing the case on December 21, 2023, subject to Applied filing confirming affidavit",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8666666666666667,
+        "preserved_count": 13,
+        "total_mandatory": 15,
+        "missing_entities": [
+          "calif.",
+          "mountain view"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'Embark Technology and Applied ...'",
+          "Step 2 may not start with verb: 'Azara Merger Sub, Inc. merged ...'",
+          "Step 3 may not start with verb: 'Marceil A. Hanshew filed putat...'",
+          "Step 4 may not start with verb: 'Complaint named Embark and Emb...'",
+          "Step 5 may not start with verb: 'Complaint alleged preliminary ...'",
+          "Step 6 may not start with verb: 'Complaint sought preliminary i...'",
+          "Step 7 may not start with verb: 'Embark filed definitive Proxy ...'",
+          "Step 8 may not start with verb: 'Plaintiff and David L. Hanshew...'",
+          "Step 9 may not start with verb: 'Plaintiffs and Defendants agre...'",
+          "Step 10 may not start with verb: 'Embark filed Amendment No. 1 t...'",
+          "Step 11 may not start with verb: 'Plaintiffs voluntarily dismiss...'",
+          "Step 12 may not start with verb: 'Court entered stipulated order...'",
+          "Step 13 may not start with verb: 'Court retained jurisdiction so...'",
+          "Step 14 may not start with verb: 'Applied agreed to pay $114,000...'",
+          "Step 15 may not start with verb: 'Court entered order closing th...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 15
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 3 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": false,
+        "hallucinated_entities": [
+          {
+            "type": "ORG",
+            "entity": "embark and embarks board of directors as defendants"
+          }
+        ],
+        "count": 1
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7716666666666667,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 18,
+    "original_procedural": "1. Identify Joblane as feature-rich interactive job portal connecting job seekers and employers\n2. Recognize Joblane as knowledge-sharing portal offering informative tools beyond standard job listings\n3. Note Claudio holds Accredited SharePoint specialist certification\n4. Confirm Claudio worked with Microsoft clients maximizing security, performance, and value\n5. Toptal sourced Scala developer within 24 hours for short-term work requirement\n6. Recognize Toptal as the 1st platform searched for expert-level developer assistance\n7. Confirm Toptal developers delivered competitively priced, high-quality solutions reducing time to launch\n8. Consider Feel of existing team when hiring developers above perceived seniority levels\n9. Note individuals spending decades in industry rely on established contacts for direct hiring\n10. Identify alternative sourcing platforms when direct hiring proves impossible\n11. Assign developers based on specific technicalities required by each individual project\n12. Confirm Adam architects database and BI solutions within competitive timelines\n13. Ensure Adam's solutions remain easy to maintain, understand, and expand without unnecessary complexity",
+    "validated_procedural": "1. Identify Joblane as feature-rich interactive job portal connecting job seekers and employers\n2. Recognize Joblane as knowledge-sharing portal offering informative tools beyond standard job listings\n3. Note Claudio holds Accredited SharePoint specialist certification\n4. Confirm Claudio worked with Microsoft clients maximizing security, performance, and value\n5. Toptal sourced Scala developer within 24 hours for short-term work requirement\n6. Recognize Toptal as the 1st platform searched for expert-level developer assistance\n7. Confirm Toptal developers delivered competitively priced, high-quality solutions reducing time to launch\n8. Consider Feel of existing team when hiring developers above perceived seniority levels\n9. Note individuals spending decades in industry rely on established contacts for direct hiring\n10. Identify alternative sourcing platforms when direct hiring proves impossible\n11. Assign developers based on specific technicalities required by each individual project\n12. Confirm Adam architects database and BI solutions within competitive timelines\n13. Ensure Adam's solutions remain easy to maintain, understand, and expand without unnecessary complexity",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 12,
+        "total_mandatory": 12,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 may not start with verb: 'Note Claudio holds Accredited ...'",
+          "Step 4 may not start with verb: 'Confirm Claudio worked with Mi...'",
+          "Step 5 may not start with verb: 'Toptal sourced Scala developer...'",
+          "Step 9 may not start with verb: 'Note individuals spending deca...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 13
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "No temporal constraints to validate"
+      },
+      "hallucination_check": {
+        "passed": false,
+        "hallucinated_entities": [
+          {
+            "type": "PERSON",
+            "entity": "confirm claudio"
+          },
+          {
+            "type": "PERSON",
+            "entity": "confirm adam"
+          },
+          {
+            "type": "PERSON",
+            "entity": "ensure adam's"
+          },
+          {
+            "type": "ORG",
+            "entity": "recognize toptal"
+          }
+        ],
+        "count": 4
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.8250000000000001,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  }
+]

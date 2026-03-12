@@ -1,0 +1,6 @@
+article_id,quality_score,entity_preservation_rate,entity_preserved,entity_total,entity_passed,format_passed,format_issues,hallucination_count,corrections_count
+30,0.825,1.0,11,11,True,False,8,1,1
+0,0.9,1.0,9,9,True,False,14,0,1
+22,0.745,0.8,12,15,False,False,13,1,1
+31,0.772,0.867,13,15,True,False,15,1,1
+18,0.825,1.0,12,12,True,False,4,4,1
