@@ -1,0 +1,20 @@
+{
+  "rouge": {
+    "rouge1_mean": 0.39361107338603996,
+    "rouge2_mean": 0.23334813953112715,
+    "rougeL_mean": 0.29630108166540525
+  },
+  "bertscore": {
+    "precision_mean": 0.7237988710403442,
+    "recall_mean": 0.6170808672904968,
+    "f1_mean": 0.6658488512039185
+  },
+  "entity_preservation": {
+    "preservation_rate": 0.8,
+    "pass_rate": 0.5,
+    "avg_preserved": 6.6,
+    "avg_mandatory": 8.25,
+    "pass_count": 10,
+    "total_articles": 20
+  }
+}

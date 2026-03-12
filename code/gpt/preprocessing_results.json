@@ -1,0 +1,1826 @@
+[
+  {
+    "article_id": 30,
+    "preprocessed": {
+      "cleaned_text": "Im more than delighted with our encounter with Toptal. The Expert I got to work with was within the telephone with me inside of a few several hours. I realized right after speaking about my undertaking with him that he was the prospect I required. Dealing with an application programmer and the release of the cellular app is just not something it is possible to reverse. So ensuring that you have hired the ideal man or woman is essential. iOS apple iphone and iPad app progress Hello, When you are seeking an iOS application for your personal enterprise or use Then you definitely are at the right spot. Im an iOS developer getting experience of one. The expense to develop an app varies drastically dependant on what you want to try and do. A gut sense cheap estimate would be some thousand pounds. Dont be scared to acquire valuable phrases or phrases and use them in your outline. Get Concepts but make them your own private and integrate them in to the specification you publish in your undertaking. Not recognizing who you will be selecting, you could possibly get Blessed and look for a good programmer to establish a cellular app. On the flip side, youll have a bitter knowledge as we did. The moment, we had to deal greater than 3 freelancers to ultimately get an honest consequence. We attentively notice your projects and ambitions making sure that we will deliver an absolute undertaking approach by crafting a document destined to specify the tasks scope, execution, Charge, and Management. Toptals developers and architects have been the two pretty Specialist and easy to operate with. The solution they developed was reasonably priced and leading excellent, decreasing our the perfect time to start. Many thanks once more, Toptal. Those people applications could be normal systems hire a good developer to perform a specific job or deliver a certain goal for The shopper or user. Remember, though, that hire ipad programmer improvements to Main Data objects do not always propagate immediately to other threads. In the common circumstance, Core Facts objects that happen to be loaded into memory are certainly not updated on a different thread until eventually These objects are fetched once again from persistent storage. A common reason for exc_bad_access mistakes that are not detectable by the compiler is seeking to accessibility produced objects. In these circumstances, enabling NSZombies in Xcode might be a highly effective debugging approach. Enabling NSZombies retains objects that could Usually be launched alive as zombies. There are many of financial and non-monetary prices which you fork out around and above the fees in the platform. Solutions are invoked by sending them a information. Heres an illustration of sending a information to the myUser object: We Guantee that Just about every engagement concerning you and your iOS developer starts by using a demo duration of up to 2 months. This means that you have enough time to substantiate the engagement is going to be profitable. Should youre totally satisfied with the hire a good app developer final results, well Invoice you for enough time and carry on the engagement for provided that youd like. Top latest Five hire ipad programmer Urban news Im more than delighted with our encounter with Toptal. The Expert I got to work with was within the telephone with me inside of a few several hours. I realized right after speaking about my undertaking with him that he was the prospect I required.",
+      "sentences": [
+        "Im more than delighted with our encounter with Toptal",
+        "The Expert I got to work with was within the telephone with me inside of a few several hours",
+        "I realized right after speaking about my undertaking with him that he was the prospect I required",
+        "Dealing with an application programmer and the release of the cellular app is just not something it is possible to reverse",
+        "So ensuring that you have hired the ideal man or woman is essential",
+        "iOS apple iphone and iPad app progress Hello, When you are seeking an iOS application for your personal enterprise or use Then you definitely are at the right spot",
+        "Im an iOS developer getting experience of one",
+        "The expense to develop an app varies drastically dependant on what you want to try and do",
+        "A gut sense cheap estimate would be some thousand pounds",
+        "Dont be scared to acquire valuable phrases or phrases and use them in your outline",
+        "Get Concepts but make them your own private and integrate them in to the specification you publish in your undertaking",
+        "Not recognizing who you will be selecting, you could possibly get Blessed and look for a good programmer to establish a cellular app",
+        "On the flip side, youll have a bitter knowledge as we did",
+        "The moment, we had to deal greater than 3 freelancers to ultimately get an honest consequence",
+        "We attentively notice your projects and ambitions making sure that we will deliver an absolute undertaking approach by crafting a document destined to specify the tasks scope, execution, Charge, and Management",
+        "Toptals developers and architects have been the two pretty Specialist and easy to operate with",
+        "The solution they developed was reasonably priced and leading excellent, decreasing our the perfect time to start",
+        "Many thanks once more, Toptal",
+        "Those people applications could be normal systems hire a good developer to perform a specific job or deliver a certain goal for The shopper or user",
+        "Remember, though, that hire ipad programmer improvements to Main Data objects do not always propagate immediately to other threads",
+        "In the common circumstance, Core Facts objects that happen to be loaded into memory are certainly not updated on a different thread until eventually These objects are fetched once again from persistent storage",
+        "A common reason for exc_bad_access mistakes that are not detectable by the compiler is seeking to accessibility produced objects",
+        "In these circumstances, enabling NSZombies in Xcode might be a highly effective debugging approach",
+        "Enabling NSZombies retains objects that could Usually be launched alive as zombies",
+        "There are many of financial and non-monetary prices which you fork out around and above the fees in the platform",
+        "Solutions are invoked by sending them a information",
+        "Heres an illustration of sending a information to the myUser object: We Guantee that Just about every engagement concerning you and your iOS developer starts by using a demo duration of up to 2 months",
+        "This means that you have enough time to substantiate the engagement is going to be profitable",
+        "Should youre totally satisfied with the hire a good app developer final results, well Invoice you for enough time and carry on the engagement for provided that youd like",
+        "Top latest Five hire ipad programmer Urban news Im more than delighted with our encounter with Toptal",
+        "The Expert I got to work with was within the telephone with me inside of a few several hours",
+        "I realized right after speaking about my undertaking with him that he was the prospect I required"
+      ],
+      "sentence_count": 32
+    },
+    "entities": {
+      "persons": [
+        "Blessed"
+      ],
+      "organizations": [
+        "Core Facts",
+        "Main Data",
+        "NSZombies",
+        "Specialist",
+        "iPad",
+        "Charge",
+        "Toptal"
+      ],
+      "locations": [
+        "Xcode",
+        "Invoice"
+      ],
+      "dates": [
+        "up to 2 months",
+        "a few several hours"
+      ],
+      "money": [
+        "some thousand pounds"
+      ],
+      "misc": [
+        "3",
+        "Five",
+        "Urban",
+        "two"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "launched",
+        "before": "that could usually be",
+        "after": "alive as zombies",
+        "full_context": "that could usually be launched alive as zombies"
+      },
+      {
+        "verb": "developed",
+        "before": "the solution they",
+        "after": "was reasonably priced and",
+        "full_context": "the solution they developed was reasonably priced and"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "after",
+        "sentence_idx": 2,
+        "sentence": "I realized right after speaking about my undertaking with him that he was the prospect I required"
+      },
+      {
+        "marker": "then",
+        "sentence_idx": 5,
+        "sentence": "iOS apple iphone and iPad app progress Hello, When you are seeking an iOS application for your personal enterprise or use Then you definitely are at the right spot"
+      },
+      {
+        "marker": "eventually",
+        "sentence_idx": 20,
+        "sentence": "In the common circumstance, Core Facts objects that happen to be loaded into memory are certainly not updated on a different thread until eventually These objects are fetched once again from persistent storage"
+      },
+      {
+        "marker": "after",
+        "sentence_idx": 31,
+        "sentence": "I realized right after speaking about my undertaking with him that he was the prospect I required"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Blessed"
+        ],
+        "organizations": [
+          "Core Facts",
+          "Main Data",
+          "NSZombies",
+          "Specialist",
+          "iPad"
+        ],
+        "locations": [
+          "Xcode",
+          "Invoice"
+        ],
+        "dates": [
+          "up to 2 months",
+          "a few several hours"
+        ],
+        "money": [
+          "some thousand pounds"
+        ]
+      },
+      "temporal_order": [
+        {
+          "marker": "after",
+          "position": 2
+        },
+        {
+          "marker": "then",
+          "position": 5
+        },
+        {
+          "marker": "eventually",
+          "position": 20
+        },
+        {
+          "marker": "after",
+          "position": 31
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "launched",
+          "context": "that could usually be launched alive as zombies"
+        },
+        {
+          "verb": "developed",
+          "context": "the solution they developed was reasonably priced and"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "Top latest Five hire ipad programmer Urban news",
+    "original_text": "I'm more than delighted with our encounter with Toptal. The Expert I got to work with was within the telephone with me inside of a few several hours. I realized right after speaking about my undertaking with him that he was the prospect I required.\nDealing with an application programmer and the release of the cellular app is just not something it is possible to reverse. So ensuring that you have hired the ideal man or woman is essential.\niOS apple iphone and iPad app progress Hello, When you are seeking an iOS application for your personal enterprise or use Then you definitely are at the right spot. I'm an iOS developer getting experience of one.\nThe expense to develop an app varies drastically dependant on what you want to try and do. A gut sense cheap estimate would be some thousand pounds.\nDon\u2019t be scared to acquire valuable phrases or phrases and use them in your outline. Get Concepts but make them your own private and integrate them in to the specification you publish in your undertaking.\nNot recognizing who you will be selecting, you could possibly get Blessed and look for a good programmer to establish a cellular app. On the flip side, you'll have a bitter knowledge as we did. The moment, we had to deal greater than 3 freelancers to ultimately get an honest consequence.\nWe attentively notice your projects and ambitions making sure that we will deliver an absolute undertaking approach by crafting a document destined to specify the task's scope, execution, Charge, and Management.\nToptal's developers and architects have been the two pretty Specialist and easy to operate with. The solution they developed was reasonably priced and leading excellent, decreasing our the perfect time to start. Many thanks once more, Toptal.\nThose people applications could be normal systems\nhire a good developer to perform a specific job or deliver a certain goal for The shopper or user.\nRemember, though, that\nhire ipad programmer improvements to Main Data objects do not always propagate immediately to other threads. In the common circumstance, Core Facts objects that happen to be loaded into memory are certainly not updated on a different thread until eventually These objects are fetched once again from persistent storage.\nA common reason for exc_bad_access mistakes that are not detectable by the compiler is seeking to accessibility produced objects. In these circumstances, enabling NSZombies in Xcode might be a highly effective debugging approach. Enabling NSZombies retains objects that could Usually be launched alive as \u201czombies\u201d.\nThere are many of financial and non-monetary prices which you fork out around and above the fees in the platform.\nSolutions are invoked by sending them a information. Here\u2019s an illustration of sending a information to the myUser object:\nWe Guantee that Just about every engagement concerning you and your iOS developer starts by using a demo duration of up to 2 months. This means that you have enough time to substantiate the engagement is going to be profitable. Should you\u2019re totally satisfied with the\nhire a good app developer final results, we\u2019ll Invoice you for enough time and carry on the engagement for provided that you\u2019d like.\nTop latest Five hire ipad programmer Urban news\nI'm more than delighted with our encounter with Toptal. The Expert I got to work with was within the telephone with me inside of a few several hours. I realized right after speaking about my undertaking with him that he was the prospect I required."
+  },
+  {
+    "article_id": 0,
+    "preprocessed": {
+      "cleaned_text": "The cryptocurrency exchange BISSNEX has recently completed key market expansion actions and gained increased recognition from the U.S. federal government and financial systems. BISSNEXs acquisition of the U.S. MSB license signals the continuous strengthening of the platforms capabilities and the adjustment of its global market strategy. Following the challenging progress of Bitcoin and Ethereum ETF proposals, the U.S. has shown rising friendliness towards the crypto industry, supporting cryptocurrency taxation as property. Although their overall attitude towards cryptocurrencies remains cautious, as the industry continues to evolve, governments worldwide are gradually implementing trading and regulatory standards for the crypto industry. The widespread circulation of mainstream cryptocurrencies has made BISSNEX particularly attentive to expanding into the U.S. market. The International Organization of Securities Commissions (IOSCO) previously released the Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets, indicating further progress in global crypto industry regulation standards. Soon after, BISSNEX obtained the Money Services Business (MSB) license from the U.S. Financial Crimes Enforcement Network (FinCEN), a milestone demonstrating BISSNEXs compliance with the highest industry standards in Anti-Money Laundering (AML) and Know Your Customer (KYC) practices. The platform will expand its services with higher compliance standards and strict regulatory requirements. Since its establishment, BISSNEX has been committed to creating a safe and legal trading environment to ensure the best protection for users interests and assets. The acquisition of the U.S. MSB license is a significant achievement in BISSNEXs compliance efforts, representing its leading position in trading compliance. The granting of this license requires exchanges to undergo rigorous due diligence to ensure compliance with the highest financial regulatory standards. In the U.S. states of New York and California, cryptocurrencies are considered legal digital assets. Based on its global market strategy, BISSNEX has strategically established its headquarters in New York, a decision made after careful consideration of the global regulatory environment of cryptocurrencies. The U.S., particularly New York, is known for its stringent regulatory framework, providing a solid foundation for financial business expansion. BISSNEX recognizes the importance of working closely with regulatory authorities to create a safe and sustainable cryptocurrency trading environment. BISSNEX is positioned at the forefront of compliance in the crypto industry. As a global financial centre, New York offers abundant financial resources and professional talent, providing BISSNEX with ample development opportunities. BISSNEX has also announced plans to expand its compliance team, recruiting various talents specializing in cryptocurrency regulations. This team will work tirelessly to ensure BISSNEXs operations comply with all relevant local and international regulations, providing users with peace of mind during trading. In addition to advancing compliance work, BISSNEX actively collaborates with regulatory bodies and industry associations to stay abreast of the latest developments in the cryptocurrency field. As the crypto industry continues to evolve, BISSNEX remains firmly committed to operating with the highest compliance and security standards. The acquisition of the MSB license is a clear practice of this commitment, demonstrating BISSNEXs determination to provide a safe and compliant trading environment for its users. Disclaimer: This press release may contain forward-looking statements. Forward-looking statements describe future expectations, plans, results, or strategies (including product offerings, regulatory plans and business plans) and may change without notice. You are cautioned that such statements are subject to a multitude of risks and uncertainties that could cause future circumstances, events, or results to differ materially from those projected in the forward-looking statements, including the risks that actual results may differ materially from those projected in the forward-looking statements. Media Contact Company Name: BISSNEX Contact Person: Media Relations Email: Send Email Country: United States Website: https:www.bdctp.co Data  News supplied by www.cloudquote.io Stock quotes supplied by Barchart Quotes delayed at least 20 minutes. By accessing this page, you agree to the following Privacy Policy and Terms and Conditions.",
+      "sentences": [
+        "The cryptocurrency exchange BISSNEX has recently completed key market expansion actions and gained increased recognition from the U",
+        "federal government and financial systems",
+        "BISSNEXs acquisition of the U",
+        "MSB license signals the continuous strengthening of the platforms capabilities and the adjustment of its global market strategy",
+        "Following the challenging progress of Bitcoin and Ethereum ETF proposals, the U",
+        "has shown rising friendliness towards the crypto industry, supporting cryptocurrency taxation as property",
+        "Although their overall attitude towards cryptocurrencies remains cautious, as the industry continues to evolve, governments worldwide are gradually implementing trading and regulatory standards for the crypto industry",
+        "The widespread circulation of mainstream cryptocurrencies has made BISSNEX particularly attentive to expanding into the U",
+        "The International Organization of Securities Commissions (IOSCO) previously released the Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets, indicating further progress in global crypto industry regulation standards",
+        "Soon after, BISSNEX obtained the Money Services Business (MSB) license from the U",
+        "Financial Crimes Enforcement Network (FinCEN), a milestone demonstrating BISSNEXs compliance with the highest industry standards in Anti-Money Laundering (AML) and Know Your Customer (KYC) practices",
+        "The platform will expand its services with higher compliance standards and strict regulatory requirements",
+        "Since its establishment, BISSNEX has been committed to creating a safe and legal trading environment to ensure the best protection for users interests and assets",
+        "The acquisition of the U",
+        "MSB license is a significant achievement in BISSNEXs compliance efforts, representing its leading position in trading compliance",
+        "The granting of this license requires exchanges to undergo rigorous due diligence to ensure compliance with the highest financial regulatory standards",
+        "states of New York and California, cryptocurrencies are considered legal digital assets",
+        "Based on its global market strategy, BISSNEX has strategically established its headquarters in New York, a decision made after careful consideration of the global regulatory environment of cryptocurrencies",
+        ", particularly New York, is known for its stringent regulatory framework, providing a solid foundation for financial business expansion",
+        "BISSNEX recognizes the importance of working closely with regulatory authorities to create a safe and sustainable cryptocurrency trading environment",
+        "BISSNEX is positioned at the forefront of compliance in the crypto industry",
+        "As a global financial centre, New York offers abundant financial resources and professional talent, providing BISSNEX with ample development opportunities",
+        "BISSNEX has also announced plans to expand its compliance team, recruiting various talents specializing in cryptocurrency regulations",
+        "This team will work tirelessly to ensure BISSNEXs operations comply with all relevant local and international regulations, providing users with peace of mind during trading",
+        "In addition to advancing compliance work, BISSNEX actively collaborates with regulatory bodies and industry associations to stay abreast of the latest developments in the cryptocurrency field",
+        "As the crypto industry continues to evolve, BISSNEX remains firmly committed to operating with the highest compliance and security standards",
+        "The acquisition of the MSB license is a clear practice of this commitment, demonstrating BISSNEXs determination to provide a safe and compliant trading environment for its users",
+        "Disclaimer: This press release may contain forward-looking statements",
+        "Forward-looking statements describe future expectations, plans, results, or strategies (including product offerings, regulatory plans and business plans) and may change without notice",
+        "You are cautioned that such statements are subject to a multitude of risks and uncertainties that could cause future circumstances, events, or results to differ materially from those projected in the forward-looking statements, including the risks that actual results may differ materially from those projected in the forward-looking statements",
+        "Media Contact Company Name: BISSNEX Contact Person: Media Relations Email: Send Email Country: United States Website: https:www",
+        "co Data  News supplied by www",
+        "io Stock quotes supplied by Barchart Quotes delayed at least 20 minutes",
+        "By accessing this page, you agree to the following Privacy Policy and Terms and Conditions"
+      ],
+      "sentence_count": 34
+    },
+    "entities": {
+      "persons": [
+        "Barchart Quotes"
+      ],
+      "organizations": [
+        "IOSCO",
+        "www.bdctp.co Data  News",
+        "MSB",
+        "The International Organization of Securities Commissions",
+        "the U.S. Financial Crimes Enforcement Network",
+        "Digital Asset Markets",
+        "Privacy Policy and Terms",
+        "BISSNEX",
+        "www.cloudquote.io Stock",
+        "KYC",
+        "Anti-Money Laundering (AML",
+        "Media Contact Company Name",
+        "the Consultation Report on Policy Recommendations for Crypto-Asset",
+        "the Money Services Business",
+        "Bitcoin and Ethereum"
+      ],
+      "locations": [
+        "New York",
+        "California",
+        "U.S."
+      ],
+      "dates": [],
+      "money": [],
+      "misc": [
+        "at least 20 minutes"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "announced",
+        "before": "bissnex has also",
+        "after": "plans to expand its",
+        "full_context": "bissnex has also announced plans to expand its"
+      },
+      {
+        "verb": "released",
+        "before": "previously",
+        "after": "the consultation report on",
+        "full_context": "previously released the consultation report on"
+      },
+      {
+        "verb": "completed",
+        "before": "exchange bissnex has recently",
+        "after": "key market expansion actions",
+        "full_context": "exchange bissnex has recently completed key market expansion actions"
+      },
+      {
+        "verb": "established",
+        "before": "bissnex has strategically",
+        "after": "its headquarters in new",
+        "full_context": "bissnex has strategically established its headquarters in new"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "recently",
+        "sentence_idx": 0,
+        "sentence": "The cryptocurrency exchange BISSNEX has recently completed key market expansion actions and gained increased recognition from the U"
+      },
+      {
+        "marker": "following",
+        "sentence_idx": 6,
+        "sentence": "Following the challenging progress of Bitcoin and Ethereum ETF proposals, the U"
+      },
+      {
+        "marker": "previously",
+        "sentence_idx": 13,
+        "sentence": "The International Organization of Securities Commissions (IOSCO) previously released the Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets, indicating further progress in global crypto industry regulation standards"
+      },
+      {
+        "marker": "soon",
+        "sentence_idx": 14,
+        "sentence": "Soon after, BISSNEX obtained the Money Services Business (MSB) license from the U"
+      },
+      {
+        "marker": "after",
+        "sentence_idx": 26,
+        "sentence": "Based on its global market strategy, BISSNEX has strategically established its headquarters in New York, a decision made after careful consideration of the global regulatory environment of cryptocurrencies"
+      },
+      {
+        "marker": "following",
+        "sentence_idx": 46,
+        "sentence": "By accessing this page, you agree to the following Privacy Policy and Terms and Conditions"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Barchart Quotes"
+        ],
+        "organizations": [
+          "IOSCO",
+          "www.bdctp.co Data  News",
+          "MSB",
+          "The International Organization of Securities Commissions",
+          "the U.S. Financial Crimes Enforcement Network"
+        ],
+        "locations": [
+          "New York",
+          "California",
+          "U.S."
+        ],
+        "dates": [],
+        "money": []
+      },
+      "temporal_order": [
+        {
+          "marker": "recently",
+          "position": 0
+        },
+        {
+          "marker": "following",
+          "position": 6
+        },
+        {
+          "marker": "previously",
+          "position": 13
+        },
+        {
+          "marker": "soon",
+          "position": 14
+        },
+        {
+          "marker": "after",
+          "position": 26
+        },
+        {
+          "marker": "following",
+          "position": 46
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "announced",
+          "context": "bissnex has also announced plans to expand its"
+        },
+        {
+          "verb": "released",
+          "context": "previously released the consultation report on"
+        },
+        {
+          "verb": "completed",
+          "context": "exchange bissnex has recently completed key market expansion actions"
+        },
+        {
+          "verb": "established",
+          "context": "bissnex has strategically established its headquarters in new"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "BISSNEX at the Forefront of Global Crypto Industry Compliance | User | mammothtimes.com",
+    "original_text": "The cryptocurrency exchange BISSNEX has recently completed key market expansion actions and gained increased recognition from the U.S. federal government and financial systems. BISSNEX's acquisition of the U.S. MSB license signals the continuous strengthening of the platform's capabilities and the adjustment of its global market strategy.\nFollowing the challenging progress of Bitcoin and Ethereum ETF proposals, the U.S. has shown rising friendliness towards the crypto industry, supporting cryptocurrency taxation as property. Although their overall attitude towards cryptocurrencies remains cautious, as the industry continues to evolve, governments worldwide are gradually implementing trading and regulatory standards for the crypto industry. The widespread circulation of mainstream cryptocurrencies has made BISSNEX particularly attentive to expanding into the U.S. market.\nThe International Organization of Securities Commissions (IOSCO) previously released the \"Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets,\" indicating further progress in global crypto industry regulation standards. Soon after, BISSNEX obtained the Money Services Business (MSB) license from the U.S. Financial Crimes Enforcement Network (FinCEN), a milestone demonstrating BISSNEX's compliance with the highest industry standards in Anti-Money Laundering (AML) and Know Your Customer (KYC) practices. The platform will expand its services with higher compliance standards and strict regulatory requirements.\nSince its establishment, BISSNEX has been committed to creating a safe and legal trading environment to ensure the best protection for users' interests and assets. The acquisition of the U.S. MSB license is a significant achievement in BISSNEX's compliance efforts, representing its leading position in trading compliance. The granting of this license requires exchanges to undergo rigorous due diligence to ensure compliance with the highest financial regulatory standards.\nIn the U.S. states of New York and California, cryptocurrencies are considered legal digital assets. Based on its global market strategy, BISSNEX has strategically established its headquarters in New York, a decision made after careful consideration of the global regulatory environment of cryptocurrencies. The U.S., particularly New York, is known for its stringent regulatory framework, providing a solid foundation for financial business expansion. BISSNEX recognizes the importance of working closely with regulatory authorities to create a safe and sustainable cryptocurrency trading environment.\nBISSNEX is positioned at the forefront of compliance in the crypto industry. As a global financial centre, New York offers abundant financial resources and professional talent, providing BISSNEX with ample development opportunities. BISSNEX has also announced plans to expand its compliance team, recruiting various talents specializing in cryptocurrency regulations. This team will work tirelessly to ensure BISSNEX's operations comply with all relevant local and international regulations, providing users with peace of mind during trading. In addition to advancing compliance work, BISSNEX actively collaborates with regulatory bodies and industry associations to stay abreast of the latest developments in the cryptocurrency field.\nAs the crypto industry continues to evolve, BISSNEX remains firmly committed to operating with the highest compliance and security standards. The acquisition of the MSB license is a clear practice of this commitment, demonstrating BISSNEX's determination to provide a safe and compliant trading environment for its users.\nDisclaimer: This press release may contain forward-looking statements. Forward-looking statements describe future expectations, plans, results, or strategies (including product offerings, regulatory plans and business plans) and may change without notice. You are cautioned that such statements are subject to a multitude of risks and uncertainties that could cause future circumstances, events, or results to differ materially from those projected in the forward-looking statements, including the risks that actual results may differ materially from those projected in the forward-looking statements.\nMedia Contact\nCompany Name: BISSNEX\nContact Person: Media Relations\nEmail: Send Email\nCountry: United States\nWebsite: https://www.bdctp.co\nData & News supplied by www.cloudquote.io\nStock quotes supplied by Barchart\nQuotes delayed at least 20 minutes.\nBy accessing this page, you agree to the following\nPrivacy Policy and Terms and Conditions ."
+  },
+  {
+    "article_id": 22,
+    "preprocessed": {
+      "cleaned_text": "A number of indicators show that the performance of sustainable forest management in 2023 exceeded the target, acting director general of sustainable forest management (PHL) at the Ministry of Environment and Forestry (KLHK), Agus Justianto, said in a statement, which was received here on Thursday. Besides the productivity of forest areas, which showed positive results, the accelerated implementation of the multi-forestry business model in forest utilization business licensing (PBPH) also helped make forest management increasingly inclusive by involving the community. Justianto informed that in 2023, planting and enrichment of plants was carried out on 667,780 hectares of the PBPH area. The figure was 156 percent above the target of 428 thousand hectares. He further disclosed that log production reached 58.13 million cubic meters, or 101.9 percent of the target of 57 million cubic meters. Most log production comes from plantation forests, 89.01 percent. Meanwhile, from natural forests 7.37 percent, from BUMN Perhutani 1.59 percent, and from non-forestry 2.03 (percent), he added. Logs are used as raw materials by the forest products processing industry and turned into various products such as woodworking products, plywood, wood chips, wood panels, and even pulp. Justianto said that besides timber, the production of non-timber forest products such as rattan, agarwood, latex, and bamboo also increased, with production in 2023 reaching 820.2 thousand tons, or equivalent to 193 percent of the target of 425 thousand tons. Forest management is now also becoming more inclusive by providing increasingly expanded community access. According to Justianto, the provision of legal access in the form of forestry partnerships to PBPH was realized for 20,643 hectares of land in 2023, or 137.6 percent of the target of 15 thousand hectares. Forestry partnerships have been followed up with the signing of an MoU and Cooperation Agreement Text (NKK) between the community and PBPH, he said. He further said that efforts to involve the community in forest management through forestry partnerships are in accordance with the policy to encourage multi-forestry businesses (MUK), where PBPH is not only oriented toward timber products, but also non-timber forest products. Implementation of MUK is necessary because it can increase the real economic value of forest areas and increase forest area productivity by encouraging the process of downstream product diversification, he explained. This year, MUK implementation was carried out on 14,078 hectares of PBPH areas located in seven provinces and 28,203 hectares in 12 Perhutani Forest Management Units (KPH), with multi-forestry businesses following an agroforestry pattern. Justianto added that the MUK model was also implemented in 64 KPH units spanning an area of 12,210 hectares in 14 provinces. In the meantime, chairperson of the Indonesian Forest Concessionaires Association (APHI), Indroyono Soesilo, said that currently, the business climate is becoming increasingly positive, which is supporting the continued improvement in the performance of sustainable forest management. The policies implemented by the Ministry of Environment and Forestry increasingly encourage PBPH to perform well, he added. Soesilo informed that in the future, PBPH will continue to support the ministrys sustainable forest management directions by accelerating the implementation of MUK and diversifying forest product industry products to advance the sustainability of forestry businesses. Related news: SVLK to ensure sustainable forest management: Deputy Minister Related news: Representatives from 14 countries learn peat management in Riau",
+      "sentences": [
+        "A number of indicators show that the performance of sustainable forest management in 2023 exceeded the target, acting director general of sustainable forest management (PHL) at the Ministry of Environment and Forestry (KLHK), Agus Justianto, said in a statement, which was received here on Thursday",
+        "Besides the productivity of forest areas, which showed positive results, the accelerated implementation of the multi-forestry business model in forest utilization business licensing (PBPH) also helped make forest management increasingly inclusive by involving the community",
+        "Justianto informed that in 2023, planting and enrichment of plants was carried out on 667,780 hectares of the PBPH area",
+        "The figure was 156 percent above the target of 428 thousand hectares",
+        "He further disclosed that log production reached 58",
+        "13 million cubic meters, or 101",
+        "9 percent of the target of 57 million cubic meters",
+        "Most log production comes from plantation forests, 89",
+        "Meanwhile, from natural forests 7",
+        "37 percent, from BUMN Perhutani 1",
+        "59 percent, and from non-forestry 2",
+        "03 (percent), he added",
+        "Logs are used as raw materials by the forest products processing industry and turned into various products such as woodworking products, plywood, wood chips, wood panels, and even pulp",
+        "Justianto said that besides timber, the production of non-timber forest products such as rattan, agarwood, latex, and bamboo also increased, with production in 2023 reaching 820",
+        "2 thousand tons, or equivalent to 193 percent of the target of 425 thousand tons",
+        "Forest management is now also becoming more inclusive by providing increasingly expanded community access",
+        "According to Justianto, the provision of legal access in the form of forestry partnerships to PBPH was realized for 20,643 hectares of land in 2023, or 137",
+        "6 percent of the target of 15 thousand hectares",
+        "Forestry partnerships have been followed up with the signing of an MoU and Cooperation Agreement Text (NKK) between the community and PBPH, he said",
+        "He further said that efforts to involve the community in forest management through forestry partnerships are in accordance with the policy to encourage multi-forestry businesses (MUK), where PBPH is not only oriented toward timber products, but also non-timber forest products",
+        "Implementation of MUK is necessary because it can increase the real economic value of forest areas and increase forest area productivity by encouraging the process of downstream product diversification, he explained",
+        "This year, MUK implementation was carried out on 14,078 hectares of PBPH areas located in seven provinces and 28,203 hectares in 12 Perhutani Forest Management Units (KPH), with multi-forestry businesses following an agroforestry pattern",
+        "Justianto added that the MUK model was also implemented in 64 KPH units spanning an area of 12,210 hectares in 14 provinces",
+        "In the meantime, chairperson of the Indonesian Forest Concessionaires Association (APHI), Indroyono Soesilo, said that currently, the business climate is becoming increasingly positive, which is supporting the continued improvement in the performance of sustainable forest management",
+        "The policies implemented by the Ministry of Environment and Forestry increasingly encourage PBPH to perform well, he added",
+        "Soesilo informed that in the future, PBPH will continue to support the ministrys sustainable forest management directions by accelerating the implementation of MUK and diversifying forest product industry products to advance the sustainability of forestry businesses",
+        "Related news: SVLK to ensure sustainable forest management: Deputy Minister Related news: Representatives from 14 countries learn peat management in Riau"
+      ],
+      "sentence_count": 27
+    },
+    "entities": {
+      "persons": [
+        "Justianto",
+        "Indroyono Soesilo",
+        "Agus Justianto"
+      ],
+      "organizations": [
+        "PHL",
+        "the Ministry of Environment and Forestry",
+        "Perhutani Forest Management Units",
+        "the Indonesian Forest Concessionaires Association (APHI",
+        "rattan",
+        "KPH",
+        "MUK",
+        "BUMN Perhutani",
+        "PBPH"
+      ],
+      "locations": [
+        "Riau"
+      ],
+      "dates": [
+        "Thursday",
+        "This year",
+        "2023"
+      ],
+      "money": [
+        "2.03 (percent",
+        "193 percent",
+        "89.01 percent",
+        "156 percent",
+        "7.37 percent",
+        "101.9 percent",
+        "137.6 percent",
+        "1.59 percent"
+      ],
+      "misc": [
+        "seven",
+        "15 thousand",
+        "14,078",
+        "667,780",
+        "425 thousand tons",
+        "820.2 thousand tons",
+        "64",
+        "28,203",
+        "14",
+        "12,210",
+        "58.13 million cubic meters",
+        "57 million cubic meters",
+        "428 thousand",
+        "20,643",
+        "12"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "implemented",
+        "before": "muk model was also",
+        "after": "in 64 kph units",
+        "full_context": "muk model was also implemented in 64 kph units"
+      },
+      {
+        "verb": "implemented",
+        "before": "the policies",
+        "after": "by the ministry of",
+        "full_context": "the policies implemented by the ministry of"
+      },
+      {
+        "verb": "said",
+        "before": "justianto",
+        "after": "that besides timber",
+        "full_context": "justianto said that besides timber"
+      },
+      {
+        "verb": "said",
+        "before": "he further",
+        "after": "that efforts to involve",
+        "full_context": "he further said that efforts to involve"
+      },
+      {
+        "verb": "expanded",
+        "before": "inclusive by providing increasingly",
+        "after": "community access",
+        "full_context": "inclusive by providing increasingly expanded community access"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "now",
+        "sentence_idx": 16,
+        "sentence": "Forest management is now also becoming more inclusive by providing increasingly expanded community access"
+      },
+      {
+        "marker": "following",
+        "sentence_idx": 22,
+        "sentence": "This year, MUK implementation was carried out on 14,078 hectares of PBPH areas located in seven provinces and 28,203 hectares in 12 Perhutani Forest Management Units (KPH), with multi-forestry businesses following an agroforestry pattern"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Justianto",
+          "Indroyono Soesilo",
+          "Agus Justianto"
+        ],
+        "organizations": [
+          "PHL",
+          "the Ministry of Environment and Forestry",
+          "Perhutani Forest Management Units",
+          "the Indonesian Forest Concessionaires Association (APHI",
+          "rattan"
+        ],
+        "locations": [
+          "Riau"
+        ],
+        "dates": [
+          "Thursday",
+          "This year",
+          "2023"
+        ],
+        "money": [
+          "2.03 (percent",
+          "193 percent",
+          "89.01 percent"
+        ]
+      },
+      "temporal_order": [
+        {
+          "marker": "now",
+          "position": 16
+        },
+        {
+          "marker": "following",
+          "position": 22
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "implemented",
+          "context": "muk model was also implemented in 64 kph units"
+        },
+        {
+          "verb": "implemented",
+          "context": "the policies implemented by the ministry of"
+        },
+        {
+          "verb": "said",
+          "context": "justianto said that besides timber"
+        },
+        {
+          "verb": "said",
+          "context": "he further said that efforts to involve"
+        },
+        {
+          "verb": "expanded",
+          "context": "inclusive by providing increasingly expanded community access"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "Sustainable forest management yields positive results in 2023: govt",
+    "original_text": "\"A number of indicators show that the performance of sustainable forest management in 2023 exceeded the target,\" acting director general of sustainable forest management (PHL) at the Ministry of Environment and Forestry (KLHK), Agus Justianto, said in a statement, which was received here on Thursday.\nBesides the productivity of forest areas, which showed positive results, the accelerated implementation of the multi-forestry business model in forest utilization business licensing (PBPH) also helped make forest management increasingly inclusive by involving the community.\nJustianto informed that in 2023, planting and enrichment of plants was carried out on 667,780 hectares of the PBPH area. The figure was 156 percent above the target of 428 thousand hectares.\nHe further disclosed that log production reached 58.13 million cubic meters, or 101.9 percent of the target of 57 million cubic meters.\n\"Most log production comes from plantation forests, 89.01 percent. Meanwhile, from natural forests 7.37 percent, from BUMN Perhutani 1.59 percent, and from non-forestry 2.03 (percent),\" he added.\nLogs are used as raw materials by the forest products processing industry and turned into various products such as woodworking products, plywood, wood chips, wood panels, and even pulp.\nJustianto said that besides timber, the production of non-timber forest products such as rattan, agarwood, latex, and bamboo also increased, with production in 2023 reaching 820.2 thousand tons, or equivalent to 193 percent of the target of 425 thousand tons.\nForest management is now also becoming more inclusive by providing increasingly expanded community access.\nAccording to Justianto, the provision of legal access in the form of forestry partnerships to PBPH was realized for 20,643 hectares of land in 2023, or 137.6 percent of the target of 15 thousand hectares.\n\"Forestry partnerships have been followed up with the signing of an MoU and Cooperation Agreement Text (NKK) between the community and PBPH,\" he said.\nHe further said that efforts to involve the community in forest management through forestry partnerships are in accordance with the policy to encourage multi-forestry businesses (MUK), where PBPH is not only oriented toward timber products, but also non-timber forest products.\n\"Implementation of MUK is necessary because it can increase the real economic value of forest areas and increase forest area productivity by encouraging the process of downstream product diversification,\" he explained.\nThis year, MUK implementation was carried out on 14,078 hectares of PBPH areas located in seven provinces and 28,203 hectares in 12 Perhutani Forest Management Units (KPH), with multi-forestry businesses following an agroforestry pattern.\nJustianto added that the MUK model was also implemented in 64 KPH units spanning an area of 12,210 hectares in 14 provinces.\nIn the meantime, chairperson of the Indonesian Forest Concessionaires Association (APHI), Indroyono Soesilo, said that currently, the business climate is becoming increasingly positive, which is supporting the continued improvement in the performance of sustainable forest management.\n\"The policies implemented by the Ministry of Environment and Forestry increasingly encourage PBPH to perform well,\" he added.\nSoesilo informed that in the future, PBPH will continue to support the ministry's sustainable forest management directions by accelerating the implementation of MUK and diversifying forest product industry products to advance the sustainability of forestry businesses.\nRelated news:\nSVLK to ensure sustainable forest management: Deputy Minister\nRelated news:\nRepresentatives from 14 countries learn peat management in Riau"
+  },
+  {
+    "article_id": 31,
+    "preprocessed": {
+      "cleaned_text": "MOUNTAIN VIEW, Calif., Dec. 28, 2023 PRNewswire -- As previously disclosed, on May 25, 2023, Embark Technology, Inc. (Embark) and Applied Intuition, Inc. (Applied) entered into an Agreement and Plan of Merger, pursuant to which, among other matters, Azara Merger Sub, Inc. merged with and into Embark, with Embark continuing as the surviving corporation and as a wholly owned subsidiary of Applied (the Merger). On June 26, 2023, a putative class action complaint was filed in the Court of Chancery of the State of Delaware (Court) by Marceil A. Hanshew, a stockholder of Embark (Plaintiff), against Embark and the then-members of Embarks Board of Directors (collectively, Defendants), captioned Marceil A. Hanshew v. Embark Technology, Inc. et al., C.A. No. 2023-0654-NAC (the Action). The complaint alleged that the disclosures made in the preliminary proxy statement on Schedule 14A filed with the Securities and Exchange Commission (the SEC) on June 16, 2023, in connection with the Merger, contained false and misleading statements. The complaint sought, among other forms of relief, a preliminary injunction to enjoin the Merger. On June 26, 2023, Embark filed a definitive proxy statement on Schedule 14A with the SEC (Proxy), and on June 29, 2023, Plaintiff and Plaintiffs spouse, David L. Hanshew (collectively, Plaintiffs), filed an amended complaint captioned David L. Hanshew in His Capacity as Attorney-in-Fact for Marceil A. Hanshew and Marceil A. Hanshew v. Embark Technology, Inc. et al., C.A. No. 2023-0654-NAC. To resolve the Action, Plaintiffs and Defendants ultimately agreed that Embark would make certain additional disclosures, which Embark made in Amendment No. 1 to the Proxy filed with the SEC on July 10, 2023 (the July 10 Amendment). On August 1, 2023, Plaintiffs voluntarily dismissed the Action as moot, and later that day, the Court entered a stipulated order dismissing the Action with prejudice as to the Plaintiffs and without prejudice as to any actual or potential claims of any other member(s) of the putative class. The Court retained jurisdiction solely for the purpose of adjudicating Plaintiffs counsels anticipated application for an award of attorneys fees and reimbursement of expenses in connection with the disclosures in the July 10 Amendment. In order to avoid the time and expense of continued litigation, Applied, as successor in interest of Embark, subsequently agreed to pay 114,000 to Plaintiffs counsel for attorneys fees and expenses in full satisfaction of their claim for attorneys fees and expenses in the Action. On December 21, 2023, the Court entered an order closing the case, subject to Applied filing an affidavit with the Court confirming that this notice has been issued. In entering the order, the Court was not asked to review, and did not pass judgment on, the payment of the attorneys fees and expenses or their reasonableness. View original content: SOURCE Applied Intuition, Inc.",
+      "sentences": [
+        "MOUNTAIN VIEW, Calif",
+        "28, 2023 PRNewswire -- As previously disclosed, on May 25, 2023, Embark Technology, Inc",
+        "(Embark) and Applied Intuition, Inc",
+        "(Applied) entered into an Agreement and Plan of Merger, pursuant to which, among other matters, Azara Merger Sub, Inc",
+        "merged with and into Embark, with Embark continuing as the surviving corporation and as a wholly owned subsidiary of Applied (the Merger)",
+        "On June 26, 2023, a putative class action complaint was filed in the Court of Chancery of the State of Delaware (Court) by Marceil A",
+        "Hanshew, a stockholder of Embark (Plaintiff), against Embark and the then-members of Embarks Board of Directors (collectively, Defendants), captioned Marceil A",
+        "Embark Technology, Inc",
+        "2023-0654-NAC (the Action)",
+        "The complaint alleged that the disclosures made in the preliminary proxy statement on Schedule 14A filed with the Securities and Exchange Commission (the SEC) on June 16, 2023, in connection with the Merger, contained false and misleading statements",
+        "The complaint sought, among other forms of relief, a preliminary injunction to enjoin the Merger",
+        "On June 26, 2023, Embark filed a definitive proxy statement on Schedule 14A with the SEC (Proxy), and on June 29, 2023, Plaintiff and Plaintiffs spouse, David L",
+        "Hanshew (collectively, Plaintiffs), filed an amended complaint captioned David L",
+        "Hanshew in His Capacity as Attorney-in-Fact for Marceil A",
+        "Hanshew and Marceil A",
+        "Embark Technology, Inc",
+        "2023-0654-NAC",
+        "To resolve the Action, Plaintiffs and Defendants ultimately agreed that Embark would make certain additional disclosures, which Embark made in Amendment No",
+        "1 to the Proxy filed with the SEC on July 10, 2023 (the July 10 Amendment)",
+        "On August 1, 2023, Plaintiffs voluntarily dismissed the Action as moot, and later that day, the Court entered a stipulated order dismissing the Action with prejudice as to the Plaintiffs and without prejudice as to any actual or potential claims of any other member(s) of the putative class",
+        "The Court retained jurisdiction solely for the purpose of adjudicating Plaintiffs counsels anticipated application for an award of attorneys fees and reimbursement of expenses in connection with the disclosures in the July 10 Amendment",
+        "In order to avoid the time and expense of continued litigation, Applied, as successor in interest of Embark, subsequently agreed to pay 114,000 to Plaintiffs counsel for attorneys fees and expenses in full satisfaction of their claim for attorneys fees and expenses in the Action",
+        "On December 21, 2023, the Court entered an order closing the case, subject to Applied filing an affidavit with the Court confirming that this notice has been issued",
+        "In entering the order, the Court was not asked to review, and did not pass judgment on, the payment of the attorneys fees and expenses or their reasonableness",
+        "View original content: SOURCE Applied Intuition, Inc"
+      ],
+      "sentence_count": 25
+    },
+    "entities": {
+      "persons": [
+        "A. Hanshew v.",
+        "Proxy",
+        "David L. Hanshew",
+        "Embark"
+      ],
+      "organizations": [
+        "SOURCE Applied Intuition, Inc.",
+        "Court",
+        "the Court of Chancery of the State of Delaware (Court",
+        "Embarks Board of Directors",
+        "Azara Merger Sub, Inc.",
+        "the Action, Plaintiffs and Defendants",
+        "SEC",
+        "Embark (Plaintiff",
+        "Applied Intuition, Inc.",
+        "Schedule 14A",
+        "Embark Technology, Inc.",
+        "Embark Technology",
+        "Plaintiff and Plaintiffs",
+        "Applied (the Merger",
+        "the Securities and Exchange Commission",
+        "Applied",
+        "C.A. No"
+      ],
+      "locations": [
+        "Calif.",
+        "al.",
+        "MOUNTAIN VIEW"
+      ],
+      "dates": [
+        "December 21, 2023",
+        "July 10, 2023",
+        "June 29, 2023",
+        "June 26, 2023",
+        "Dec. 28, 2023",
+        "August 1, 2023",
+        "later that day",
+        "May 25, 2023",
+        "June 16, 2023"
+      ],
+      "money": [],
+      "misc": [
+        "114,000",
+        "1",
+        "Fact for Marceil A. Hanshew",
+        "Schedule 14A",
+        "the July 10 Amendment",
+        "Marceil A. Hanshew"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "agreed",
+        "before": "plaintiffs and defendants ultimately",
+        "after": "that embark would make",
+        "full_context": "plaintiffs and defendants ultimately agreed that embark would make"
+      },
+      {
+        "verb": "agreed",
+        "before": "subsequently",
+        "after": "to pay 114",
+        "full_context": "subsequently agreed to pay 114"
+      },
+      {
+        "verb": "filed",
+        "before": "class action complaint was",
+        "after": "in the court of",
+        "full_context": "class action complaint was filed in the court of"
+      },
+      {
+        "verb": "filed",
+        "before": "statement on schedule 14a",
+        "after": "with the securities and",
+        "full_context": "statement on schedule 14a filed with the securities and"
+      },
+      {
+        "verb": "filed",
+        "before": "embark",
+        "after": "a definitive proxy statement",
+        "full_context": "embark filed a definitive proxy statement"
+      },
+      {
+        "verb": "filed",
+        "before": "1 to the proxy",
+        "after": "with the sec on",
+        "full_context": "1 to the proxy filed with the sec on"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "previously",
+        "sentence_idx": 2,
+        "sentence": "28, 2023 PRNewswire -- As previously disclosed, on May 25, 2023, Embark Technology, Inc"
+      },
+      {
+        "marker": "later",
+        "sentence_idx": 30,
+        "sentence": "On August 1, 2023, Plaintiffs voluntarily dismissed the Action as moot, and later that day, the Court entered a stipulated order dismissing the Action with prejudice as to the Plaintiffs and without prejudice as to any actual or potential claims of any other member(s) of the putative class"
+      },
+      {
+        "marker": "subsequently",
+        "sentence_idx": 32,
+        "sentence": "In order to avoid the time and expense of continued litigation, Applied, as successor in interest of Embark, subsequently agreed to pay 114,000 to Plaintiffs counsel for attorneys fees and expenses in full satisfaction of their claim for attorneys fees and expenses in the Action"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "A. Hanshew v.",
+          "Proxy",
+          "David L. Hanshew",
+          "Embark"
+        ],
+        "organizations": [
+          "SOURCE Applied Intuition, Inc.",
+          "Court",
+          "the Court of Chancery of the State of Delaware (Court",
+          "Embarks Board of Directors",
+          "Azara Merger Sub, Inc."
+        ],
+        "locations": [
+          "Calif.",
+          "al.",
+          "MOUNTAIN VIEW"
+        ],
+        "dates": [
+          "December 21, 2023",
+          "July 10, 2023",
+          "June 29, 2023"
+        ],
+        "money": []
+      },
+      "temporal_order": [
+        {
+          "marker": "previously",
+          "position": 2
+        },
+        {
+          "marker": "later",
+          "position": 30
+        },
+        {
+          "marker": "subsequently",
+          "position": 32
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "agreed",
+          "context": "plaintiffs and defendants ultimately agreed that embark would make"
+        },
+        {
+          "verb": "agreed",
+          "context": "subsequently agreed to pay 114"
+        },
+        {
+          "verb": "filed",
+          "context": "class action complaint was filed in the court of"
+        },
+        {
+          "verb": "filed",
+          "context": "statement on schedule 14a filed with the securities and"
+        },
+        {
+          "verb": "filed",
+          "context": "embark filed a definitive proxy statement"
+        },
+        {
+          "verb": "filed",
+          "context": "1 to the proxy filed with the sec on"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "Applied Intuition Announces Favorable Resolution of Securities Complaint",
+    "original_text": "MOUNTAIN VIEW, Calif., Dec. 28, 2023 /PRNewswire/ -- As previously disclosed, on May 25, 2023, Embark Technology, Inc. (\"Embark\") and Applied Intuition, Inc. (\"Applied\") entered into an Agreement and Plan of Merger, pursuant to which, among other matters, Azara Merger Sub, Inc. merged with and into Embark, with Embark continuing as the surviving corporation and as a wholly owned subsidiary of Applied (the \"Merger\").\nOn June 26, 2023, a putative class action complaint was filed in the Court of Chancery of the State of Delaware (\"Court\") by Marceil A. Hanshew, a stockholder of Embark (\"Plaintiff\"), against Embark and the then-members of Embark's Board of Directors (collectively, \"Defendants\"), captioned Marceil A. Hanshew v. Embark Technology, Inc. et al., C.A. No. 2023-0654-NAC (the \"Action\"). The complaint alleged that the disclosures made in the preliminary proxy statement on Schedule 14A filed with the Securities and Exchange Commission (the \"SEC\") on June 16, 2023, in connection with the Merger, contained false and misleading statements. The complaint sought, among other forms of relief, a preliminary injunction to enjoin the Merger.\nOn June 26, 2023, Embark filed a definitive proxy statement on Schedule 14A with the SEC (\"Proxy\"), and on June 29, 2023, Plaintiff and Plaintiff's spouse, David L. Hanshew (collectively, \"Plaintiffs\"), filed an amended complaint captioned David L. Hanshew in His Capacity as Attorney-in-Fact for Marceil A. Hanshew and Marceil A. Hanshew v. Embark Technology, Inc. et al., C.A. No. 2023-0654-NAC.\nTo resolve the Action, Plaintiffs and Defendants ultimately agreed that Embark would make certain additional disclosures, which Embark made in Amendment No. 1 to the Proxy filed with the SEC on July 10, 2023 (the \"July 10 Amendment\").\nOn August 1, 2023, Plaintiffs voluntarily dismissed the Action as moot, and later that day, the Court entered a stipulated order dismissing the Action with prejudice as to the Plaintiffs and without prejudice as to any actual or potential claims of any other member(s) of the putative class. The Court retained jurisdiction solely for the purpose of adjudicating Plaintiffs' counsel's anticipated application for an award of attorneys' fees and reimbursement of expenses in connection with the disclosures in the July 10 Amendment.\nIn order to avoid the time and expense of continued litigation, Applied, as successor in interest of Embark, subsequently agreed to pay $114,000 to Plaintiffs' counsel for attorneys' fees and expenses in full satisfaction of their claim for attorneys' fees and expenses in the Action. On December 21, 2023, the Court entered an order closing the case, subject to Applied filing an affidavit with the Court confirming that this notice has been issued. In entering the order, the Court was not asked to review, and did not pass judgment on, the payment of the attorneys' fees and expenses or their reasonableness.\nView original content:\nSOURCE Applied Intuition, Inc."
+  },
+  {
+    "article_id": 18,
+    "preprocessed": {
+      "cleaned_text": "For my enterprise to carry on to increase, I must hire the appropriate individuals. ZipRecruiter finds us the best men and women for that task. I hired him instantly and he squandered no time in attending to my venture, even going the extra mile by including some fantastic style features that Improved our Over-all appear. Toptal designed the process easy and handy. Toptal has become the 1st put we try to look for expert-amount help. Programming is the process of making a suggests of conversation for example code involving the user and a pc to create a software. A professional programmer differs from the coder because they actively think of alternatives to generate A prosperous method prior to starting the whole process of coding. Adam architects and develops database and BI remedies with no unnecessary complexity that happen to be efficient to produce, may be finished inside of aggressive timelines, and are quick to know, keep, and expand. Toptals developers and architects are already each extremely Specialist and straightforward to operate with. The solution they developed was rather priced and leading quality, decreasing our the perfect time to launch. Thanks once again, Toptal. Having said that, this receivedt work for everyone; Individuals who have spent decades while in the marketplace tend to possess a lot of contacts and know people who have earned their rely on. If youre able tot hire immediately, you will need to get started sourcing somewhere else. It entirely relies upon upon the applying you desire us to create. Just about every challenge wants unique technicalities, In keeping with which we assign the builders to our clients. Checked and unchecked exceptions Every have their own pros and cons, so the choice about which to work with largely depends on the situation and context. Would you expect the new developer being pleased with that? Whats going to the remainder of the team Feel  If youre selecting anyone to outrank them, Regardless of their perceived seniority? Joblane is usually a really feature-wealthy and interactive task portal to permit occupation seekers and employers to uncover fantastic matches for their needs. It isnt just a work-trying website to hire programmers to get portal but a understanding-sharing portal via its many instructive equipment like This may be harder than it sounds, particularly when you would like candidates able to Doing the job in a few various frameworks and languages. There is a great deal to go over. Claudio can also be a Accredited hire programmers SharePoint skilled and has labored with outstanding Microsoft hire good programmers clients, assisting them to maximize stability, effectiveness, and value. We would have liked some brief-time period function in Scala, and Toptal identified us an incredible developer within 24 hours. This basically wouldnt are actually doable by way of every other platform. hire programmers Secrets For my enterprise to carry on to increase, I must hire the appropriate individuals. ZipRecruiter finds us the best men and women for that task.",
+      "sentences": [
+        "For my enterprise to carry on to increase, I must hire the appropriate individuals",
+        "ZipRecruiter finds us the best men and women for that task",
+        "I hired him instantly and he squandered no time in attending to my venture, even going the extra mile by including some fantastic style features that Improved our Over-all appear",
+        "Toptal designed the process easy and handy",
+        "Toptal has become the 1st put we try to look for expert-amount help",
+        "Programming is the process of making a suggests of conversation for example code involving the user and a pc to create a software",
+        "A professional programmer differs from the coder because they actively think of alternatives to generate A prosperous method prior to starting the whole process of coding",
+        "Adam architects and develops database and BI remedies with no unnecessary complexity that happen to be efficient to produce, may be finished inside of aggressive timelines, and are quick to know, keep, and expand",
+        "Toptals developers and architects are already each extremely Specialist and straightforward to operate with",
+        "The solution they developed was rather priced and leading quality, decreasing our the perfect time to launch",
+        "Thanks once again, Toptal",
+        "Having said that, this receivedt work for everyone; Individuals who have spent decades while in the marketplace tend to possess a lot of contacts and know people who have earned their rely on",
+        "If youre able tot hire immediately, you will need to get started sourcing somewhere else",
+        "It entirely relies upon upon the applying you desire us to create",
+        "Just about every challenge wants unique technicalities, In keeping with which we assign the builders to our clients",
+        "Checked and unchecked exceptions Every have their own pros and cons, so the choice about which to work with largely depends on the situation and context",
+        "Would you expect the new developer being pleased with that",
+        "Whats going to the remainder of the team Feel  If youre selecting anyone to outrank them, Regardless of their perceived seniority",
+        "Joblane is usually a really feature-wealthy and interactive task portal to permit occupation seekers and employers to uncover fantastic matches for their needs",
+        "It isnt just a work-trying website to hire programmers to get portal but a understanding-sharing portal via its many instructive equipment like This may be harder than it sounds, particularly when you would like candidates able to Doing the job in a few various frameworks and languages",
+        "There is a great deal to go over",
+        "Claudio can also be a Accredited hire programmers SharePoint skilled and has labored with outstanding Microsoft hire good programmers clients, assisting them to maximize stability, effectiveness, and value",
+        "We would have liked some brief-time period function in Scala, and Toptal identified us an incredible developer within 24 hours",
+        "This basically wouldnt are actually doable by way of every other platform",
+        "hire programmers Secrets For my enterprise to carry on to increase, I must hire the appropriate individuals",
+        "ZipRecruiter finds us the best men and women for that task"
+      ],
+      "sentence_count": 26
+    },
+    "entities": {
+      "persons": [
+        "Joblane",
+        "Claudio",
+        "Feel"
+      ],
+      "organizations": [
+        "Microsoft",
+        "Accredited",
+        "Specialist",
+        "SharePoint",
+        "BI",
+        "ZipRecruiter",
+        "Toptal"
+      ],
+      "locations": [
+        "Scala",
+        "Toptal"
+      ],
+      "dates": [
+        "the 1st",
+        "24 hours",
+        "decades"
+      ],
+      "money": [],
+      "misc": [
+        "Toptal"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "developed",
+        "before": "the solution they",
+        "after": "was rather priced and",
+        "full_context": "the solution they developed was rather priced and"
+      },
+      {
+        "verb": "started",
+        "before": "will need to get",
+        "after": "sourcing somewhere else",
+        "full_context": "will need to get started sourcing somewhere else"
+      },
+      {
+        "verb": "said",
+        "before": "having",
+        "after": "that",
+        "full_context": "having said that"
+      }
+    ],
+    "temporal_info": [],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Joblane",
+          "Claudio",
+          "Feel"
+        ],
+        "organizations": [
+          "Microsoft",
+          "Accredited",
+          "Specialist",
+          "SharePoint",
+          "BI"
+        ],
+        "locations": [
+          "Scala",
+          "Toptal"
+        ],
+        "dates": [
+          "the 1st",
+          "24 hours",
+          "decades"
+        ],
+        "money": []
+      },
+      "temporal_order": [],
+      "action_sequence": [
+        {
+          "verb": "developed",
+          "context": "the solution they developed was rather priced and"
+        },
+        {
+          "verb": "started",
+          "context": "will need to get started sourcing somewhere else"
+        },
+        {
+          "verb": "said",
+          "context": "having said that"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "hire programmers Secrets",
+    "original_text": "\u201cFor my enterprise to carry on to increase, I must hire the appropriate individuals. ZipRecruiter finds us the best men and women for that task.\u201d\nI hired him instantly and he squandered no time in attending to my venture, even going the extra mile by including some fantastic style features that Improved our Over-all appear.\nToptal designed the process easy and handy. Toptal has become the 1st put we try to look for expert-amount help.\nProgramming is the process of making a suggests of conversation for example code involving the user and a pc to create a software. A professional programmer differs from the coder because they actively think of alternatives to generate A prosperous method prior to starting the whole process of coding.\nAdam architects and develops database and BI remedies with no unnecessary complexity that happen to be efficient to produce, may be finished inside of aggressive timelines, and are quick to know, keep, and expand.\nToptal's developers and architects are already each extremely Specialist and straightforward to operate with. The solution they developed was rather priced and leading quality, decreasing our the perfect time to launch. Thanks once again, Toptal.\nHaving said that, this received\u2019t work for everyone; Individuals who have spent decades while in the marketplace tend to possess a lot of contacts and know people who have earned their rely on. If you're able to\u2019t hire immediately, you will need to get started sourcing somewhere else.\nIt entirely relies upon upon the applying you desire us to create. Just about every challenge wants unique technicalities, In keeping with which we assign the builders to our clients.\nChecked and unchecked exceptions Every have their own pros and cons, so the choice about which to work with largely depends on the situation and context.\nWould you expect the new developer being pleased with that? What's going to the remainder of the team Feel \u2013 If you're selecting anyone to outrank them, Regardless of their perceived seniority?\nJoblane is usually a really feature-wealthy and interactive task portal to permit occupation seekers and employers to uncover fantastic matches for their needs. It isn't just a work-trying\nwebsite to hire programmers to get portal but a understanding-sharing portal via its many instructive equipment like\u2026\nThis may be harder than it sounds, particularly when you would like candidates able to Doing the job in a few various frameworks and languages. There is a great deal to go over.\nClaudio can also be a Accredited\nhire programmers SharePoint skilled and has labored with outstanding Microsoft hire good programmers clients, assisting them to maximize stability, effectiveness, and value.\nWe would have liked some brief-time period function in Scala, and Toptal identified us an incredible developer within 24 hours. This basically wouldn't are actually doable by way of every other platform.\nhire programmers Secrets\n\u201cFor my enterprise to carry on to increase, I must hire the appropriate individuals. ZipRecruiter finds us the best men and women for that task.\u201d"
+  },
+  {
+    "article_id": 28,
+    "preprocessed": {
+      "cleaned_text": "It has been another whirlwind year for the Centre for Ecocities and for everyone working on sustainability and climate action. As the year comes to a close, we wanted to share highlights of our work in 2023 and our plans for 2024. Project Announcements We are excited to have kicked off new projects over the past few months: - International Ecological Footprint Learning Lab This seven-year project, in collaboration with York University and the University of Iceland, funded by the Social Sciences and Humanities Research Council (SSHRC), will improve methodologies, knowledge, and student training in ecological footprinting at the urban scale. - Urban Consumption Guidebook for Cities We are working with C40 Cities, OneEarth Living, and Hot or Cool Instituteto develop a guide to equip global cities to take climate action using a consumption lens. This guide, with interactive resources, will launch in the spring. - British Columbia (BC) specific Policy and Planning Guide With funding from the Real Estate Foundation of BC, we are developing a BC-based guide for addressing priorities indicated by Consumption-Based Emission Inventories (CBEIs) while also advancing equity. We are also developing an archetype tool to simplify creation of CBEIs and Ecological Footprint assessments for communities across BC. Municipal Footprints It has been another busy year of creating inventories! Using the ecoCity Footprint Tool developed by Dr. Jennie Moore, our team completed Ecological Footprint assessments and CBEIs for the City of Ottawa, Lakefield College School, District of Saanich, City of Victoria, and City of Nanaimo (in progress). Events  Presentations Our team led and supported a number of webinars, workshops, and presentations this year: March - Cora Hallsworth delivered a presentation to the Climate Caucus encouraging Canadian Cities to consider their consumption-based emissions. - Christina Olsen represented the Centre presenting to the CMHC Expert Group on Housingon how BC municipalities are reducing greenhouse gas emissions and materials through measuring and managing consumption-based emissions and ecological footprint and developing buildings-related policies. May - An Ecocity Webinar on Sustainable Lifestylesexplored how local governments and their partners can advance sustainable lifestyles to act on climate, justice, and biodiversity. June - The Centre played a key role in the Ecocity World Summitin London, England where Christina Olsen served on the Academic Committee. Christina also led the workshop on closing the sustainability and equity gap in cities through use of consumption-based sustainability metrics, which included a video from the District of Saanich on their work in this area. September - Christina Olsen participated in a panel focussed on solving the over-consumption conundrumat the Fully Charged home energy and electric vehicle event. October - The Centre coordinated an Ecocity Peer Network Zoom meeting with the Honourable George Heyman, Minister of Environment and Climate Change Strategy for British Columbia (BC). Peer Network members discussed what is needed at the local level and how that can be scaled to achieve the CleanBC Roadmap to 2030. - Cora Hallsworth represented the Centre on a panel discussing how a bioregional approach can ensure we all can live well within the limits of our bioregion at the Victoria stop of the Regenerate Cascadia Bioregional Activation Tour. - Ryan Mackie delivered a presentation to the Climate Caucus on carbon budgeting and science-based targets. November - The Centre co-hosted a workshop and presented on the role of cities in Building Circular Culture for Climate Action at the Zero Waste Conferencein Vancouver. December - At the Ecocity Webinar on Climate Targets,Ryan Mackie shared how current greenhouse gas emissions targets and carbon budgeting stand up to the latest climate science and our progress to net zero. New Publications  Media Dr. Jennie Moore, with colleagues from Universit\u00e9 du Qu\u00e9bec and the University of British Columbia, and graduate students from Universit\u00e9 du Qu\u00e9bec and Simon Fraser University, published the paper To what extent is sustainability addressed at urban scale and how aligned is it with Earths productive capacity? This publication is a result of a grant from the Social Science and Humanities Research Council (SSHRC) to explore how living within Earths carrying capacity can be measured and managed at the city scale. Dr. Moore was interviewed on CKNW 980 radio on what it means for cities and societies to be socially just and ecologically sustainable, as well as what can be done to build ecocities. In another interview for the Vancouver Sun newspaper, Dr. Moore commented on the urban ecological pressures to convert valued ecosystem habitat into developed lands, and options for improved protection, for an article on how Metro Vancouver has lost the equivalent of six Stanley Parks of natural habitat in a decade. Ecocity Peer Network Member Spotlights Spotlight on Saanich The District of Saanich formally integrated the Ecological Footprint as a core metric to guide the municipality within its Official Community Plan, which is currently in final stages of approval. Saanich continues to support community stakeholders in taking action on footprint reduction through the One Planet Saanich initiative, the One Planet Student Challenge, the Residents Climate Action Guidebook, and the Saanich Carbon Calculator. Spotlight on Vancouver The City of Vancouver has taken a big step forward in addressing embodied emissions of buildings. Reporting requirements for whole building embodied carbon impacts are now in effect for new Part 3 buildings. Reduction requirements are coming in January 2025. More information: Embodied Carbon Guidelines PDFhttps:bcit.us8.list-manage.comtrackclick?udaf05330755626307efc8f07fid920a31ace6e99f691d1fd Embodied Carbon Requirements in Vancouver Building By-Law presentation PDFhttps:vancouver.cafilescovcp-seminar-2023-12-07-embodied-carbon-requirements-in-vbbl.pdf",
+      "sentences": [
+        "It has been another whirlwind year for the Centre for Ecocities and for everyone working on sustainability and climate action",
+        "As the year comes to a close, we wanted to share highlights of our work in 2023 and our plans for 2024",
+        "Project Announcements We are excited to have kicked off new projects over the past few months: - International Ecological Footprint Learning Lab This seven-year project, in collaboration with York University and the University of Iceland, funded by the Social Sciences and Humanities Research Council (SSHRC), will improve methodologies, knowledge, and student training in ecological footprinting at the urban scale",
+        "- Urban Consumption Guidebook for Cities We are working with C40 Cities, OneEarth Living, and Hot or Cool Instituteto develop a guide to equip global cities to take climate action using a consumption lens",
+        "This guide, with interactive resources, will launch in the spring",
+        "- British Columbia (BC) specific Policy and Planning Guide With funding from the Real Estate Foundation of BC, we are developing a BC-based guide for addressing priorities indicated by Consumption-Based Emission Inventories (CBEIs) while also advancing equity",
+        "We are also developing an archetype tool to simplify creation of CBEIs and Ecological Footprint assessments for communities across BC",
+        "Municipal Footprints It has been another busy year of creating inventories",
+        "Using the ecoCity Footprint Tool developed by Dr",
+        "Jennie Moore, our team completed Ecological Footprint assessments and CBEIs for the City of Ottawa, Lakefield College School, District of Saanich, City of Victoria, and City of Nanaimo (in progress)",
+        "Events  Presentations Our team led and supported a number of webinars, workshops, and presentations this year: March - Cora Hallsworth delivered a presentation to the Climate Caucus encouraging Canadian Cities to consider their consumption-based emissions",
+        "- Christina Olsen represented the Centre presenting to the CMHC Expert Group on Housingon how BC municipalities are reducing greenhouse gas emissions and materials through measuring and managing consumption-based emissions and ecological footprint and developing buildings-related policies",
+        "May - An Ecocity Webinar on Sustainable Lifestylesexplored how local governments and their partners can advance sustainable lifestyles to act on climate, justice, and biodiversity",
+        "June - The Centre played a key role in the Ecocity World Summitin London, England where Christina Olsen served on the Academic Committee",
+        "Christina also led the workshop on closing the sustainability and equity gap in cities through use of consumption-based sustainability metrics, which included a video from the District of Saanich on their work in this area",
+        "September - Christina Olsen participated in a panel focussed on solving the over-consumption conundrumat the Fully Charged home energy and electric vehicle event",
+        "October - The Centre coordinated an Ecocity Peer Network Zoom meeting with the Honourable George Heyman, Minister of Environment and Climate Change Strategy for British Columbia (BC)",
+        "Peer Network members discussed what is needed at the local level and how that can be scaled to achieve the CleanBC Roadmap to 2030",
+        "- Cora Hallsworth represented the Centre on a panel discussing how a bioregional approach can ensure we all can live well within the limits of our bioregion at the Victoria stop of the Regenerate Cascadia Bioregional Activation Tour",
+        "- Ryan Mackie delivered a presentation to the Climate Caucus on carbon budgeting and science-based targets",
+        "November - The Centre co-hosted a workshop and presented on the role of cities in Building Circular Culture for Climate Action at the Zero Waste Conferencein Vancouver",
+        "December - At the Ecocity Webinar on Climate Targets,Ryan Mackie shared how current greenhouse gas emissions targets and carbon budgeting stand up to the latest climate science and our progress to net zero",
+        "New Publications  Media Dr",
+        "Jennie Moore, with colleagues from Universit\u00e9 du Qu\u00e9bec and the University of British Columbia, and graduate students from Universit\u00e9 du Qu\u00e9bec and Simon Fraser University, published the paper To what extent is sustainability addressed at urban scale and how aligned is it with Earths productive capacity",
+        "This publication is a result of a grant from the Social Science and Humanities Research Council (SSHRC) to explore how living within Earths carrying capacity can be measured and managed at the city scale",
+        "Moore was interviewed on CKNW 980 radio on what it means for cities and societies to be socially just and ecologically sustainable, as well as what can be done to build ecocities",
+        "In another interview for the Vancouver Sun newspaper, Dr",
+        "Moore commented on the urban ecological pressures to convert valued ecosystem habitat into developed lands, and options for improved protection, for an article on how Metro Vancouver has lost the equivalent of six Stanley Parks of natural habitat in a decade",
+        "Ecocity Peer Network Member Spotlights Spotlight on Saanich The District of Saanich formally integrated the Ecological Footprint as a core metric to guide the municipality within its Official Community Plan, which is currently in final stages of approval",
+        "Saanich continues to support community stakeholders in taking action on footprint reduction through the One Planet Saanich initiative, the One Planet Student Challenge, the Residents Climate Action Guidebook, and the Saanich Carbon Calculator",
+        "Spotlight on Vancouver The City of Vancouver has taken a big step forward in addressing embodied emissions of buildings",
+        "Reporting requirements for whole building embodied carbon impacts are now in effect for new Part 3 buildings",
+        "Reduction requirements are coming in January 2025",
+        "More information: Embodied Carbon Guidelines PDFhttps:bcit",
+        "list-manage",
+        "comtrackclick",
+        "udaf05330755626307efc8f07fid920a31ace6e99f691d1fd Embodied Carbon Requirements in Vancouver Building By-Law presentation PDFhttps:vancouver",
+        "cafilescovcp-seminar-2023-12-07-embodied-carbon-requirements-in-vbbl"
+      ],
+      "sentence_count": 38
+    },
+    "entities": {
+      "persons": [
+        "Moore",
+        "Jennie Moore",
+        "George Heyman",
+        "Spotlights Spotlight",
+        "Ryan Mackie",
+        "Peer Network",
+        "Stanley Parks",
+        "Christina Olsen",
+        "Cora Hallsworth"
+      ],
+      "organizations": [
+        "the University of British Columbia",
+        "the University of Iceland",
+        "Lakefield College School",
+        "City of Nanaimo",
+        "Ecological Footprint",
+        "BC",
+        "New Publications",
+        "Policy and Planning Guide",
+        "Vancouver The City of Vancouver",
+        "OneEarth Living",
+        "Consumption-Based Emission Inventories",
+        "Universit\u00e9 du Qu\u00e9bec",
+        "Footprint Tool",
+        "the Social Science and Humanities Research Council",
+        "the Real Estate Foundation",
+        "Media",
+        "Embodied Carbon Requirements",
+        "Christina",
+        "the Regenerate Cascadia Bioregional Activation Tour",
+        "the Academic Committee",
+        "the Vancouver Sun",
+        "York University",
+        "the Ecocity World Summitin London",
+        "Metro Vancouver",
+        "the Climate Caucus",
+        "Simon Fraser University",
+        "the CMHC Expert Group",
+        "the Centre for Ecocities",
+        "Housingon",
+        "Building Circular Culture for Climate Action",
+        "SSHRC",
+        "Centre",
+        "the Social Sciences and Humanities Research Council"
+      ],
+      "locations": [
+        "the City of Ottawa",
+        "British Columbia",
+        "England",
+        "Victoria",
+        "the District of Saanich",
+        "Centre"
+      ],
+      "dates": [
+        "the past few months",
+        "October",
+        "2023",
+        "a decade",
+        "another busy year",
+        "June",
+        "2024",
+        "December",
+        "January 2025",
+        "September",
+        "the year",
+        "the spring",
+        "this year",
+        "March - Cora Hallsworth",
+        "2030",
+        "seven-year",
+        "another whirlwind year"
+      ],
+      "money": [],
+      "misc": [
+        "Official Community Plan",
+        "980",
+        "the Ecocity Webinar on Climate Targets",
+        "3",
+        "Vancouver Building",
+        "six",
+        "Ecocity Peer Network Zoom",
+        "Earths",
+        "zero",
+        "the Zero Waste Conferencein Vancouver",
+        "Canadian"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "developed",
+        "before": "the ecocity footprint tool",
+        "after": "by dr",
+        "full_context": "the ecocity footprint tool developed by dr"
+      },
+      {
+        "verb": "developed",
+        "before": "valued ecosystem habitat into",
+        "after": "lands",
+        "full_context": "valued ecosystem habitat into developed lands"
+      },
+      {
+        "verb": "completed",
+        "before": "our team",
+        "after": "ecological footprint assessments and",
+        "full_context": "our team completed ecological footprint assessments and"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "currently",
+        "sentence_idx": 29,
+        "sentence": "Ecocity Peer Network Member Spotlights Spotlight on Saanich The District of Saanich formally integrated the Ecological Footprint as a core metric to guide the municipality within its Official Community Plan, which is currently in final stages of approval"
+      },
+      {
+        "marker": "now",
+        "sentence_idx": 32,
+        "sentence": "Reporting requirements for whole building embodied carbon impacts are now in effect for new Part 3 buildings"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Moore",
+          "Jennie Moore",
+          "George Heyman",
+          "Spotlights Spotlight",
+          "Ryan Mackie"
+        ],
+        "organizations": [
+          "the University of British Columbia",
+          "the University of Iceland",
+          "Lakefield College School",
+          "City of Nanaimo",
+          "Ecological Footprint"
+        ],
+        "locations": [
+          "the City of Ottawa",
+          "British Columbia",
+          "England"
+        ],
+        "dates": [
+          "the past few months",
+          "October",
+          "2023"
+        ],
+        "money": []
+      },
+      "temporal_order": [
+        {
+          "marker": "currently",
+          "position": 29
+        },
+        {
+          "marker": "now",
+          "position": 32
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "developed",
+          "context": "the ecocity footprint tool developed by dr"
+        },
+        {
+          "verb": "developed",
+          "context": "valued ecosystem habitat into developed lands"
+        },
+        {
+          "verb": "completed",
+          "context": "our team completed ecological footprint assessments and"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "Year in Review 2023",
+    "original_text": "It has been another whirlwind year for the Centre for Ecocities and for everyone working on sustainability and climate action. As the year comes to a close, we wanted to share highlights of our work in 2023 and our plans for 2024.\nProject Announcements\nWe are excited to have kicked off new projects over the past few months:\n- International Ecological Footprint Learning Lab\nThis seven-year project, in collaboration with York University and the University of Iceland, funded by the Social Sciences and Humanities Research Council (SSHRC), will improve methodologies, knowledge, and student training in ecological footprinting at the urban scale.\n- Urban Consumption Guidebook for Cities\nWe are working with\nC40 Cities, OneEarth Living, and Hot or Cool Instituteto develop a guide to equip global cities to take climate action using a consumption lens. This guide, with interactive resources, will launch in the spring.\n- British Columbia (BC) specific Policy and Planning Guide\nWith funding from the\nReal Estate Foundation of BC, we are developing a BC-based guide for addressing priorities indicated by Consumption-Based Emission Inventories (CBEIs) while also advancing equity. We are also developing an archetype tool to simplify creation of CBEIs and Ecological Footprint assessments for communities across BC.\nMunicipal Footprints\nIt has been another busy year of creating inventories!\nUsing the ecoCity Footprint Tool developed by Dr. Jennie Moore, our team completed Ecological Footprint assessments and CBEIs for the City of Ottawa, Lakefield College School, District of Saanich, City of Victoria, and City of Nanaimo (in progress).\nEvents & Presentations\nOur team led and supported a number of webinars, workshops, and presentations this year:\nMarch\n- Cora Hallsworth delivered a presentation to the Climate Caucus\nencouraging Canadian Cities to consider their consumption-based emissions.\n- Christina Olsen represented the Centre presenting to the\nCMHC Expert Group on Housingon how BC municipalities are reducing greenhouse gas emissions and materials through measuring and managing consumption-based emissions and ecological footprint and developing buildings-related policies.\nMay\n- An\nEcocity Webinar on Sustainable Lifestylesexplored how local governments and their partners can advance sustainable lifestyles to act on climate, justice, and biodiversity.\nJune\n- The Centre played a key role in the\nEcocity World Summitin London, England where Christina Olsen served on the Academic Committee. Christina also led the workshop on closing the sustainability and equity gap in cities through use of consumption-based sustainability metrics, which included a video from the District of Saanich on their work in this area.\nSeptember\n- Christina Olsen participated in a panel focussed on\nsolving the over-consumption conundrumat the Fully Charged home energy and electric vehicle event.\nOctober\n- The Centre coordinated an Ecocity Peer Network Zoom meeting with the Honourable George Heyman, Minister of Environment and Climate Change Strategy for British Columbia (BC). Peer Network members discussed what is needed at the local level and how that can be scaled to achieve the CleanBC Roadmap to 2030.\n- Cora Hallsworth represented the Centre on a panel discussing how a bioregional approach can ensure we all can live well within the limits of our bioregion at the\nVictoria stop of the Regenerate Cascadia Bioregional Activation Tour.\n- Ryan Mackie delivered a presentation to the Climate Caucus on\ncarbon budgeting and science-based targets.\nNovember\n- The Centre co-hosted a workshop and presented on the role of cities in Building Circular Culture for Climate Action at the\nZero Waste Conferencein Vancouver.\nDecember\n- At the\nEcocity Webinar on Climate Targets,Ryan Mackie shared how current greenhouse gas emissions targets and carbon budgeting stand up to the latest climate science and our progress to net zero.\nNew Publications & Media\nDr. Jennie Moore, with colleagues from Universit\u00e9 du Qu\u00e9bec and the University of British Columbia, and graduate students from Universit\u00e9 du Qu\u00e9bec and Simon Fraser University, published the paper\nTo what extent is sustainability addressed at urban scale and how aligned is it with Earth\u2019s productive capacity? This publication is a result of a grant from the Social Science and Humanities Research Council (SSHRC) to explore how living within Earth\u2019s carrying capacity can be measured and managed at the city scale.\nDr. Moore was interviewed on CKNW 980 radio on what it means for\ncities and societies to be socially just and ecologically sustainable, as well as what can be done to build ecocities.\nIn another interview for the Vancouver Sun newspaper, Dr. Moore commented on the\nurban ecological pressures to convert valued ecosystem habitat into developed lands, and options for improved protection, for an article on how Metro Vancouver has lost the equivalent of six Stanley Parks of natural habitat in a decade.\nEcocity Peer Network Member Spotlights\nSpotlight on Saanich\nThe District of Saanich formally integrated the Ecological Footprint as a core metric to guide the municipality within its\nOfficial Community Plan, which is currently in final stages of approval. Saanich continues to support community stakeholders in taking action on footprint reduction through the One Planet Saanich initiative, the One Planet Student Challenge, the Resident\u2019s Climate Action Guidebook, and the Saanich Carbon Calculator.\nSpotlight on Vancouver\nThe City of Vancouver has taken a big step forward in addressing embodied emissions of buildings. Reporting requirements for whole building\nembodied carbon impacts are now in effect for new Part 3 buildings. Reduction requirements are coming in January 2025. More information: [Embodied Carbon Guidelines [PDF]]https://bcit.us8.list-manage.com/track/click?u=daf05330755626307efc8f07f&id=920a31ace6&e=99f691d1fd [Embodied Carbon Requirements in Vancouver Building By-Law presentation [PDF]]https://vancouver.ca/files/cov/cp-seminar-2023-12-07-embodied-carbon-requirements-in-vbbl.pdf"
+  },
+  {
+    "article_id": 10,
+    "preprocessed": {
+      "cleaned_text": "It is the time of year when families spending days together at home often start a challenging new jigsaw puzzle. But many fall at the first hurdle by failing to have the right-sized surface for all the pieces. Now that problem has been solved by a research paper revealing that the best table size is just under twice the size of the assembled puzzle. Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000. They found an unassembled jigsaw puzzle takes up an area about 1.7 times its finished size. A research paper has revealed that the best table size to do a puzzle on is just under twice the size of the assembled puzzle (Stock image) Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000 (Stock image) The researchers laid out and measured the pieces for each puzzle, placing them as naturally as possible, not artificially close to each other. Then they painstakingly completed each jigsaw and worked out the length and width of the assembled picture. To their surprise, a simple theory predicted the area needed for the pieces regardless of the number. Dr Madeleine Bonsma-Fisher, of the University of Toronto, said she gasped at the discovery. The results were the most incredible agreement between theory and data Ive ever seen in over a decade of being a physicist, she added. The research was reported by New Scientist and published on the open-access website arXiv.",
+      "sentences": [
+        "It is the time of year when families spending days together at home often start a challenging new jigsaw puzzle",
+        "But many fall at the first hurdle by failing to have the right-sized surface for all the pieces",
+        "Now that problem has been solved by a research paper revealing that the best table size is just under twice the size of the assembled puzzle",
+        "Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000",
+        "They found an unassembled jigsaw puzzle takes up an area about 1",
+        "7 times its finished size",
+        "A research paper has revealed that the best table size to do a puzzle on is just under twice the size of the assembled puzzle (Stock image) Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000 (Stock image) The researchers laid out and measured the pieces for each puzzle, placing them as naturally as possible, not artificially close to each other",
+        "Then they painstakingly completed each jigsaw and worked out the length and width of the assembled picture",
+        "To their surprise, a simple theory predicted the area needed for the pieces regardless of the number",
+        "Dr Madeleine Bonsma-Fisher, of the University of Toronto, said she gasped at the discovery",
+        "The results were the most incredible agreement between theory and data Ive ever seen in over a decade of being a physicist, she added",
+        "The research was reported by New Scientist and published on the open-access website arXiv"
+      ],
+      "sentence_count": 12
+    },
+    "entities": {
+      "persons": [
+        "Madeleine Bonsma-Fisher",
+        "Kent Bonsma-Fisher"
+      ],
+      "organizations": [
+        "New Scientist",
+        "the University of Toronto"
+      ],
+      "locations": [],
+      "dates": [
+        "over a decade",
+        "days",
+        "the time of year"
+      ],
+      "money": [],
+      "misc": [
+        "about 1.7",
+        "nine to 2,000",
+        "first",
+        "nine"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "revealed",
+        "before": "a research paper has",
+        "after": "that the best table",
+        "full_context": "a research paper has revealed that the best table"
+      },
+      {
+        "verb": "completed",
+        "before": "then they painstakingly",
+        "after": "each jigsaw and worked",
+        "full_context": "then they painstakingly completed each jigsaw and worked"
+      },
+      {
+        "verb": "reported",
+        "before": "the research was",
+        "after": "by new scientist and",
+        "full_context": "the research was reported by new scientist and"
+      },
+      {
+        "verb": "published",
+        "before": "by new scientist and",
+        "after": "on the open",
+        "full_context": "by new scientist and published on the open"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "first",
+        "sentence_idx": 1,
+        "sentence": "But many fall at the first hurdle by failing to have the right-sized surface for all the pieces"
+      },
+      {
+        "marker": "now",
+        "sentence_idx": 2,
+        "sentence": "Now that problem has been solved by a research paper revealing that the best table size is just under twice the size of the assembled puzzle"
+      },
+      {
+        "marker": "after",
+        "sentence_idx": 3,
+        "sentence": "Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000"
+      },
+      {
+        "marker": "after",
+        "sentence_idx": 6,
+        "sentence": "A research paper has revealed that the best table size to do a puzzle on is just under twice the size of the assembled puzzle (Stock image) Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000 (Stock image) The researchers laid out and measured the pieces for each puzzle, placing them as naturally as possible, not artificially close to each other"
+      },
+      {
+        "marker": "then",
+        "sentence_idx": 7,
+        "sentence": "Then they painstakingly completed each jigsaw and worked out the length and width of the assembled picture"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Madeleine Bonsma-Fisher",
+          "Kent Bonsma-Fisher"
+        ],
+        "organizations": [
+          "New Scientist",
+          "the University of Toronto"
+        ],
+        "locations": [],
+        "dates": [
+          "over a decade",
+          "days",
+          "the time of year"
+        ],
+        "money": []
+      },
+      "temporal_order": [
+        {
+          "marker": "first",
+          "position": 1
+        },
+        {
+          "marker": "now",
+          "position": 2
+        },
+        {
+          "marker": "after",
+          "position": 3
+        },
+        {
+          "marker": "after",
+          "position": 6
+        },
+        {
+          "marker": "then",
+          "position": 7
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "revealed",
+          "context": "a research paper has revealed that the best table"
+        },
+        {
+          "verb": "completed",
+          "context": "then they painstakingly completed each jigsaw and worked"
+        },
+        {
+          "verb": "reported",
+          "context": "the research was reported by new scientist and"
+        },
+        {
+          "verb": "published",
+          "context": "by new scientist and published on the open"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "Solved at last, the first puzzle: Scientists find the ideal size of surface to assemble a jigsaw on | Daily Mail Online",
+    "original_text": "It is the time of year when families spending days together at home often start a challenging new jigsaw puzzle. But many fall at the first hurdle by failing to have the right-sized surface for all the pieces. Now that problem has been solved by a research paper revealing that the best table size is just under twice the size of the assembled puzzle. Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000. They found an unassembled jigsaw puzzle takes up an area about 1.7 times its finished size. A research paper has revealed that the best table size to do a puzzle on is just under twice the size of the assembled puzzle (Stock image) Data scientist Dr Madeleine Bonsma-Fisher and her quantum physicist husband Dr Kent Bonsma-Fisher concluded this after completing nine jigsaws, with the number of pieces ranging from nine to 2,000 (Stock image) The researchers laid out and measured the pieces for each puzzle, placing them as naturally as possible, not artificially close to each other. Then they painstakingly completed each jigsaw and worked out the length and width of the assembled picture. To their surprise, a simple theory predicted the area needed for the pieces regardless of the number. Dr Madeleine Bonsma-Fisher, of the University of Toronto, said she 'gasped' at the discovery. 'The results were the most incredible agreement between theory and data I've ever seen in over a decade of being a physicist,' she added. The research was reported by New Scientist and published on the open-access website arXiv."
+  },
+  {
+    "article_id": 53,
+    "preprocessed": {
+      "cleaned_text": "billionaire brain wave program Youll attract in more hard cash. You will get started attracting prosperity from quite a few sources and grow to be a money magnet. You can remove your credit card debt, raise your cost savings, make prudent investments, and expertise financial freedom. Well each man or woman is different, so The solution isnt the very same for everybody. Some have skilled massive outcomes the moment the 1st day. Other individuals have taken months to totally activate their 3rd eye. I recommend utilizing it daily for a full thirty day period right before getting too concerned about it. Billionaire Brain Wave is a unique program built to tap into a dormant brain wave often known as the Theta wave. This seemingly mystical wave is considered to generally be a key to attracting wealth and achievement into your life. In conjunction with waves that Enhance theta waves, 3 sound waves tend to be more strong in manifesting good results. Early researchers utilised these waves to take a position and find out unfamiliar items. Listening to the Billionaire Brain Wave system on a regular basis should help us reach our plans much more quickly and make improvements to our luck. Right after analyzing all of the variables talked over higher than, we can easily conclude that The Billionaire Brain Wave is an excellent purchase for an inexpensive value. Based on the sales web page Tale, Billionaire Brain Wave was created by Dave Mitchell  just a mean guy who was having difficulties financially until finally he uncovered this audio technologies accidentally. The Billionaire Brain Wave audio program is attractively priced at 39. The creators have deliberately established this Value to be sure accessibility for everybody, aligning with their mission to really make it a spending plan-pleasant solution. billionaire brain wave reviews The FDA hasnt evaluated the statements provided on this site. Be sure you talk to having a licensed health care provider right before getting any dietary supplement or producing any changes for your diet plan or workout approach. Personal final results may well fluctuate. two: You may tap into your instinct less difficult, allowing your deepest wishes to manifest quicker to you personally. You might be, for that reason, limiting the prospective in you by attracting detrimental and nerve-racking factors to your lifetime. The beta waves are classified as the main reason for the inability to achieve anything. Youll have to activate your brain waves to eliminate the problem. Implications ended up designed since the need for the theta frequency of The BillionaireBrain Wave grew. These fakes might be costly, Nevertheless they also have no gain for you. Awaken to your entire world of tranquility and limitless possibilities, given that the comforting ocean breeze and magnificent spa environment invite you to start out on a daily basis in best harmony. Overall, making wealth just isnt really hard if you recognize the best way to create cash. Manifesting money is not hard when you have a giant hippocampus. Theta waves will align all-stars to create your life productive and prosperous. billionaire brain wave video",
+      "sentences": [
+        "billionaire brain wave program Youll attract in more hard cash",
+        "You will get started attracting prosperity from quite a few sources and grow to be a money magnet",
+        "You can remove your credit card debt, raise your cost savings, make prudent investments, and expertise financial freedom",
+        "Well each man or woman is different, so The solution isnt the very same for everybody",
+        "Some have skilled massive outcomes the moment the 1st day",
+        "Other individuals have taken months to totally activate their 3rd eye",
+        "I recommend utilizing it daily for a full thirty day period right before getting too concerned about it",
+        "Billionaire Brain Wave is a unique program built to tap into a dormant brain wave often known as the Theta wave",
+        "This seemingly mystical wave is considered to generally be a key to attracting wealth and achievement into your life",
+        "In conjunction with waves that Enhance theta waves, 3 sound waves tend to be more strong in manifesting good results",
+        "Early researchers utilised these waves to take a position and find out unfamiliar items",
+        "Listening to the Billionaire Brain Wave system on a regular basis should help us reach our plans much more quickly and make improvements to our luck",
+        "Right after analyzing all of the variables talked over higher than, we can easily conclude that The Billionaire Brain Wave is an excellent purchase for an inexpensive value",
+        "Based on the sales web page Tale, Billionaire Brain Wave was created by Dave Mitchell  just a mean guy who was having difficulties financially until finally he uncovered this audio technologies accidentally",
+        "The Billionaire Brain Wave audio program is attractively priced at 39",
+        "The creators have deliberately established this Value to be sure accessibility for everybody, aligning with their mission to really make it a spending plan-pleasant solution",
+        "billionaire brain wave reviews The FDA hasnt evaluated the statements provided on this site",
+        "Be sure you talk to having a licensed health care provider right before getting any dietary supplement or producing any changes for your diet plan or workout approach",
+        "Personal final results may well fluctuate",
+        "two: You may tap into your instinct less difficult, allowing your deepest wishes to manifest quicker to you personally",
+        "You might be, for that reason, limiting the prospective in you by attracting detrimental and nerve-racking factors to your lifetime",
+        "The beta waves are classified as the main reason for the inability to achieve anything",
+        "Youll have to activate your brain waves to eliminate the problem",
+        "Implications ended up designed since the need for the theta frequency of The BillionaireBrain Wave grew",
+        "These fakes might be costly, Nevertheless they also have no gain for you",
+        "Awaken to your entire world of tranquility and limitless possibilities, given that the comforting ocean breeze and magnificent spa environment invite you to start out on a daily basis in best harmony",
+        "Overall, making wealth just isnt really hard if you recognize the best way to create cash",
+        "Manifesting money is not hard when you have a giant hippocampus",
+        "Theta waves will align all-stars to create your life productive and prosperous",
+        "billionaire brain wave video"
+      ],
+      "sentence_count": 30
+    },
+    "entities": {
+      "persons": [
+        "Dave Mitchell",
+        "Billionaire Brain Wave",
+        "Theta"
+      ],
+      "organizations": [
+        "FDA",
+        "the Billionaire Brain Wave",
+        "Value",
+        "Awaken",
+        "The Billionaire Brain Wave"
+      ],
+      "locations": [],
+      "dates": [
+        "months",
+        "daily",
+        "the 1st day",
+        "a full thirty day"
+      ],
+      "money": [],
+      "misc": [
+        "3",
+        "39",
+        "3rd",
+        "two"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "created",
+        "before": "billionaire brain wave was",
+        "after": "by dave mitchell  just",
+        "full_context": "billionaire brain wave was created by dave mitchell  just"
+      },
+      {
+        "verb": "started",
+        "before": "you will get",
+        "after": "attracting prosperity from quite",
+        "full_context": "you will get started attracting prosperity from quite"
+      },
+      {
+        "verb": "established",
+        "before": "the creators have deliberately",
+        "after": "this value to be",
+        "full_context": "the creators have deliberately established this value to be"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "before",
+        "sentence_idx": 6,
+        "sentence": "I recommend utilizing it daily for a full thirty day period right before getting too concerned about it"
+      },
+      {
+        "marker": "after",
+        "sentence_idx": 12,
+        "sentence": "Right after analyzing all of the variables talked over higher than, we can easily conclude that The Billionaire Brain Wave is an excellent purchase for an inexpensive value"
+      },
+      {
+        "marker": "finally",
+        "sentence_idx": 13,
+        "sentence": "Based on the sales web page Tale, Billionaire Brain Wave was created by Dave Mitchell  just a mean guy who was having difficulties financially until finally he uncovered this audio technologies accidentally"
+      },
+      {
+        "marker": "before",
+        "sentence_idx": 17,
+        "sentence": "Be sure you talk to having a licensed health care provider right before getting any dietary supplement or producing any changes for your diet plan or workout approach"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Dave Mitchell",
+          "Billionaire Brain Wave",
+          "Theta"
+        ],
+        "organizations": [
+          "FDA",
+          "the Billionaire Brain Wave",
+          "Value",
+          "Awaken",
+          "The Billionaire Brain Wave"
+        ],
+        "locations": [],
+        "dates": [
+          "months",
+          "daily",
+          "the 1st day"
+        ],
+        "money": []
+      },
+      "temporal_order": [
+        {
+          "marker": "before",
+          "position": 6
+        },
+        {
+          "marker": "after",
+          "position": 12
+        },
+        {
+          "marker": "finally",
+          "position": 13
+        },
+        {
+          "marker": "before",
+          "position": 17
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "created",
+          "context": "billionaire brain wave was created by dave mitchell  just"
+        },
+        {
+          "verb": "started",
+          "context": "you will get started attracting prosperity from quite"
+        },
+        {
+          "verb": "established",
+          "context": "the creators have deliberately established this value to be"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "The billionaire brainwave music Diaries",
+    "original_text": "billionaire brain wave program\nYou\u2019ll attract in more hard cash. You will get started attracting prosperity from quite a few sources and grow to be a money magnet. You can remove your credit card debt, raise your cost savings, make prudent investments, and expertise financial freedom.\nWell each man or woman is different, so The solution isn't the very same for everybody. Some have skilled massive outcomes the moment the 1st day. Other individuals have taken months to totally activate their 3rd eye. I recommend utilizing it daily for a full thirty day period right before getting too concerned about it.\nBillionaire Brain Wave is a unique program built to tap into a dormant brain wave often known as the Theta wave. This seemingly mystical wave is considered to generally be a key to attracting wealth and achievement into your life.\nIn conjunction with waves that Enhance theta waves, 3 sound waves tend to be more strong in manifesting good results. Early researchers utilised these waves to take a position and find out unfamiliar items.\nListening to the Billionaire Brain Wave system on a regular basis should help us reach our plans much more quickly and make improvements to our luck.\nRight after analyzing all of the variables talked over higher than, we can easily conclude that The Billionaire Brain Wave is an excellent purchase for an inexpensive value.\nBased on the sales web page Tale, Billionaire Brain Wave was created by Dave Mitchell \u2014 just a mean guy who was having difficulties financially until finally he uncovered this audio technologies accidentally.\nThe Billionaire Brain Wave audio program is attractively priced at $39. The creators have deliberately established this Value to be sure accessibility for everybody, aligning with their mission to really make it a spending plan-pleasant solution.\nbillionaire brain wave reviews\nThe FDA hasn't evaluated the statements provided on this site. Be sure you talk to having a licensed health care provider right before getting any dietary supplement or producing any changes for your diet plan or workout approach. Personal final results may well fluctuate.\n#two: You may tap into your instinct less difficult, allowing your deepest wishes to manifest quicker to you personally.\nYou might be, for that reason, limiting the prospective in you by attracting detrimental and nerve-racking factors to your lifetime. The beta waves are classified as the main reason for the inability to achieve anything. You'll have to activate your brain waves to eliminate the problem.\nImplications ended up designed since the need for the theta frequency of The BillionaireBrain Wave grew. These fakes might be costly, Nevertheless they also have no gain for you.\nAwaken to your entire world of tranquility and limitless possibilities, given that the comforting ocean breeze and magnificent spa environment invite you to start out on a daily basis in best harmony.\nOverall, making wealth just isn't really hard if you recognize the best way to create cash. Manifesting money is not hard when you have a giant hippocampus. Theta waves will align all-stars to create your life productive and prosperous.\nbillionaire brain wave video"
+  },
+  {
+    "article_id": 4,
+    "preprocessed": {
+      "cleaned_text": "LIMA, Peru  After more than 100 years, plants hidden deep within the tropical Andes and once thought extinct have been rediscovered with the help of community scientists. These plants are part of the Nasa genus from the Blazing Star family (Loasaceae). They have long perplexed scientists due to their delicate yet painfully stinging leaves, which make them hard to collect. Most of these plants are rare, only present for short durations, and are found in specific regions, making them less likely to be stored in herbarium collections. In the past, scientists mostly depended on herbaria for their plant data. However, with the rise of global networking and freely accessible data repositories, they now have access to a treasure trove of biodiversity data, such as geo-referenced occurrence records and photos. One such platform, iNaturalist, which allows users to post photographic records of plant occurrences, has proven instrumental in the rediscovery of these Andean plants. A case in point is the Nasa colanii species, which had only been documented once in 1978. The research team stumbled upon a 2019 photograph of the plant, which is native to an isolated cloud forest in the buffer zone of Perus Cordillera de Col\u00e1n National Sanctuary, situated at an elevation of 2,605 meters above sea level (over 8,500 feet high). Similarly, Nasa ferox, which had gone unreported for around 130 years, was identified in 2022 when users uploaded its photographs on iNaturalist. Although it was known for centuries, its scientific description was only formulated in 2000. The research paper noted the surprising absence of this plants reports despite the vicinity of a major road and numerous botanical expeditions in the area. Today, only a small population of N. ferox has been identified, found in sheltered spots like rock crevices or at the base of shrubs. After a staggering 162 years, the typical form of Nasa humboldtiana, known as Nasa humboldtiana subspecies humboldtiana, was rediscovered in a conserved segment of montane Andean forest in Chimborazo, Ecuador. In a thrilling twist, a team of international researchers also discovered species presumed extinct. Nasa hastata and Nasa solaria, both indigenous to the Peruvian Department of Lima, had largely remained undetected in the wild. Thanks to iNaturalist, it was unveiled that they still thrive in the area. Photos of Nasa hastata taken by a relative of one of the authors were a major breakthrough in its rediscovery. All these discoveries serve as a reminder that even well-studied regions harbor diversity that can so easily remain overlooked and unexplored, and point to the role of botanists in documenting biodiversity which is an essential prerequisite for any conservation effort, says Tilo Henning, the studys leading author from the Leibniz Center for Agricultural Landscape Research (ZALF), in a media release. Researchers expressed hope that as more individuals contribute to databases like iNaturalist, there will be increased discoveries of long lost species. The study is published in the journal PhytoKeys. You might also be interested in: 3 roommates were bored during lockdown  They discovered over 1,000 species in their backyard! Flower power: Ancestors of modern-day plants survived mass extinction of the dinosaurs Our growing world in 2022: Here are some of the 146 spectacular new species discovered last year Andes, flowers, plants, South America, tropical plants",
+      "sentences": [
+        "LIMA, Peru  After more than 100 years, plants hidden deep within the tropical Andes and once thought extinct have been rediscovered with the help of community scientists",
+        "These plants are part of the Nasa genus from the Blazing Star family (Loasaceae)",
+        "They have long perplexed scientists due to their delicate yet painfully stinging leaves, which make them hard to collect",
+        "Most of these plants are rare, only present for short durations, and are found in specific regions, making them less likely to be stored in herbarium collections",
+        "In the past, scientists mostly depended on herbaria for their plant data",
+        "However, with the rise of global networking and freely accessible data repositories, they now have access to a treasure trove of biodiversity data, such as geo-referenced occurrence records and photos",
+        "One such platform, iNaturalist, which allows users to post photographic records of plant occurrences, has proven instrumental in the rediscovery of these Andean plants",
+        "A case in point is the Nasa colanii species, which had only been documented once in 1978",
+        "The research team stumbled upon a 2019 photograph of the plant, which is native to an isolated cloud forest in the buffer zone of Perus Cordillera de Col\u00e1n National Sanctuary, situated at an elevation of 2,605 meters above sea level (over 8,500 feet high)",
+        "Similarly, Nasa ferox, which had gone unreported for around 130 years, was identified in 2022 when users uploaded its photographs on iNaturalist",
+        "Although it was known for centuries, its scientific description was only formulated in 2000",
+        "The research paper noted the surprising absence of this plants reports despite the vicinity of a major road and numerous botanical expeditions in the area",
+        "Today, only a small population of N",
+        "ferox has been identified, found in sheltered spots like rock crevices or at the base of shrubs",
+        "After a staggering 162 years, the typical form of Nasa humboldtiana, known as Nasa humboldtiana subspecies humboldtiana, was rediscovered in a conserved segment of montane Andean forest in Chimborazo, Ecuador",
+        "In a thrilling twist, a team of international researchers also discovered species presumed extinct",
+        "Nasa hastata and Nasa solaria, both indigenous to the Peruvian Department of Lima, had largely remained undetected in the wild",
+        "Thanks to iNaturalist, it was unveiled that they still thrive in the area",
+        "Photos of Nasa hastata taken by a relative of one of the authors were a major breakthrough in its rediscovery",
+        "All these discoveries serve as a reminder that even well-studied regions harbor diversity that can so easily remain overlooked and unexplored, and point to the role of botanists in documenting biodiversity which is an essential prerequisite for any conservation effort, says Tilo Henning, the studys leading author from the Leibniz Center for Agricultural Landscape Research (ZALF), in a media release",
+        "Researchers expressed hope that as more individuals contribute to databases like iNaturalist, there will be increased discoveries of long lost species",
+        "The study is published in the journal PhytoKeys",
+        "You might also be interested in: 3 roommates were bored during lockdown  They discovered over 1,000 species in their backyard",
+        "Flower power: Ancestors of modern-day plants survived mass extinction of the dinosaurs Our growing world in 2022: Here are some of the 146 spectacular new species discovered last year Andes, flowers, plants, South America, tropical plants"
+      ],
+      "sentence_count": 24
+    },
+    "entities": {
+      "persons": [
+        "Nasa humboldtiana",
+        "Tilo Henning"
+      ],
+      "organizations": [
+        "Nasa",
+        "iNaturalist",
+        "PhytoKeys",
+        "the Leibniz Center for Agricultural Landscape Research (ZALF",
+        "the Peruvian Department of"
+      ],
+      "locations": [
+        "South America",
+        "LIMA",
+        "humboldtiana",
+        "Nasa ferox",
+        "Chimborazo",
+        "N. ferox",
+        "Ecuador",
+        "Peru",
+        "Andes",
+        "Lima"
+      ],
+      "dates": [
+        "Today",
+        "centuries",
+        "more than 100 years",
+        "1978",
+        "2019",
+        "2022",
+        "162 years",
+        "around 130 years",
+        "2000",
+        "last year Andes"
+      ],
+      "money": [],
+      "misc": [
+        "2,605 meters",
+        "Andean",
+        "over 1,000",
+        "146",
+        "3",
+        "Perus Cordillera de Col\u00e1n National Sanctuary",
+        "over 8,500 feet",
+        "One",
+        "one"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "published",
+        "before": "the study is",
+        "after": "in the journal phytokeys",
+        "full_context": "the study is published in the journal phytokeys"
+      },
+      {
+        "verb": "unveiled",
+        "before": "it was",
+        "after": "that they still thrive",
+        "full_context": "it was unveiled that they still thrive"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "after",
+        "sentence_idx": 0,
+        "sentence": "LIMA, Peru  After more than 100 years, plants hidden deep within the tropical Andes and once thought extinct have been rediscovered with the help of community scientists"
+      },
+      {
+        "marker": "now",
+        "sentence_idx": 5,
+        "sentence": "However, with the rise of global networking and freely accessible data repositories, they now have access to a treasure trove of biodiversity data, such as geo-referenced occurrence records and photos"
+      },
+      {
+        "marker": "after",
+        "sentence_idx": 14,
+        "sentence": "After a staggering 162 years, the typical form of Nasa humboldtiana, known as Nasa humboldtiana subspecies humboldtiana, was rediscovered in a conserved segment of montane Andean forest in Chimborazo, Ecuador"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Nasa humboldtiana",
+          "Tilo Henning"
+        ],
+        "organizations": [
+          "Nasa",
+          "iNaturalist",
+          "PhytoKeys",
+          "the Leibniz Center for Agricultural Landscape Research (ZALF",
+          "the Peruvian Department of"
+        ],
+        "locations": [
+          "South America",
+          "LIMA",
+          "humboldtiana"
+        ],
+        "dates": [
+          "Today",
+          "centuries",
+          "more than 100 years"
+        ],
+        "money": []
+      },
+      "temporal_order": [
+        {
+          "marker": "after",
+          "position": 0
+        },
+        {
+          "marker": "now",
+          "position": 5
+        },
+        {
+          "marker": "after",
+          "position": 14
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "published",
+          "context": "the study is published in the journal phytokeys"
+        },
+        {
+          "verb": "unveiled",
+          "context": "it was unveiled that they still thrive"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "Over 100 years later, scientists rediscover plant species presumed extinct",
+    "original_text": "LIMA, Peru \u2014 After more than 100 years, plants hidden deep within the tropical Andes and once thought extinct have been rediscovered with the help of community scientists. These plants are part of the Nasa genus from the Blazing Star family (Loasaceae). They have long perplexed scientists due to their delicate yet painfully stinging leaves, which make them hard to collect.\nMost of these\nplants are rare, only present for short durations, and are found in specific regions, making them less likely to be stored in herbarium collections.\nIn the past, scientists mostly depended on herbaria for their plant data. However, with the rise of global networking and freely accessible data repositories, they now have access to a treasure trove of biodiversity data, such as geo-referenced occurrence records and photos. One such platform,\niNaturalist, which allows users to post photographic records of plant occurrences, has proven instrumental in the rediscovery of these Andean plants.\nA case in point is the Nasa colanii species, which had only been documented once in 1978. The research team stumbled upon a 2019 photograph of the plant, which is native to an isolated cloud forest in the buffer zone of Peru\u2019s Cordillera de Col\u00e1n National Sanctuary, situated at an elevation of 2,605 meters above sea level (over 8,500 feet high).\nSimilarly, Nasa ferox, which had gone unreported for around 130 years, was identified in 2022 when users uploaded its photographs on iNaturalist. Although it was known for centuries, its scientific description was only formulated in 2000. The research paper noted the surprising absence of this plant\u2019s reports despite the vicinity of a major road and numerous botanical expeditions in the area. Today, only a small population of N. ferox has been identified, found in sheltered spots like\nrock crevices or at the base of shrubs.\nAfter a staggering 162 years, the typical form of Nasa humboldtiana, known as Nasa humboldtiana subspecies humboldtiana, was rediscovered in a conserved segment of montane Andean forest in Chimborazo, Ecuador.\nIn a thrilling twist, a team of international researchers also\ndiscovered species presumed extinct. Nasa hastata and Nasa solaria, both indigenous to the Peruvian Department of Lima, had largely remained undetected in the wild. Thanks to iNaturalist, it was unveiled that they still thrive in the area. Photos of Nasa hastata taken by a relative of one of the authors were a major breakthrough in its rediscovery.\n\u201cAll these discoveries serve as a reminder that even well-studied regions harbor diversity that can so easily remain overlooked and unexplored, and point to the role of botanists in documenting biodiversity which is an essential prerequisite for any conservation effort,\u201d says Tilo Henning, the study\u2019s leading author from the Leibniz Center for Agricultural Landscape Research (ZALF), in a\nmedia release.\nResearchers expressed hope that as more individuals contribute to databases like iNaturalist, there will be increased discoveries of \u201clong lost\u201d species.\nThe study is published in the journal\nPhytoKeys.\nYou might also be interested in:\n3 roommates were bored during lockdown \u2014 They discovered over 1,000 species in their backyard! Flower power: Ancestors of modern-day plants survived mass extinction of the dinosaurs Our growing world in 2022: Here are some of the 146 spectacular new species discovered last year Andes, flowers, plants, South America, tropical plants"
+  },
+  {
+    "article_id": 12,
+    "preprocessed": {
+      "cleaned_text": "A mum-of-two is one step closer to being Australias first female astronaut. Australian Space Agency(story8449301) employee Katherine Bennell-Pegg announced she was halfway through her year-long training at the European Astronaut Centre in Germany. While other Australian women have trained to go to space, theyve always done so under the flags of other countries. Ms Bennell-Beg and her family relocated to Europe for the intensive training process. More than 22,000 people applied to the coveted position in hopes of becoming an astronaut candidate. The job requires rigorous physical training, as well as a year of intensive study. I have always dreamed of being an astronaut, she said. When I was young, it was for the adventure but after more than a decade working in space its now because I know the role it plays in tackling real-world problems. The next six months are expected to include intense exercise, sea survival, studying space station robotic arm simulations and centrifuge training. We need to know the basics around medical procedures - not just in case something goes wrong, but because astronauts are basically medical guinea pigs, she told the  Australian Space Agency(story8338233). In space, as your body adapts to weightlessness any medical issues you may have on Earth - such as osteoporosis, or muscle degradation - are put on fast forward and we can support research on that. The Adelaide-born astronaut candidate previously served as Director of Space Technology at the Australian Space Agency, and as part of the space robotics and automation team. In early December, Ms Bennell-Pegg travelled to the United States where she underwent specialised training with NASA in Houston and met with Australian Ambassador to the United States Kevin Rudd in Washington DC. Im excited - not just for me - but for what my training and experience can unlock for Australian scientists, engineers and operators, and all the value that can bring, she said. Sign up for our newsletter to stay up to date. We care about the protection of your data. Read our Privacy Policy(privacy).",
+      "sentences": [
+        "A mum-of-two is one step closer to being Australias first female astronaut",
+        "Australian Space Agency(story8449301) employee Katherine Bennell-Pegg announced she was halfway through her year-long training at the European Astronaut Centre in Germany",
+        "While other Australian women have trained to go to space, theyve always done so under the flags of other countries",
+        "Ms Bennell-Beg and her family relocated to Europe for the intensive training process",
+        "More than 22,000 people applied to the coveted position in hopes of becoming an astronaut candidate",
+        "The job requires rigorous physical training, as well as a year of intensive study",
+        "I have always dreamed of being an astronaut, she said",
+        "When I was young, it was for the adventure but after more than a decade working in space its now because I know the role it plays in tackling real-world problems",
+        "The next six months are expected to include intense exercise, sea survival, studying space station robotic arm simulations and centrifuge training",
+        "We need to know the basics around medical procedures - not just in case something goes wrong, but because astronauts are basically medical guinea pigs, she told the  Australian Space Agency(story8338233)",
+        "In space, as your body adapts to weightlessness any medical issues you may have on Earth - such as osteoporosis, or muscle degradation - are put on fast forward and we can support research on that",
+        "The Adelaide-born astronaut candidate previously served as Director of Space Technology at the Australian Space Agency, and as part of the space robotics and automation team",
+        "In early December, Ms Bennell-Pegg travelled to the United States where she underwent specialised training with NASA in Houston and met with Australian Ambassador to the United States Kevin Rudd in Washington DC",
+        "Im excited - not just for me - but for what my training and experience can unlock for Australian scientists, engineers and operators, and all the value that can bring, she said",
+        "Sign up for our newsletter to stay up to date",
+        "We care about the protection of your data",
+        "Read our Privacy Policy(privacy)"
+      ],
+      "sentence_count": 17
+    },
+    "entities": {
+      "persons": [
+        "Kevin Rudd",
+        "Katherine Bennell-Pegg",
+        "Australian Space Agency(story8449301",
+        "Ms Bennell-Pegg",
+        "Ms Bennell-Beg"
+      ],
+      "organizations": [
+        "the European Astronaut Centre",
+        "the Australian Space Agency",
+        "Space Technology",
+        "NASA"
+      ],
+      "locations": [
+        "Houston",
+        "Washington DC",
+        "the United States",
+        "Earth",
+        "Germany",
+        "Europe"
+      ],
+      "dates": [
+        "year-long",
+        "more than a decade",
+        "The next six months",
+        "early December"
+      ],
+      "money": [],
+      "misc": [
+        "More than 22,000",
+        "one",
+        "Australian"
+      ]
+    },
+    "actions": [
+      {
+        "verb": "announced",
+        "before": "pegg",
+        "after": "she was halfway through",
+        "full_context": "pegg announced she was halfway through"
+      }
+    ],
+    "temporal_info": [
+      {
+        "marker": "first",
+        "sentence_idx": 0,
+        "sentence": "A mum-of-two is one step closer to being Australias first female astronaut"
+      },
+      {
+        "marker": "after",
+        "sentence_idx": 7,
+        "sentence": "When I was young, it was for the adventure but after more than a decade working in space its now because I know the role it plays in tackling real-world problems"
+      },
+      {
+        "marker": "now",
+        "sentence_idx": 7,
+        "sentence": "When I was young, it was for the adventure but after more than a decade working in space its now because I know the role it plays in tackling real-world problems"
+      },
+      {
+        "marker": "next",
+        "sentence_idx": 8,
+        "sentence": "The next six months are expected to include intense exercise, sea survival, studying space station robotic arm simulations and centrifuge training"
+      },
+      {
+        "marker": "previously",
+        "sentence_idx": 11,
+        "sentence": "The Adelaide-born astronaut candidate previously served as Director of Space Technology at the Australian Space Agency, and as part of the space robotics and automation team"
+      }
+    ],
+    "constraints": {
+      "mandatory_entities": {
+        "persons": [
+          "Kevin Rudd",
+          "Katherine Bennell-Pegg",
+          "Australian Space Agency(story8449301",
+          "Ms Bennell-Pegg",
+          "Ms Bennell-Beg"
+        ],
+        "organizations": [
+          "the European Astronaut Centre",
+          "the Australian Space Agency",
+          "Space Technology",
+          "NASA"
+        ],
+        "locations": [
+          "Houston",
+          "Washington DC",
+          "the United States"
+        ],
+        "dates": [
+          "year-long",
+          "more than a decade",
+          "The next six months"
+        ],
+        "money": []
+      },
+      "temporal_order": [
+        {
+          "marker": "first",
+          "position": 0
+        },
+        {
+          "marker": "after",
+          "position": 7
+        },
+        {
+          "marker": "now",
+          "position": 7
+        },
+        {
+          "marker": "next",
+          "position": 8
+        },
+        {
+          "marker": "previously",
+          "position": 11
+        }
+      ],
+      "action_sequence": [
+        {
+          "verb": "announced",
+          "context": "pegg announced she was halfway through"
+        }
+      ],
+      "format_rules": {
+        "numbering_style": "1., 2., 3.",
+        "verb_tense": "past",
+        "sentence_structure": "Subject + Verb + Object",
+        "max_words_per_step": 50
+      }
+    },
+    "title": "Australian woman training to become country's first female astronaut | The Examiner | Launceston, TAS",
+    "original_text": "A mum-of-two is one step closer to being Australia's first female astronaut. [Australian Space Agency](/story/8449301/) employee Katherine Bennell-Pegg announced she was halfway through her year-long training at the European Astronaut Centre in Germany. While other Australian women have trained to go to space, they've always done so under the flags of other countries. Ms Bennell-Beg and her family relocated to Europe for the intensive training process. More than 22,000 people applied to the coveted position in hopes of becoming an astronaut candidate. The job requires rigorous physical training, as well as a year of intensive study. \"I have always dreamed of being an astronaut,\" she said. \"When I was young, it was for the adventure but after more than a decade working in space it's now because I know the role it plays in tackling real-world problems.\" The next six months are expected to include intense exercise, sea survival, studying space station robotic arm simulations and centrifuge training. \"We need to know the basics around medical procedures - not just in case something goes wrong, but because astronauts are basically medical guinea pigs,\" she told the [ Australian Space Agency](/story/8338233/). \"In space, as your body adapts to weightlessness any medical issues you may have on Earth - such as osteoporosis, or muscle degradation - are put on fast forward and we can support research on that.\" The Adelaide-born astronaut candidate previously served as Director of Space Technology at the Australian Space Agency, and as part of the space robotics and automation team. In early December, Ms Bennell-Pegg travelled to the United States where she underwent specialised training with NASA in Houston and met with Australian Ambassador to the United States Kevin Rudd in Washington DC. \"I'm excited - not just for me - but for what my training and experience can unlock for Australian scientists, engineers and operators, and all the value that can bring,\" she said. Sign up for our newsletter to stay up to date. We care about the protection of your data. Read our [Privacy Policy](/privacy/)."
+  }
+]

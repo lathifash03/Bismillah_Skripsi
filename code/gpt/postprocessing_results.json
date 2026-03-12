@@ -1,0 +1,273 @@
+[
+  {
+    "article_id": 30,
+    "original_procedural": "1. Expressed delight with encounter with Toptal  \n2. Noted expert was on the phone within a few hours  \n3. Realized expert was the required prospect after discussion  \n4. Emphasized importance of hiring the right developer for app release  \n5. Stated iOS app development cost varies, estimated at some thousand pounds  \n6. Advised using valuable phrases in project outlines  \n7. Warned about risks of hiring unknown programmers  \n8. Mentioned previous experience with over three freelancers for satisfactory results  \n9. Observed projects and goals to create a detailed project plan  \n10. Described Toptal developers as professional and easy to work with  \n11. Highlighted developed solution as affordable and high quality  \n12. Noted reduced time to launch due to Toptal's work  \n13. Reminded to hire a good developer for specific tasks  \n14. Explained Core Data object updates do not propagate immediately across threads  \n15. Identified common cause of exc_bad_access errors as accessing released objects  \n16. Suggested enabling NSZombies in Xcode for effective debugging  \n17. Mentioned various financial and non-monetary costs incurred  \n18. Explained that services are invoked by sending messages  \n19. Guaranteed demo period of up to 2 months for engagements  \n20. Stated satisfaction leads to billing for time and continued engagement",
+    "validated_procedural": "1. Expressed delight with encounter with Toptal\n2. Noted expert was on the phone within a few hours\n3. Realized expert was the required prospect after discussion\n4. Emphasized importance of hiring the right developer for app release\n5. Stated iOS app development cost varies, estimated at some thousand pounds\n6. Advised using valuable phrases in project outlines\n7. Warned about risks of hiring unknown programmers\n8. Mentioned previous experience with over three freelancers for satisfactory results\n9. Observed projects and goals to create a detailed project plan\n10. Described Toptal developers as professional and easy to work with\n11. Highlighted developed solution as affordable and high quality\n12. Noted reduced time to launch due to Toptal's work\n13. Reminded to hire a good developer for specific tasks\n14. Explained Core Data object updates do not propagate immediately across threads\n15. Identified common cause of exc_bad_access errors as accessing released objects\n16. Suggested enabling NSZombies in Xcode for effective debugging\n17. Mentioned various financial and non-monetary costs incurred\n18. Explained that services are invoked by sending messages\n19. Guaranteed demo period of up to 2 months for engagements\n20. Stated satisfaction leads to billing for time and continued engagement",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.6363636363636364,
+        "preserved_count": 7,
+        "total_mandatory": 11,
+        "missing_entities": [
+          "invoice",
+          "specialist",
+          "ipad",
+          "blessed"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 4 may not start with verb: 'Emphasized importance of hirin...'",
+          "Step 9 may not start with verb: 'Observed projects and goals to...'",
+          "Step 14 may not start with verb: 'Explained Core Data object upd...'",
+          "Step 20 may not start with verb: 'Stated satisfaction leads to b...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 20
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 4 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7545454545454546,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 0,
+    "original_procedural": "1. BISSNEX completed key market expansion actions and gained recognition from the U.S. federal government and financial systems.\n2. BISSNEX acquired the U.S. MSB license, strengthening the platform's capabilities and global market strategy.\n3. IOSCO released the \"Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets.\"\n4. BISSNEX obtained the MSB license from the U.S. Financial Crimes Enforcement Network (FinCEN).\n5. BISSNEX established its headquarters in New York based on its global market strategy.\n6. BISSNEX announced plans to expand its compliance team, recruiting talents specializing in cryptocurrency regulations.\n7. BISSNEX collaborated with regulatory bodies and industry associations to stay updated on cryptocurrency developments. \n8. BISSNEX committed to operating with the highest compliance and security standards in the crypto industry.",
+    "validated_procedural": "1. BISSNEX completed key market expansion actions and gained recognition from the U.S. federal government and financial systems.\n2. BISSNEX acquired the U.S. MSB license, strengthening the platform's capabilities and global market strategy.\n3. IOSCO released the \"Consultation Report on Policy Recommendations for Crypto-Asset and Digital Asset Markets.\"\n4. BISSNEX obtained the MSB license from the U.S. Financial Crimes Enforcement Network (FinCEN).\n5. BISSNEX established its headquarters in New York based on its global market strategy.\n6. BISSNEX announced plans to expand its compliance team, recruiting talents specializing in cryptocurrency regulations.\n7. BISSNEX collaborated with regulatory bodies and industry associations to stay updated on cryptocurrency developments.\n8. BISSNEX committed to operating with the highest compliance and security standards in the crypto industry.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.5555555555555556,
+        "preserved_count": 5,
+        "total_mandatory": 9,
+        "missing_entities": [
+          "the international organization of securities commissions",
+          "barchart quotes",
+          "california",
+          "www.bdctp.co data  news"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'BISSNEX completed key market e...'",
+          "Step 2 may not start with verb: 'BISSNEX acquired the U.S. MSB ...'",
+          "Step 3 may not start with verb: 'IOSCO released the \"Consultati...'",
+          "Step 4 may not start with verb: 'BISSNEX obtained the MSB licen...'",
+          "Step 5 may not start with verb: 'BISSNEX established its headqu...'",
+          "Step 6 may not start with verb: 'BISSNEX announced plans to exp...'",
+          "Step 7 may not start with verb: 'BISSNEX collaborated with regu...'",
+          "Step 8 may not start with verb: 'BISSNEX committed to operating...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 8
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 6 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7222222222222223,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 22,
+    "original_procedural": "1. Agus Justianto said performance of sustainable forest management in 2023 exceeded target\n2. Justianto informed planting and enrichment of plants was carried out on 667,780 hectares\n3. Justianto disclosed log production reached 58.13 million cubic meters, exceeding target\n4. Justianto said most log production came from plantation forests at 89.01 percent\n5. Justianto said production of non-timber forest products reached 820.2 thousand tons, exceeding target\n6. Justianto stated provision of legal access for forestry partnerships covered 20,643 hectares\n7. Justianto said forestry partnerships were followed by signing MoU and Cooperation Agreement Text\n8. Justianto explained MUK implementation was necessary to increase economic value of forest areas\n9. Justianto reported MUK implementation occurred on 14,078 hectares in seven provinces\n10. Justianto added MUK model was implemented in 64 KPH units across 12,210 hectares\n11. Indroyono Soesilo said business climate is increasingly positive for sustainable forest management\n12. Soesilo informed PBPH will support ministry's sustainable forest management directions in the future",
+    "validated_procedural": "1. Agus Justianto said performance of sustainable forest management in 2023 exceeded target\n2. Justianto informed planting and enrichment of plants was carried out on 667,780 hectares\n3. Justianto disclosed log production reached 58.13 million cubic meters, exceeding target\n4. Justianto said most log production came from plantation forests at 89.01 percent\n5. Justianto said production of non-timber forest products reached 820.2 thousand tons, exceeding target\n6. Justianto stated provision of legal access for forestry partnerships covered 20,643 hectares\n7. Justianto said forestry partnerships were followed by signing MoU and Cooperation Agreement Text\n8. Justianto explained MUK implementation was necessary to increase economic value of forest areas\n9. Justianto reported MUK implementation occurred on 14,078 hectares in seven provinces\n10. Justianto added MUK model was implemented in 64 KPH units across 12,210 hectares\n11. Indroyono Soesilo said business climate is increasingly positive for sustainable forest management\n12. Soesilo informed PBPH will support ministry's sustainable forest management directions in the future",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.6,
+        "preserved_count": 9,
+        "total_mandatory": 15,
+        "missing_entities": [
+          "2.03 (percent",
+          "riau",
+          "thursday",
+          "rattan",
+          "phl"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'Agus Justianto said performanc...'",
+          "Step 2 may not start with verb: 'Justianto informed planting an...'",
+          "Step 3 may not start with verb: 'Justianto disclosed log produc...'",
+          "Step 4 may not start with verb: 'Justianto said most log produc...'",
+          "Step 5 may not start with verb: 'Justianto said production of n...'",
+          "Step 6 may not start with verb: 'Justianto stated provision of ...'",
+          "Step 7 may not start with verb: 'Justianto said forestry partne...'",
+          "Step 8 may not start with verb: 'Justianto explained MUK implem...'",
+          "Step 9 may not start with verb: 'Justianto reported MUK impleme...'",
+          "Step 10 may not start with verb: 'Justianto added MUK model was ...'",
+          "Step 11 may not start with verb: 'Indroyono Soesilo said busines...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 12
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 2 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7400000000000001,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 31,
+    "original_procedural": "1. Embark Technology, Inc. and Applied Intuition, Inc. agreed to an Agreement and Plan of Merger on May 25, 2023.\n2. Azara Merger Sub, Inc. merged with Embark, with Embark continuing as a wholly owned subsidiary of Applied.\n3. Plaintiff Marceil A. Hanshew filed a putative class action complaint in the Court on June 26, 2023.\n4. Complaint alleged false and misleading statements in the preliminary proxy statement filed on June 16, 2023.\n5. Complaint sought a preliminary injunction to enjoin the Merger.\n6. Embark filed a definitive proxy statement on Schedule 14A with the SEC on June 26, 2023.\n7. Plaintiffs filed an amended complaint on June 29, 2023, against Embark and others.\n8. Plaintiffs and Defendants agreed to additional disclosures, made in Amendment No. 1 to the Proxy on July 10, 2023.\n9. Plaintiffs voluntarily dismissed the Action as moot on August 1, 2023.\n10. Court entered a stipulated order dismissing the Action with prejudice as to Plaintiffs on August 1, 2023.\n11. Court retained jurisdiction for adjudicating Plaintiffs' counsel's application for attorneys' fees and expenses.\n12. Applied agreed to pay $114,000 to Plaintiffs' counsel for attorneys' fees and expenses.\n13. Court entered an order closing the case on December 21, 2023, subject to Applied filing an affidavit.",
+    "validated_procedural": "1. Embark Technology, Inc. and Applied Intuition, Inc. agreed to an Agreement and Plan of Merger on May 25, 2023.\n2. Azara Merger Sub, Inc. merged with Embark, with Embark continuing as a wholly owned subsidiary of Applied.\n3. Plaintiff Marceil A. Hanshew filed a putative class action complaint in the Court on June 26, 2023.\n4. Complaint alleged false and misleading statements in the preliminary proxy statement filed on June 16, 2023.\n5. Complaint sought a preliminary injunction to enjoin the Merger.\n6. Embark filed a definitive proxy statement on Schedule 14A with the SEC on June 26, 2023.\n7. Plaintiffs filed an amended complaint on June 29, 2023, against Embark and others.\n8. Plaintiffs and Defendants agreed to additional disclosures, made in Amendment No. 1 to the Proxy on July 10, 2023.\n9. Plaintiffs voluntarily dismissed the Action as moot on August 1, 2023.\n10. Court entered a stipulated order dismissing the Action with prejudice as to Plaintiffs on August 1, 2023.\n11. Court retained jurisdiction for adjudicating Plaintiffs' counsel's application for attorneys' fees and expenses.\n12. Applied agreed to pay $114,000 to Plaintiffs' counsel for attorneys' fees and expenses.\n13. Court entered an order closing the case on December 21, 2023, subject to Applied filing an affidavit.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.7333333333333333,
+        "preserved_count": 11,
+        "total_mandatory": 15,
+        "missing_entities": [
+          "mountain view",
+          "embarks board of directors",
+          "al.",
+          "calif."
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'Embark Technology, Inc. and Ap...'",
+          "Step 2 may not start with verb: 'Azara Merger Sub, Inc. merged ...'",
+          "Step 3 may not start with verb: 'Plaintiff Marceil A. Hanshew f...'",
+          "Step 4 may not start with verb: 'Complaint alleged false and mi...'",
+          "Step 5 may not start with verb: 'Complaint sought a preliminary...'",
+          "Step 6 may not start with verb: 'Embark filed a definitive prox...'",
+          "Step 7 may not start with verb: 'Plaintiffs filed an amended co...'",
+          "Step 8 may not start with verb: 'Plaintiffs and Defendants agre...'",
+          "Step 9 may not start with verb: 'Plaintiffs voluntarily dismiss...'",
+          "Step 10 may not start with verb: 'Court entered a stipulated ord...'",
+          "Step 11 may not start with verb: 'Court retained jurisdiction fo...'",
+          "Step 12 may not start with verb: 'Applied agreed to pay $114,000...'",
+          "Step 13 may not start with verb: 'Court entered an order closing...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 13
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "Checked 3 temporal constraints"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7933333333333334,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  },
+  {
+    "article_id": 18,
+    "original_procedural": "1. Joblane stated necessity to hire appropriate individuals for enterprise growth  \n2. ZipRecruiter found best candidates for hiring task  \n3. Hired developer immediately and he attended to venture promptly  \n4. Developer included fantastic style features that improved overall appearance  \n5. Toptal designed hiring process easy and convenient  \n6. Toptal became first choice for expert-level help  \n7. Adam architected and developed database and BI solutions efficiently  \n8. Toptal's developers and architects provided professional and easy collaboration  \n9. Toptal developed well-priced, high-quality solution reducing time to launch  \n10. Acknowledged that hiring may not work for everyone  \n11. Suggested sourcing candidates elsewhere if immediate hiring is not possible  \n12. Noted that each project requires unique technicalities for developer assignment  \n13. Discussed pros and cons of checked and unchecked exceptions  \n14. Raised concerns about new developer's satisfaction and team dynamics  \n15. Described Joblane as a feature-rich interactive job portal  \n16. Mentioned Claudio as a certified SharePoint expert with Microsoft clients  \n17. Needed short-term work in Scala and Toptal found developer within 24 hours  \n18. Emphasized that hiring through Toptal was not possible via other platforms",
+    "validated_procedural": "1. Joblane stated necessity to hire appropriate individuals for enterprise growth\n2. ZipRecruiter found best candidates for hiring task\n3. Hired developer immediately and he attended to venture promptly\n4. Developer included fantastic style features that improved overall appearance\n5. Toptal designed hiring process easy and convenient\n6. Toptal became first choice for expert-level help\n7. Adam architected and developed database and BI solutions efficiently\n8. Toptal's developers and architects provided professional and easy collaboration\n9. Toptal developed well-priced, high-quality solution reducing time to launch\n10. Acknowledged that hiring may not work for everyone\n11. Suggested sourcing candidates elsewhere if immediate hiring is not possible\n12. Noted that each project requires unique technicalities for developer assignment\n13. Discussed pros and cons of checked and unchecked exceptions\n14. Raised concerns about new developer's satisfaction and team dynamics\n15. Described Joblane as a feature-rich interactive job portal\n16. Mentioned Claudio as a certified SharePoint expert with Microsoft clients\n17. Needed short-term work in Scala and Toptal found developer within 24 hours\n18. Emphasized that hiring through Toptal was not possible via other platforms",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.6153846153846154,
+        "preserved_count": 8,
+        "total_mandatory": 13,
+        "missing_entities": [
+          "accredited",
+          "feel",
+          "specialist",
+          "decades",
+          "the 1st"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 may not start with verb: 'Joblane stated necessity to hi...'",
+          "Step 2 may not start with verb: 'ZipRecruiter found best candid...'",
+          "Step 4 may not start with verb: 'Developer included fantastic s...'",
+          "Step 5 may not start with verb: 'Toptal designed hiring process...'",
+          "Step 6 may not start with verb: 'Toptal became first choice for...'",
+          "Step 7 may not start with verb: 'Adam architected and developed...'",
+          "Step 8 may not start with verb: 'Toptal's developers and archit...'",
+          "Step 9 may not start with verb: 'Toptal developed well-priced, ...'"
+        ],
+        "numbering_gaps": [],
+        "total_steps": 18
+      },
+      "temporal_consistency": {
+        "passed": true,
+        "violations": [],
+        "message": "No temporal constraints to validate"
+      },
+      "hallucination_check": {
+        "passed": true,
+        "hallucinated_entities": [],
+        "count": 0
+      },
+      "quality_check": {
+        "duplicates": [],
+        "empty_steps": [],
+        "passed": true
+      }
+    },
+    "quality_score": 0.7461538461538463,
+    "corrections_applied": [
+      "numbering_fixed"
+    ]
+  }
+]

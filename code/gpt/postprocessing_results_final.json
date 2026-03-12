@@ -1,0 +1,547 @@
+[
+  {
+    "article_id": 30,
+    "original_procedural": "1. Expressed delight, I encountered Toptal and worked with an expert within a few several hours.  \n2. Realized after discussion, I identified the expert as the prospect I needed for my project.  \n3. Acknowledged importance, I understood hiring the right person was essential for app development.  \n4. Offered services, I provided iOS application development for businesses and personal use.  \n5. Noted cost variation, I estimated app development expenses to be some thousand pounds.  \n6. Advised using phrases, I encouraged integrating valuable terms into project outlines.  \n7. Warned about hiring, I mentioned the risk of not knowing who to hire could lead to a bitter experience.  \n8. Shared experience, I recounted dealing with over 3 freelancers to achieve an honest result.  \n9. Ensured attention, we monitored projects and ambitions to deliver a comprehensive project plan.  \n10. Crafted document, we specified the project's scope, execution, cost, and management for NSZombies and Core Facts.  \n11. Mentioned timeline, I indicated project execution could take up to 2 months.  \n12. Discussed invoicing, I highlighted the importance of managing the Invoice process effectively.  \n13. Concluded, I emphasized the significance of careful planning in app development.",
+    "validated_procedural": "1. Expressed delight, I encountered Toptal and worked with an expert within a few several hours.\n2. Realized after discussion, I identified the expert as the prospect I needed for my project.\n3. Acknowledged importance, I understood hiring the right person was essential for app development.\n4. Offered services, I provided iOS application development for businesses and personal use.\n5. Noted cost variation, I estimated app development expenses to be some thousand pounds.\n6. Advised using phrases, I encouraged integrating valuable terms into project outlines.\n7. Warned about hiring, I mentioned the risk of not knowing who to hire could lead to a bitter experience.\n8. Shared experience, I recounted dealing with over 3 freelancers to achieve an honest result.\n9. Ensured attention, we monitored projects and ambitions to deliver a comprehensive project plan.\n10. Crafted document, we specified the project's scope, execution, cost, and management for NSZombies and Core Facts.\n11. Mentioned timeline, I indicated project execution could take up to 2 months.\n12. Discussed invoicing, I highlighted the importance of managing the Invoice process effectively.\n13. Concluded, I emphasized the significance of careful planning in app development.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.7777777777777778,
+        "preserved_count": 7,
+        "total_mandatory": 9,
+        "missing_entities": [
+          "ipad",
+          "blessed"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 doesn't start with verb",
+          "Step 10 doesn't start with verb",
+          "Step 13 doesn't start with verb"
+        ],
+        "total_steps": 13
+      }
+    },
+    "quality_score": 0.7466666666666666
+  },
+  {
+    "article_id": 0,
+    "original_procedural": "1. Completed actions, BISSNEX completed key market expansion actions and gained recognition from the U.S. federal government and financial systems.  \n2. Acquired license, BISSNEX acquired the U.S. MSB license, signaling strengthening of the platform's capabilities.  \n3. Showed friendliness, the U.S. showed rising friendliness towards the crypto industry, supporting cryptocurrency taxation as property.  \n4. Remained cautious, the U.S. maintained a cautious attitude towards cryptocurrencies as the industry evolved.  \n5. Implemented standards, governments worldwide gradually implemented trading and regulatory standards for the crypto industry.  \n6. Circulated cryptocurrencies, the widespread circulation of mainstream cryptocurrencies made BISSNEX attentive to expanding into the U.S. market.  \n7. Released report, The International Organization of Securities Commissions released the Consultation Report on Policy Recommendations for Crypto-Asset.  \n8. Obtained license, BISSNEX obtained the Money Services Business license from the U.S. Financial Crimes Enforcement Network.  \n9. Demonstrated compliance, BISSNEX demonstrated compliance with the highest industry standards in Anti-Money Laundering and Know Your Customer practices.  \n10. Expanded services, BISSNEX planned to expand its services with higher compliance standards.",
+    "validated_procedural": "1. Completed actions, BISSNEX completed key market expansion actions and gained recognition from the U.S. federal government and financial systems.\n2. Acquired license, BISSNEX acquired the U.S. MSB license, signaling strengthening of the platform's capabilities.\n3. Showed friendliness, the U.S. showed rising friendliness towards the crypto industry, supporting cryptocurrency taxation as property.\n4. Remained cautious, the U.S. maintained a cautious attitude towards cryptocurrencies as the industry evolved.\n5. Implemented standards, governments worldwide gradually implemented trading and regulatory standards for the crypto industry.\n6. Circulated cryptocurrencies, the widespread circulation of mainstream cryptocurrencies made BISSNEX attentive to expanding into the U.S. market.\n7. Released report, The International Organization of Securities Commissions released the Consultation Report on Policy Recommendations for Crypto-Asset.\n8. Obtained license, BISSNEX obtained the Money Services Business license from the U.S. Financial Crimes Enforcement Network.\n9. Demonstrated compliance, BISSNEX demonstrated compliance with the highest industry standards in Anti-Money Laundering and Know Your Customer practices.\n10. Expanded services, BISSNEX planned to expand its services with higher compliance standards.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8333333333333334,
+        "preserved_count": 5,
+        "total_mandatory": 6,
+        "missing_entities": [
+          "new york"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 6 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.78
+  },
+  {
+    "article_id": 22,
+    "original_procedural": "1. Showed performance, indicators indicated sustainable forest management in 2023 exceeded the target, said Agus Justianto, acting director general of sustainable forest management at the Ministry of Environment and Forestry on Thursday.  \n2. Helped make management inclusive, accelerated implementation of the multi-forestry business model in forest utilization business licensing (PBPH) involved the community.  \n3. Informed planting and enrichment, Justianto reported that 667,780 hectares of the PBPH area underwent planting and enrichment in 2023.  \n4. Exceeded target, the figure of 667,780 hectares was 156 percent above the target of 428 thousand hectares.  \n5. Disclosed log production, Justianto stated that log production reached 58.13 million cubic meters, or 101.9 percent of the target of 57 million cubic meters.  \n6. Reported sources of log production, Justianto noted that 89.01 percent came from plantation forests, 7.37 percent from natural forests, 1.59 percent from BUMN Perhutani, and 2.03 percent from non-forestry.  \n7. Used logs, the forest products processing industry utilized logs as raw materials to create various products such as woodworking products, plywood, wood chips, wood panels, and pulp.  \n8. Increased production, Justianto mentioned that production of non-timber forest products like rattan, agarwood, latex, and bamboo reached 820.2 thousand tons in 2023.",
+    "validated_procedural": "1. Showed performance, indicators indicated sustainable forest management in 2023 exceeded the target, said Agus Justianto, acting director general of sustainable forest management at the Ministry of Environment and Forestry on Thursday.\n2. Helped make management inclusive, accelerated implementation of the multi-forestry business model in forest utilization business licensing (PBPH) involved the community.\n3. Informed planting and enrichment, Justianto reported that 667,780 hectares of the PBPH area underwent planting and enrichment in 2023.\n4. Exceeded target, the figure of 667,780 hectares was 156 percent above the target of 428 thousand hectares.\n5. Disclosed log production, Justianto stated that log production reached 58.13 million cubic meters, or 101.9 percent of the target of 57 million cubic meters.\n6. Reported sources of log production, Justianto noted that 89.01 percent came from plantation forests, 7.37 percent from natural forests, 1.59 percent from BUMN Perhutani, and 2.03 percent from non-forestry.\n7. Used logs, the forest products processing industry utilized logs as raw materials to create various products such as woodworking products, plywood, wood chips, wood panels, and pulp.\n8. Increased production, Justianto mentioned that production of non-timber forest products like rattan, agarwood, latex, and bamboo reached 820.2 thousand tons in 2023.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.875,
+        "preserved_count": 7,
+        "total_mandatory": 8,
+        "missing_entities": [
+          "2.03 (percent"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 doesn't start with verb",
+          "Step 5 doesn't start with verb"
+        ],
+        "total_steps": 8
+      }
+    },
+    "quality_score": 0.8049999999999999
+  },
+  {
+    "article_id": 31,
+    "original_procedural": "1. Disclosed agreement, Embark Technology, Inc. and Applied Intuition, Inc. entered into an Agreement and Plan of Merger on May 25, 2023.  \n2. Merged entities, Azara Merger Sub, Inc. merged with and into Embark, with Embark continuing as a wholly owned subsidiary of Applied.  \n3. Filed complaint, Marceil A. Hanshew filed a putative class action complaint in the Court of Chancery of the State of Delaware on June 26, 2023.  \n4. Named defendants, Complaint named Embark and the then-members of Embark's Board of Directors as Defendants in A. Hanshew v. Embark Technology, Inc. et al.  \n5. Alleged false statements, Complaint alleged that disclosures in the preliminary proxy statement contained false and misleading statements.  \n6. Sought relief, Complaint sought a preliminary injunction to enjoin the Merger.  \n7. Filed proxy statement, Embark filed a definitive proxy statement on Schedule 14A with the SEC on June 26, 2023.  \n8. Amended complaint, Plaintiffs filed an amended complaint captioned David L. Hanshew in His Capacity as Attorney-in-Fact for Marceil A. Hanshew and Marceil A. Hanshew on June 29, 2023.",
+    "validated_procedural": "1. Disclosed agreement, Embark Technology, Inc. and Applied Intuition, Inc. entered into an Agreement and Plan of Merger on May 25, 2023.\n2. Merged entities, Azara Merger Sub, Inc. merged with and into Embark, with Embark continuing as a wholly owned subsidiary of Applied.\n3. Filed complaint, Marceil A. Hanshew filed a putative class action complaint in the Court of Chancery of the State of Delaware on June 26, 2023.\n4. Named defendants, Complaint named Embark and the then-members of Embark's Board of Directors as Defendants in A. Hanshew v. Embark Technology, Inc. et al.\n5. Alleged false statements, Complaint alleged that disclosures in the preliminary proxy statement contained false and misleading statements.\n6. Sought relief, Complaint sought a preliminary injunction to enjoin the Merger.\n7. Filed proxy statement, Embark filed a definitive proxy statement on Schedule 14A with the SEC on June 26, 2023.\n8. Amended complaint, Plaintiffs filed an amended complaint captioned David L. Hanshew in His Capacity as Attorney-in-Fact for Marceil A. Hanshew and Marceil A. Hanshew on June 29, 2023.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 8,
+        "total_mandatory": 8,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 2 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 8
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 18,
+    "original_procedural": "1. Stated need, Claudio expressed necessity to hire appropriate individuals for enterprise growth.  \n2. Utilized service, Claudio hired ZipRecruiter to find the best candidates for the task.  \n3. Hired individual, Claudio hired a Specialist instantly for the venture.  \n4. Attended project, hired Specialist wasted no time in addressing Claudio's venture.  \n5. Included features, Specialist added fantastic style features that improved overall appearance.  \n6. Simplified process, Toptal made hiring process easy and handy for Claudio.  \n7. Became resource, Toptal became the first place Claudio sought for expert-level help.  \n8. Differentiated roles, Claudio noted professional programmers actively thought of solutions before coding.  \n9. Developed solutions, Adam architected and developed database and BI solutions efficiently.  \n10. Ensured quality, Toptal's developers and architects provided high-quality solutions at reasonable prices.  \n11. Reduced time, Toptal's solution decreased Claudio's time to launch significantly.  \n12. Acknowledged limitations, Claudio recognized that not everyone could hire immediately.  \n13. Suggested sourcing, Claudio advised starting to source candidates elsewhere if immediate hiring was not possible.  \n14. Mentioned accreditation, Claudio emphasized the importance of Accredited professionals in the hiring process.  \n15. Highlighted tools, Claudio considered using SharePoint and Scala for project management within 24 hours.",
+    "validated_procedural": "1. Stated need, Claudio expressed necessity to hire appropriate individuals for enterprise growth.\n2. Utilized service, Claudio hired ZipRecruiter to find the best candidates for the task.\n3. Hired individual, Claudio hired a Specialist instantly for the venture.\n4. Attended project, hired Specialist wasted no time in addressing Claudio's venture.\n5. Included features, Specialist added fantastic style features that improved overall appearance.\n6. Simplified process, Toptal made hiring process easy and handy for Claudio.\n7. Became resource, Toptal became the first place Claudio sought for expert-level help.\n8. Differentiated roles, Claudio noted professional programmers actively thought of solutions before coding.\n9. Developed solutions, Adam architected and developed database and BI solutions efficiently.\n10. Ensured quality, Toptal's developers and architects provided high-quality solutions at reasonable prices.\n11. Reduced time, Toptal's solution decreased Claudio's time to launch significantly.\n12. Acknowledged limitations, Claudio recognized that not everyone could hire immediately.\n13. Suggested sourcing, Claudio advised starting to source candidates elsewhere if immediate hiring was not possible.\n14. Mentioned accreditation, Claudio emphasized the importance of Accredited professionals in the hiring process.\n15. Highlighted tools, Claudio considered using SharePoint and Scala for project management within 24 hours.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8888888888888888,
+        "preserved_count": 8,
+        "total_mandatory": 9,
+        "missing_entities": [
+          "joblane"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 11 doesn't start with verb",
+          "Step 12 doesn't start with verb",
+          "Step 14 doesn't start with verb",
+          "Step 15 doesn't start with verb"
+        ],
+        "total_steps": 15
+      }
+    },
+    "quality_score": 0.8133333333333332
+  },
+  {
+    "article_id": 28,
+    "original_procedural": "1. Announced highlights, Centre for Ecocities shared work highlights for 2023 and plans for 2024.  \n2. Kicked off projects, Centre initiated new projects over the past few months.  \n3. Launched International Ecological Footprint Learning Lab, Centre collaborated with York University and the University of Iceland, funded by SSHRC.  \n4. Improved methodologies, project aimed to enhance knowledge and student training in ecological footprinting at the urban scale.  \n5. Developed Urban Consumption Guidebook for Cities, Centre worked with C40 Cities, OneEarth Living, and Hot or Cool Institute.  \n6. Planned guide launch, Centre scheduled interactive resources for spring release.  \n7. Created BC-specific Policy and Planning Guide, Centre received funding from the Real Estate Foundation of BC.  \n8. Addressed priorities, guide aimed to tackle issues indicated by Consumption-Based Emission Inventories (CBEIs) while advancing equity.  \n9. Developed archetype tool, Centre simplified creation of CBEIs and Ecological Footprint assessments for communities across British Columbia.  \n10. Completed inventories, Centre used ecoCity Footprint Tool developed by Dr. Jennie Moore for Ecological Footprint assessments.  \n11. Engaged Peer Network, Christina Olsen coordinated efforts for sustainability and climate action in Victoria.  \n12. Led initiatives, Christina focused on enhancing ecological sustainability across British Columbia.",
+    "validated_procedural": "1. Announced highlights, Centre for Ecocities shared work highlights for 2023 and plans for 2024.\n2. Kicked off projects, Centre initiated new projects over the past few months.\n3. Launched International Ecological Footprint Learning Lab, Centre collaborated with York University and the University of Iceland, funded by SSHRC.\n4. Improved methodologies, project aimed to enhance knowledge and student training in ecological footprinting at the urban scale.\n5. Developed Urban Consumption Guidebook for Cities, Centre worked with C40 Cities, OneEarth Living, and Hot or Cool Institute.\n6. Planned guide launch, Centre scheduled interactive resources for spring release.\n7. Created BC-specific Policy and Planning Guide, Centre received funding from the Real Estate Foundation of BC.\n8. Addressed priorities, guide aimed to tackle issues indicated by Consumption-Based Emission Inventories (CBEIs) while advancing equity.\n9. Developed archetype tool, Centre simplified creation of CBEIs and Ecological Footprint assessments for communities across British Columbia.\n10. Completed inventories, Centre used ecoCity Footprint Tool developed by Dr. Jennie Moore for Ecological Footprint assessments.\n11. Engaged Peer Network, Christina Olsen coordinated efforts for sustainability and climate action in Victoria.\n12. Led initiatives, Christina focused on enhancing ecological sustainability across British Columbia.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 3 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 8 doesn't start with verb",
+          "Step 12 doesn't start with verb"
+        ],
+        "total_steps": 12
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 10,
+    "original_procedural": "1. Noted time of year, families spent days together at home and started challenging new jigsaw puzzles.  \n2. Identified problem, many families failed to have the right-sized surface for all puzzle pieces.  \n3. Solved problem, research paper revealed best table size was just under twice the size of the assembled puzzle.  \n4. Completed jigsaws, Dr. Madeleine Bonsma-Fisher and Dr. Kent Bonsma-Fisher completed nine jigsaws with pieces ranging from nine to 2,000.  \n5. Measured area, researchers found unassembled jigsaw puzzle took up an area about 1.7 times its finished size.  \n6. Laid out pieces, researchers placed pieces naturally for each puzzle without artificial proximity.  \n7. Completed jigsaws, researchers painstakingly finished each jigsaw and calculated length and width of the assembled picture.  \n8. Discovered theory, researchers found a simple theory predicted area needed for pieces regardless of number.  \n9. Expressed surprise, Dr. Madeleine Bonsma-Fisher of the University of Toronto gasped at the discovery.  \n10. Reported results, findings showed incredible agreement between theory and practice, as noted in New Scientist.",
+    "validated_procedural": "1. Noted time of year, families spent days together at home and started challenging new jigsaw puzzles.\n2. Identified problem, many families failed to have the right-sized surface for all puzzle pieces.\n3. Solved problem, research paper revealed best table size was just under twice the size of the assembled puzzle.\n4. Completed jigsaws, Dr. Madeleine Bonsma-Fisher and Dr. Kent Bonsma-Fisher completed nine jigsaws with pieces ranging from nine to 2,000.\n5. Measured area, researchers found unassembled jigsaw puzzle took up an area about 1.7 times its finished size.\n6. Laid out pieces, researchers placed pieces naturally for each puzzle without artificial proximity.\n7. Completed jigsaws, researchers painstakingly finished each jigsaw and calculated length and width of the assembled picture.\n8. Discovered theory, researchers found a simple theory predicted area needed for pieces regardless of number.\n9. Expressed surprise, Dr. Madeleine Bonsma-Fisher of the University of Toronto gasped at the discovery.\n10. Reported results, findings showed incredible agreement between theory and practice, as noted in New Scientist.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.6666666666666666,
+        "preserved_count": 4,
+        "total_mandatory": 6,
+        "missing_entities": [
+          "over a decade",
+          "the time of year"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 doesn't start with verb",
+          "Step 3 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.6799999999999999
+  },
+  {
+    "article_id": 53,
+    "original_procedural": "1. Attracted hard cash, individuals attracted prosperity from various sources through the Billionaire Brain Wave program.  \n2. Removed credit card debt, participants removed their credit card debt and raised their savings.  \n3. Made prudent investments, users made prudent investments and experienced financial freedom.  \n4. Recommended daily use, experts recommended utilizing the Billionaire Brain Wave daily for a full thirty day period.  \n5. Built program, the Billionaire Brain Wave was built to tap into the dormant Theta wave.  \n6. Enhanced waves, researchers utilized sound waves to enhance Theta waves for manifesting success.  \n7. Listened regularly, individuals listened to the Billionaire Brain Wave system regularly to reach their goals.  \n8. Concluded value, analysts concluded that The Billionaire Brain Wave was an excellent purchase for an affordable price.  \n9. Created program, Billionaire Brain Wave was created by Dave Mitchell, an average individual facing difficulties.",
+    "validated_procedural": "1. Attracted hard cash, individuals attracted prosperity from various sources through the Billionaire Brain Wave program.\n2. Removed credit card debt, participants removed their credit card debt and raised their savings.\n3. Made prudent investments, users made prudent investments and experienced financial freedom.\n4. Recommended daily use, experts recommended utilizing the Billionaire Brain Wave daily for a full thirty day period.\n5. Built program, the Billionaire Brain Wave was built to tap into the dormant Theta wave.\n6. Enhanced waves, researchers utilized sound waves to enhance Theta waves for manifesting success.\n7. Listened regularly, individuals listened to the Billionaire Brain Wave system regularly to reach their goals.\n8. Concluded value, analysts concluded that The Billionaire Brain Wave was an excellent purchase for an affordable price.\n9. Created program, Billionaire Brain Wave was created by Dave Mitchell, an average individual facing difficulties.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8571428571428571,
+        "preserved_count": 6,
+        "total_mandatory": 7,
+        "missing_entities": [
+          "awaken"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 9
+      }
+    },
+    "quality_score": 0.7942857142857143
+  },
+  {
+    "article_id": 4,
+    "original_procedural": "1. Rediscovered plants, community scientists rediscovered plants hidden deep within the tropical Andes after more than 100 years.  \n2. Included plants, rediscovered plants included Nasa genus from the Blazing Star family (Loasaceae).  \n3. Perplexed scientists, scientists were perplexed by plants due to their delicate yet painfully stinging leaves.  \n4. Found plants, most of these plants were found in specific regions and were rare.  \n5. Depended scientists, scientists depended on herbaria for plant data in the past.  \n6. Accessed data, scientists accessed biodiversity data through global networking and freely accessible data repositories.  \n7. Utilized platform, iNaturalist was utilized by users to post photographic records of plant occurrences.  \n8. Instrumental platform, iNaturalist proved instrumental in the rediscovery of Andean plants.  \n9. Documented species, Nasa colanii species had only been documented once in 1978.  \n10. Stumbled upon photograph, research team stumbled upon a 2019 photograph of Nasa colanii.  \n11. Identified species, Nasa ferox was identified in 2022 when users uploaded its photographs on iNaturalist.  \n12. Unreported duration, Nasa ferox had gone unreported for around 130 years.  \n13. Located sanctuary, Nasa colanii was native to an isolated cloud forest in Peru\u2019s Cordillera de Col\u00e1n National Sanctuary.  \n14. Situated elevation, Cordillera de Col\u00e1n National Sanctuary was situated at an elevation of 2,605 meters above sea level.  \n15. Mentioned location, the event occurred in LIMA, Peru.",
+    "validated_procedural": "1. Rediscovered plants, community scientists rediscovered plants hidden deep within the tropical Andes after more than 100 years.\n2. Included plants, rediscovered plants included Nasa genus from the Blazing Star family (Loasaceae).\n3. Perplexed scientists, scientists were perplexed by plants due to their delicate yet painfully stinging leaves.\n4. Found plants, most of these plants were found in specific regions and were rare.\n5. Depended scientists, scientists depended on herbaria for plant data in the past.\n6. Accessed data, scientists accessed biodiversity data through global networking and freely accessible data repositories.\n7. Utilized platform, iNaturalist was utilized by users to post photographic records of plant occurrences.\n8. Instrumental platform, iNaturalist proved instrumental in the rediscovery of Andean plants.\n9. Documented species, Nasa colanii species had only been documented once in 1978.\n10. Stumbled upon photograph, research team stumbled upon a 2019 photograph of Nasa colanii.\n11. Identified species, Nasa ferox was identified in 2022 when users uploaded its photographs on iNaturalist.\n12. Unreported duration, Nasa ferox had gone unreported for around 130 years.\n13. Located sanctuary, Nasa colanii was native to an isolated cloud forest in Peru\u2019s Cordillera de Col\u00e1n National Sanctuary.\n14. Situated elevation, Cordillera de Col\u00e1n National Sanctuary was situated at an elevation of 2,605 meters above sea level.\n15. Mentioned location, the event occurred in LIMA, Peru.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.7,
+        "preserved_count": 7,
+        "total_mandatory": 10,
+        "missing_entities": [
+          "the leibniz center for agricultural landscape research (zalf",
+          "nasa humboldtiana",
+          "the peruvian department of"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 3 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 8 doesn't start with verb",
+          "Step 11 doesn't start with verb",
+          "Step 12 doesn't start with verb",
+          "Step 14 doesn't start with verb",
+          "Step 15 doesn't start with verb"
+        ],
+        "total_steps": 15
+      }
+    },
+    "quality_score": 0.7
+  },
+  {
+    "article_id": 12,
+    "original_procedural": "1. Announced progress, Katherine Bennell-Pegg announced she was halfway through her year-long training at the European Astronaut Centre in Germany.  \n2. Relocated family, Ms Bennell-Beg and her family relocated to Europe for intensive training.  \n3. Applied for position, more than 22,000 people applied to the coveted astronaut candidate position.  \n4. Required training, the job required rigorous physical training and a year of intensive study.  \n5. Expressed dream, Katherine Bennell-Pegg expressed she had always dreamed of being an astronaut.  \n6. Explained motivation, Katherine Bennell-Pegg explained her motivation shifted from adventure to addressing real-world problems.  \n7. Expected activities, the next six months were expected to include intense exercise, sea survival, and studying space station robotic arm simulations.  \n8. Discussed medical training, Katherine Bennell-Pegg discussed the need to know medical procedures for astronauts.  \n9. Highlighted research support, Katherine Bennell-Pegg highlighted how space conditions accelerated medical issues for research support.  \n10. Served previously, Katherine Bennell-Pegg previously served as Director of Space at the Australian Space Agency.",
+    "validated_procedural": "1. Announced progress, Katherine Bennell-Pegg announced she was halfway through her year-long training at the European Astronaut Centre in Germany.\n2. Relocated family, Ms Bennell-Beg and her family relocated to Europe for intensive training.\n3. Applied for position, more than 22,000 people applied to the coveted astronaut candidate position.\n4. Required training, the job required rigorous physical training and a year of intensive study.\n5. Expressed dream, Katherine Bennell-Pegg expressed she had always dreamed of being an astronaut.\n6. Explained motivation, Katherine Bennell-Pegg explained her motivation shifted from adventure to addressing real-world problems.\n7. Expected activities, the next six months were expected to include intense exercise, sea survival, and studying space station robotic arm simulations.\n8. Discussed medical training, Katherine Bennell-Pegg discussed the need to know medical procedures for astronauts.\n9. Highlighted research support, Katherine Bennell-Pegg highlighted how space conditions accelerated medical issues for research support.\n10. Served previously, Katherine Bennell-Pegg previously served as Director of Space at the Australian Space Agency.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8,
+        "preserved_count": 8,
+        "total_mandatory": 10,
+        "missing_entities": [
+          "space technology",
+          "australian space agency(story8449301"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 6 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.76
+  },
+  {
+    "article_id": 49,
+    "original_procedural": "1. Continued offering free games, Epic Games Store made certain games free every day during holiday sales.  \n2. Announced free game, Epic Games announced Cat Quest as the free game on December 28.  \n3. Released game, Cat Quest, dubbed \u201cDiablo the Cat,\u201d was released in 2017.  \n4. Developed game, Gentlebros developed Cat Quest, featuring real-time combat and dungeon adventures.  \n5. Set game, Cat Quest was set in the colorful world of Felingard.  \n6. Included locations, Cat Quest included locations such as Bermewdas Triangle, Furbidden Fields, and Pawt City.  \n7. Offered game, Epic Games made Cursed to Golf free before December 29.  \n8. Provided download, Cat Quest could be downloaded for free until December 29 at 19:00.  \n9. Listed normal price, Cat Quest's normal price was $2.99.  \n10. Instructed steps, Epic Games provided steps to get the game for free.  \n11. Required sign-in, users had to sign in via the Epic Games Store website or desktop app.  \n12. Entered game page, users entered the \u201cCat Quest\u201d page.  \n13. Clicked purchase button, users clicked the purchase button on the right side.  \n14. Waited for process, users waited for the process to complete.",
+    "validated_procedural": "1. Continued offering free games, Epic Games Store made certain games free every day during holiday sales.\n2. Announced free game, Epic Games announced Cat Quest as the free game on December 28.\n3. Released game, Cat Quest, dubbed \u201cDiablo the Cat,\u201d was released in 2017.\n4. Developed game, Gentlebros developed Cat Quest, featuring real-time combat and dungeon adventures.\n5. Set game, Cat Quest was set in the colorful world of Felingard.\n6. Included locations, Cat Quest included locations such as Bermewdas Triangle, Furbidden Fields, and Pawt City.\n7. Offered game, Epic Games made Cursed to Golf free before December 29.\n8. Provided download, Cat Quest could be downloaded for free until December 29 at 19:00.\n9. Listed normal price, Cat Quest's normal price was $2.99.\n10. Instructed steps, Epic Games provided steps to get the game for free.\n11. Required sign-in, users had to sign in via the Epic Games Store website or desktop app.\n12. Entered game page, users entered the \u201cCat Quest\u201d page.\n13. Clicked purchase button, users clicked the purchase button on the right side.\n14. Waited for process, users waited for the process to complete.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.7777777777777778,
+        "preserved_count": 7,
+        "total_mandatory": 9,
+        "missing_entities": [
+          "dubbed diablo",
+          "comments"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 10 doesn't start with verb",
+          "Step 11 doesn't start with verb",
+          "Step 13 doesn't start with verb"
+        ],
+        "total_steps": 14
+      }
+    },
+    "quality_score": 0.7466666666666666
+  },
+  {
+    "article_id": 33,
+    "original_procedural": "1. Declared opinion piece, The New York Times declared AI as the \u201cfuture of photography\u201d in 2023.  \n2. Looked back, PetaPixel looked back on a momentous year for AI images.  \n3. Suspected staff, PetaPixel staff suspected an AI image would win a photography contest in 2023.  \n4. Won contest, An AI image won a photo contest run by an Australian electronics company in February.  \n5. Confessed company, The company confessed it created \u201cthe world\u2019s first AI-generated award-winning photograph.\u201d  \n6. Said Absolutely Ai, Absolutely Ai said they aimed to prove a turning point with AI technology.  \n7. Sparked controversy, Distinguished photojournalist Michael Christopher Brown sparked controversy after releasing an AI series.  \n8. Attempted to illustrate, Brown attempted to illustrate stories impossible to document with a camera.  \n9. Turned to AI, Brown turned to AI for his project 90 Miles about Cubans crossing the 90.",
+    "validated_procedural": "1. Declared opinion piece, The New York Times declared AI as the \u201cfuture of photography\u201d in 2023.\n2. Looked back, PetaPixel looked back on a momentous year for AI images.\n3. Suspected staff, PetaPixel staff suspected an AI image would win a photography contest in 2023.\n4. Won contest, An AI image won a photo contest run by an Australian electronics company in February.\n5. Confessed company, The company confessed it created \u201cthe world\u2019s first AI-generated award-winning photograph.\u201d\n6. Said Absolutely Ai, Absolutely Ai said they aimed to prove a turning point with AI technology.\n7. Sparked controversy, Distinguished photojournalist Michael Christopher Brown sparked controversy after releasing an AI series.\n8. Attempted to illustrate, Brown attempted to illustrate stories impossible to document with a camera.\n9. Turned to AI, Brown turned to AI for his project 90 Miles about Cubans crossing the 90.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.2857142857142857,
+        "preserved_count": 2,
+        "total_mandatory": 7,
+        "missing_entities": [
+          "levis",
+          "the sony world photography awards",
+          "instagram",
+          "vogue",
+          "trump"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 doesn't start with verb",
+          "Step 4 doesn't start with verb"
+        ],
+        "total_steps": 9
+      }
+    },
+    "quality_score": 0.4514285714285714
+  },
+  {
+    "article_id": 68,
+    "original_procedural": "1. Starred in documentary, Mark Kistler starred in The Secret Cities of Mark Kistler, which told the story of Kistler\u2019s legacy.  \n2. Featured Corgan Pictures, Corgan Pictures produced the documentary.  \n3. Had big bright eyes, Commander Mark had big bright eyes and a wide mustachioed smile.  \n4. Wore bright red coveralls, Commander Mark wore bright red military coveralls filled with magic markers.  \n5. Used catchphrase, Commander Mark used the catchphrase \u201cDream it. Draw it. Do it.\u201d  \n6. Taught millions, Millions of children tuned in to PBS to watch Commander Mark teach drawing.  \n7. Released documentary, Forty years later, a new documentary told the story of Mark Kistler.  \n8. Created shows, Mark Kistler created the shows The Secret City, Draw Squad and Imagination Station.  \n9. Born in Ohio, Mark Kistler was born in Ohio.  \n10. Grew up in Southern California, Mark Kistler grew up in Southern California as the youngest of five Kistlers.  \n11. Encouraged by mother, Kistler\u2019s mother encouraged him to follow his passion for art.  \n12. Bought art supplies, Kistler\u2019s mother bought him art supplies for his artistic pursuits.  \n13. Turned closet into studio, Kistler turned his bedroom closet into a tiny art studio.  \n14. Loved Disney animations, Kistler loved Disney animations and dreamed of becoming an animator.  \n15. Taught drawing workshops, Kistler began teaching drawing workshops for kids as a teenager.  \n16. Fell in love with teaching, Kistler fell in love with teaching art through local parks and rec programming.  \n17. Set goal, Kistler set a goal to teach a million kids to draw.  \n18. Believed in idea, Kistler believed anyone could learn to draw.",
+    "validated_procedural": "1. Starred in documentary, Mark Kistler starred in The Secret Cities of Mark Kistler, which told the story of Kistler\u2019s legacy.\n2. Featured Corgan Pictures, Corgan Pictures produced the documentary.\n3. Had big bright eyes, Commander Mark had big bright eyes and a wide mustachioed smile.\n4. Wore bright red coveralls, Commander Mark wore bright red military coveralls filled with magic markers.\n5. Used catchphrase, Commander Mark used the catchphrase \u201cDream it. Draw it. Do it.\u201d\n6. Taught millions, Millions of children tuned in to PBS to watch Commander Mark teach drawing.\n7. Released documentary, Forty years later, a new documentary told the story of Mark Kistler.\n8. Created shows, Mark Kistler created the shows The Secret City, Draw Squad and Imagination Station.\n9. Born in Ohio, Mark Kistler was born in Ohio.\n10. Grew up in Southern California, Mark Kistler grew up in Southern California as the youngest of five Kistlers.\n11. Encouraged by mother, Kistler\u2019s mother encouraged him to follow his passion for art.\n12. Bought art supplies, Kistler\u2019s mother bought him art supplies for his artistic pursuits.\n13. Turned closet into studio, Kistler turned his bedroom closet into a tiny art studio.\n14. Loved Disney animations, Kistler loved Disney animations and dreamed of becoming an animator.\n15. Taught drawing workshops, Kistler began teaching drawing workshops for kids as a teenager.\n16. Fell in love with teaching, Kistler fell in love with teaching art through local parks and rec programming.\n17. Set goal, Kistler set a goal to teach a million kids to draw.\n18. Believed in idea, Kistler believed anyone could learn to draw.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.8888888888888888,
+        "preserved_count": 8,
+        "total_mandatory": 9,
+        "missing_entities": [
+          "40 years later"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 2 doesn't start with verb",
+          "Step 14 doesn't start with verb",
+          "Step 15 doesn't start with verb",
+          "Step 17 doesn't start with verb"
+        ],
+        "total_steps": 18
+      }
+    },
+    "quality_score": 0.8133333333333332
+  },
+  {
+    "article_id": 35,
+    "original_procedural": "1. Announced awards, PC Gamer announced the best motherboard of 2023 on 28 December 2023.  \n2. Described importance, Dave James described the motherboard as integral to PC building.  \n3. Explained motherboard functions, motherboard determined processor generation and manufacturer choices.  \n4. Discussed storage options, motherboard determined storage types available for selection.  \n5. Highlighted aesthetic impact, motherboard influenced PC appearance and form factor.  \n6. Noted performance plateau, relative performance between boards on the same chipset plateaued.  \n7. Reviewed boards, many different boards with AMD and Intel chipsets were reviewed this year.  \n8. Identified nominees, three motherboards had a chance to win a PC Gamer Hardware Award.  \n9. Listed nominees, ASRock Z790 Riptide WiFi was nominated for the best motherboard of 2023.  \n10. Acknowledged ASRock's progress, ASRock had come a long way in the past few years.",
+    "validated_procedural": "1. Announced awards, PC Gamer announced the best motherboard of 2023 on 28 December 2023.\n2. Described importance, Dave James described the motherboard as integral to PC building.\n3. Explained motherboard functions, motherboard determined processor generation and manufacturer choices.\n4. Discussed storage options, motherboard determined storage types available for selection.\n5. Highlighted aesthetic impact, motherboard influenced PC appearance and form factor.\n6. Noted performance plateau, relative performance between boards on the same chipset plateaued.\n7. Reviewed boards, many different boards with AMD and Intel chipsets were reviewed this year.\n8. Identified nominees, three motherboards had a chance to win a PC Gamer Hardware Award.\n9. Listed nominees, ASRock Z790 Riptide WiFi was nominated for the best motherboard of 2023.\n10. Acknowledged ASRock's progress, ASRock had come a long way in the past few years.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.875,
+        "preserved_count": 7,
+        "total_mandatory": 8,
+        "missing_entities": [
+          "tomahawk wifi"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 2 doesn't start with verb",
+          "Step 3 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 8 doesn't start with verb",
+          "Step 10 doesn't start with verb"
+        ],
+        "total_steps": 10
+      }
+    },
+    "quality_score": 0.8049999999999999
+  },
+  {
+    "article_id": 69,
+    "original_procedural": "1. Stated innovation, individuals stated innovation made lives easier repeatedly.  \n2. Spoke with grandmother, individuals spoke with their grandmothers about fortunate innovations simplifying tasks.  \n3. Needed appreciation, individuals needed to appreciate innovations used today.  \n4. Integrated imagination, imagination combined with hunger drove exploration to depths of seas and heights of stars.  \n5. Questioned mind, he questioned what kind of mind would read such garbage.  \n6. Warned closed minds, he warned that closed minds would keep society in horse and buggy days.  \n7. Observed health benefits, individuals observed that they contracted colds and infections less frequently.  \n8. Found pain reduction, individuals found that headaches and lower back pain were minimized or disappeared.  \n9. Discovered membrane feature, scientists discovered a great feature of GORE-TEX when 'sandwiching' it between two breathable materials.  \n10. Maintained properties, it was found that waterproof and breathable properties of GORE-TEX remained intact in the 'sandwich'.  \n11. Promoted Healthier Life, innovations contributed to a Healthier Life through various benefits.",
+    "validated_procedural": "1. Stated innovation, individuals stated innovation made lives easier repeatedly.\n2. Spoke with grandmother, individuals spoke with their grandmothers about fortunate innovations simplifying tasks.\n3. Needed appreciation, individuals needed to appreciate innovations used today.\n4. Integrated imagination, imagination combined with hunger drove exploration to depths of seas and heights of stars.\n5. Questioned mind, he questioned what kind of mind would read such garbage.\n6. Warned closed minds, he warned that closed minds would keep society in horse and buggy days.\n7. Observed health benefits, individuals observed that they contracted colds and infections less frequently.\n8. Found pain reduction, individuals found that headaches and lower back pain were minimized or disappeared.\n9. Discovered membrane feature, scientists discovered a great feature of GORE-TEX when 'sandwiching' it between two breathable materials.\n10. Maintained properties, it was found that waterproof and breathable properties of GORE-TEX remained intact in the 'sandwich'.\n11. Promoted Healthier Life, innovations contributed to a Healthier Life through various benefits.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 2,
+        "total_mandatory": 2,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 7 doesn't start with verb"
+        ],
+        "total_steps": 11
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 45,
+    "original_procedural": "1. Served patients, Dr. Brian S. Vence practiced dentistry in Oakbrook Terrace, Illinois.  \n2. Dedicated time, Dr. Vence committed over 35 years to working with thousands of patients.  \n3. Achieved outcomes, Dr. Vence utilized dental expertise and a collaborative, empathetic approach.  \n4. Applied principles, Dr. Vence integrated established methods with contemporary techniques in his practice.  \n5. Forged connections, Dr. Vence and his team built genuine relationships with patients.  \n6. Aimed to help, Dr. Vence sought to promote enduring oral health for his patients.  \n7. Witnessed growth, Dr. Vence observed the development of his assistants and office staff.  \n8. Began journey, Dr. Vence started working in his dad\u2019s lab 46 years ago during 8th grade.  \n9. Engaged in art, Dr. Vence participated in art projects influenced by his mom\u2019s artistic inclinations.  \n10. Developed desire, Dr. Vence cultivated a passion for enhancing the elegance of teeth through restoration.  \n11. Published manuscripts, Dr. Vence contributed to Quintessence of Dental Technology and other journals.  \n12. Operated Vence Dentistry, Dr. Vence served as the Owner of Vence Dentistry in Oakbrook Terrace, Illinois.  \n13. Reported location, New York City, New York was mentioned in the context of the article.",
+    "validated_procedural": "1. Served patients, Dr. Brian S. Vence practiced dentistry in Oakbrook Terrace, Illinois.\n2. Dedicated time, Dr. Vence committed over 35 years to working with thousands of patients.\n3. Achieved outcomes, Dr. Vence utilized dental expertise and a collaborative, empathetic approach.\n4. Applied principles, Dr. Vence integrated established methods with contemporary techniques in his practice.\n5. Forged connections, Dr. Vence and his team built genuine relationships with patients.\n6. Aimed to help, Dr. Vence sought to promote enduring oral health for his patients.\n7. Witnessed growth, Dr. Vence observed the development of his assistants and office staff.\n8. Began journey, Dr. Vence started working in his dad\u2019s lab 46 years ago during 8th grade.\n9. Engaged in art, Dr. Vence participated in art projects influenced by his mom\u2019s artistic inclinations.\n10. Developed desire, Dr. Vence cultivated a passion for enhancing the elegance of teeth through restoration.\n11. Published manuscripts, Dr. Vence contributed to Quintessence of Dental Technology and other journals.\n12. Operated Vence Dentistry, Dr. Vence served as the Owner of Vence Dentistry in Oakbrook Terrace, Illinois.\n13. Reported location, New York City, New York was mentioned in the context of the article.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.9090909090909091,
+        "preserved_count": 10,
+        "total_mandatory": 11,
+        "missing_entities": [
+          "dec 28, 2023"
+        ],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb",
+          "Step 2 doesn't start with verb",
+          "Step 4 doesn't start with verb",
+          "Step 5 doesn't start with verb",
+          "Step 8 doesn't start with verb",
+          "Step 12 doesn't start with verb"
+        ],
+        "total_steps": 13
+      }
+    },
+    "quality_score": 0.8254545454545454
+  },
+  {
+    "article_id": 75,
+    "original_procedural": "1. Worked to build better bread, scientists worked in the farm fields near Mount Vernon.  \n2. Said Dr. Stephen Jones, bread is science involving physics, chemistry, and biology.  \n3. Explored science of tasty whole grain loaves, The Washington State University Bread Lab explored since 2011.  \n4. Developed affordable, nutritious, and delicious bread, lab aimed to develop bread using grains grown west of the Cascades.  \n5. Toured bread lab, Bill Gates toured The Washington State University Bread Lab.  \n6. Sponsored research, Patagonia Provisions sponsored research at the lab.  \n7. Developed healthier flour tortilla, The Bread Lab developed a healthier flour tortilla for Chipotle.  \n8. Came to lab, Chipotle came to The Washington State University Bread Lab a few years ago.  \n9. Wanted to remove ingredients, Chipotle wanted to take some ingredients out of their tortillas.  \n10. Said baking instructor Juli Hammond, classes aimed to reduce intimidation for students.  \n11. Sent home with baked goods, students in Cooking with Whole Grains class went home with whole wheat loaves, scones, and gingerbread.  \n12. Explained baking student Ann Templeton Monin, baking evoked childhood memories of watching grandmother make buttermilk biscuits.  \n13. Mentioned measurement, recipe included 14 cup of ingredients for baking.  \n14. Spent time baking, students spent about one hour in the Cooking with Whole Grains class.",
+    "validated_procedural": "1. Worked to build better bread, scientists worked in the farm fields near Mount Vernon.\n2. Said Dr. Stephen Jones, bread is science involving physics, chemistry, and biology.\n3. Explored science of tasty whole grain loaves, The Washington State University Bread Lab explored since 2011.\n4. Developed affordable, nutritious, and delicious bread, lab aimed to develop bread using grains grown west of the Cascades.\n5. Toured bread lab, Bill Gates toured The Washington State University Bread Lab.\n6. Sponsored research, Patagonia Provisions sponsored research at the lab.\n7. Developed healthier flour tortilla, The Bread Lab developed a healthier flour tortilla for Chipotle.\n8. Came to lab, Chipotle came to The Washington State University Bread Lab a few years ago.\n9. Wanted to remove ingredients, Chipotle wanted to take some ingredients out of their tortillas.\n10. Said baking instructor Juli Hammond, classes aimed to reduce intimidation for students.\n11. Sent home with baked goods, students in Cooking with Whole Grains class went home with whole wheat loaves, scones, and gingerbread.\n12. Explained baking student Ann Templeton Monin, baking evoked childhood memories of watching grandmother make buttermilk biscuits.\n13. Mentioned measurement, recipe included 14 cup of ingredients for baking.\n14. Spent time baking, students spent about one hour in the Cooking with Whole Grains class.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.75,
+        "preserved_count": 6,
+        "total_mandatory": 8,
+        "missing_entities": [
+          "courtesy king",
+          "arthur unbleached"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 doesn't start with verb",
+          "Step 6 doesn't start with verb",
+          "Step 7 doesn't start with verb"
+        ],
+        "total_steps": 14
+      }
+    },
+    "quality_score": 0.73
+  },
+  {
+    "article_id": 62,
+    "original_procedural": "1. Stated CEO RJ Scaringe, Rivian\u2019s upcoming R2 model would be its version of the Tesla Model 3.  \n2. Noted that Rivian\u2019s R2 would help shape the EV startup\u2019s future despite not resembling the Tesla Model 3.  \n3. Mentioned that Tesla released the Roadster in 2008, leading to the Model S in 2012.  \n4. Announced Tesla's first mass-market electric car, the Model 3, several years later.  \n5. Described by CEO Elon Musk, Tesla went through \u201cproduction hell\u201d ramping up the Model 3.  \n6. Became the best-selling EV globally, Tesla\u2019s Model 3 held the title until the Model Y topped it in 2020.  \n7. Predicted that Tesla\u2019s Model 3 would be among the top-selling vehicles globally in 2023.  \n8. Reported that Rivian ramped production all year despite rivals cutting EV targets.  \n9. Raised production goal, Rivian aimed to build 52,000 vehicles this year following strong Q3 results.  \n10. Produced more than double the 24,337 vehicles last year, Rivian increased its production target.  \n11. Chose Clayco as its partner earlier this month to build its $5 billion EV plant in Georgia.  \n12. Stated that the new facility would be home to Rivian\u2019s R2 vehicles.  \n13. Mentioned that Scaringe previously said R2 would start at around $40,000 to $50,000.",
+    "validated_procedural": "1. Stated CEO RJ Scaringe, Rivian\u2019s upcoming R2 model would be its version of the Tesla Model 3.\n2. Noted that Rivian\u2019s R2 would help shape the EV startup\u2019s future despite not resembling the Tesla Model 3.\n3. Mentioned that Tesla released the Roadster in 2008, leading to the Model S in 2012.\n4. Announced Tesla's first mass-market electric car, the Model 3, several years later.\n5. Described by CEO Elon Musk, Tesla went through \u201cproduction hell\u201d ramping up the Model 3.\n6. Became the best-selling EV globally, Tesla\u2019s Model 3 held the title until the Model Y topped it in 2020.\n7. Predicted that Tesla\u2019s Model 3 would be among the top-selling vehicles globally in 2023.\n8. Reported that Rivian ramped production all year despite rivals cutting EV targets.\n9. Raised production goal, Rivian aimed to build 52,000 vehicles this year following strong Q3 results.\n10. Produced more than double the 24,337 vehicles last year, Rivian increased its production target.\n11. Chose Clayco as its partner earlier this month to build its $5 billion EV plant in Georgia.\n12. Stated that the new facility would be home to Rivian\u2019s R2 vehicles.\n13. Mentioned that Scaringe previously said R2 would start at around $40,000 to $50,000.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.5,
+        "preserved_count": 5,
+        "total_mandatory": 10,
+        "missing_entities": [
+          "amazon",
+          "teslas",
+          "teslas model 3",
+          "rivian r1",
+          "next year"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 1 doesn't start with verb"
+        ],
+        "total_steps": 13
+      }
+    },
+    "quality_score": 0.58
+  },
+  {
+    "article_id": 56,
+    "original_procedural": "1. Started career, Options Nate began his software development career in company intelligence in 2010 after years of programming as a hobby.  \n2. Graduated, Options Nate graduated in Computer Science in 2013.  \n3. Worked, Options Nate worked in web application development, ERP (NetSuite) customization, and program integrations.  \n4. Hired developers, companies hired PHP developers for greenfield projects.  \n5. Defined scope, companies defined the scope of their projects before hiring PHP developers.  \n6. Wrote details, companies wrote down project details to clarify skills gaps and future needs.  \n7. Searched for skills, companies looked for developers with communication skills, teamwork abilities, and problem-solving aptitude.  \n8. Bound values, developers bound input values to placeholders in SQL statements to prevent unauthorized SQL functions.  \n9. Gained experience, Options Nate gained self-expertise for future trials in Izmir, Turkey.  \n10. Worked efficiently, companies experienced efficiency boosts from using PHP technologies like WordPress, Drupal, Laravel, or Symfony.  \n11. Considered flexibility, companies considered whether to hire full-time staff or opt for freelancers for project needs.  \n12. Collaborated successfully, developers optimized collaboration opportunities through effective communication and adaptability.  \n13. Completed work, Options Nate completed work successfully over 7 days-very.",
+    "validated_procedural": "1. Started career, Options Nate began his software development career in company intelligence in 2010 after years of programming as a hobby.\n2. Graduated, Options Nate graduated in Computer Science in 2013.\n3. Worked, Options Nate worked in web application development, ERP (NetSuite) customization, and program integrations.\n4. Hired developers, companies hired PHP developers for greenfield projects.\n5. Defined scope, companies defined the scope of their projects before hiring PHP developers.\n6. Wrote details, companies wrote down project details to clarify skills gaps and future needs.\n7. Searched for skills, companies looked for developers with communication skills, teamwork abilities, and problem-solving aptitude.\n8. Bound values, developers bound input values to placeholders in SQL statements to prevent unauthorized SQL functions.\n9. Gained experience, Options Nate gained self-expertise for future trials in Izmir, Turkey.\n10. Worked efficiently, companies experienced efficiency boosts from using PHP technologies like WordPress, Drupal, Laravel, or Symfony.\n11. Considered flexibility, companies considered whether to hire full-time staff or opt for freelancers for project needs.\n12. Collaborated successfully, developers optimized collaboration opportunities through effective communication and adaptability.\n13. Completed work, Options Nate completed work successfully over 7 days-very.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 1.0,
+        "preserved_count": 9,
+        "total_mandatory": 9,
+        "missing_entities": [],
+        "passed": true
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 3 doesn't start with verb",
+          "Step 8 doesn't start with verb"
+        ],
+        "total_steps": 13
+      }
+    },
+    "quality_score": 0.8799999999999999
+  },
+  {
+    "article_id": 40,
+    "original_procedural": "1. Managed mission, NASA took pieces from the Bennu Asteroid and brought them down to Earth in 2023.  \n2. Set out to explore, spacecraft explored the metallic asteroid Psyche after the successful mission.  \n3. Opened mystery, Hubble and James Webb Space Telescopes revealed cosmic objects to the world.  \n4. Published video, NASA explained its goals for 2024 through a video on social media.  \n5. Became important year, 2023 was recognized as an important year for the space world.  \n6. Gained importance, private space companies gained significance in the space industry during 2023.  \n7. Planned mission, NASA planned to set foot on the Moon\u2019s surface in 2024.  \n8. Anticipated mission, Artemis II flight aimed to bring 4 astronauts within 80 miles of the Moon.  \n9. Cooperated with SpaceX, NASA partnered with SpaceX for the Artemis III flight to land on the Moon.  \n10. Developed rocket, SpaceX worked on the Starship Rocket for the Artemis missions.  \n11. Performed tests, SpaceX conducted 2 tests of the Starship Rocket, which had not yet reached orbit.  \n12. Planned launch, NASA scheduled the Artemis Mission for November 2024 to test the new Space Launch System (SLS) rocket.  \n13. Followed path, astronauts planned to follow the same path as the uncrewed Artemis mission during the launch.",
+    "validated_procedural": "1. Managed mission, NASA took pieces from the Bennu Asteroid and brought them down to Earth in 2023.\n2. Set out to explore, spacecraft explored the metallic asteroid Psyche after the successful mission.\n3. Opened mystery, Hubble and James Webb Space Telescopes revealed cosmic objects to the world.\n4. Published video, NASA explained its goals for 2024 through a video on social media.\n5. Became important year, 2023 was recognized as an important year for the space world.\n6. Gained importance, private space companies gained significance in the space industry during 2023.\n7. Planned mission, NASA planned to set foot on the Moon\u2019s surface in 2024.\n8. Anticipated mission, Artemis II flight aimed to bring 4 astronauts within 80 miles of the Moon.\n9. Cooperated with SpaceX, NASA partnered with SpaceX for the Artemis III flight to land on the Moon.\n10. Developed rocket, SpaceX worked on the Starship Rocket for the Artemis missions.\n11. Performed tests, SpaceX conducted 2 tests of the Starship Rocket, which had not yet reached orbit.\n12. Planned launch, NASA scheduled the Artemis Mission for November 2024 to test the new Space Launch System (SLS) rocket.\n13. Followed path, astronauts planned to follow the same path as the uncrewed Artemis mission during the launch.",
+    "validation_results": {
+      "entity_preservation": {
+        "preservation_rate": 0.7,
+        "preserved_count": 7,
+        "total_mandatory": 10,
+        "missing_entities": [
+          "europa",
+          "a busy year",
+          "viper"
+        ],
+        "passed": false
+      },
+      "format_consistency": {
+        "passed": false,
+        "issues": [
+          "Step 8 doesn't start with verb",
+          "Step 11 doesn't start with verb",
+          "Step 12 doesn't start with verb"
+        ],
+        "total_steps": 13
+      }
+    },
+    "quality_score": 0.7
+  }
+]

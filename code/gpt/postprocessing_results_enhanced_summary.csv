@@ -1,0 +1,6 @@
+article_id,quality_score,passed,format_passed,format_issues,entity_passed,entity_preservation_rate,mandatory_preserved,mandatory_total,missing_critical_count
+30,0.6666666666666667,False,True,0,False,0.3333333333333333,4,12,8
+0,0.6176470588235294,False,True,0,False,0.23529411764705882,4,17,13
+22,0.7142857142857142,True,True,0,False,0.42857142857142855,15,35,20
+31,0.7619047619047619,True,True,0,False,0.5238095238095238,11,21,10
+18,0.8,True,True,0,False,0.6,6,10,4
